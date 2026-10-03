@@ -171,6 +171,9 @@ Lines tagged [Emerald knowledge] fill gaps where the scan was unreadable; say so
   - **Step-by-step battle plan**: numbered turns: lead and party order, who attacks what, and
     at each KO who comes in next (`next`) and who to switch to.
   For a gym leader, the rival or another big fight, give both unless asked for one.
+  - **Berries**: whenever you give battle data, end with one line per team member: the berry
+    to hold, its PokéMart code from `my-run.md`, and why (Lum for status-prone ones facing Thunder
+    Wave, sleep or confusion; Sitrus otherwise; never Lum on a type immune to the status).
 - One line per opposing Pokémon: the ✅ part (who to send, and the move to use), then the ❌ part
   (who to keep out, with the move that threatens them in brackets). Nothing else on the line:
   no extra notes between ✅ and ❌, where the user once misread who to send and lost a Pokémon.
