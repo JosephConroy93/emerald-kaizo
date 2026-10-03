@@ -26,13 +26,13 @@ in SKILL.md). Last updated 2026-10-03.
   Fire Stone.
 
 ## Team (nickname: species)
-- **Federer**: Marshtomp, Lv 24, male.
-- **Xatu**: Xatu, Lv 25, just evolved from the candied Natu; swapped in for Milton for the May
+- **Federer**: Marshtomp, Lv 25, male.
+- **Xatu**: Xatu, Lv 26, just evolved from the candied Natu; swapped in for Milton for the May
   rematch. Should know Psychic and Aerial Ace (moves not confirmed yet).
 - **Bouncyboi**: Spoink, Lv 25. Psybeam, Bounce, Psywave, Confuse Ray. Becomes Grumpig at 27.
-- **Bron**: Numel, Lv 22, female. Ember, Stomp, Flame Wheel, Magnitude.
-- **Dave**: Electrike, Lv 20, female. Thunder Wave, Quick Attack, Bite, Shock Wave.
-- **Azumarill**: Azumarill, Lv 23, Huge Power, holds Silk Scarf. Body Slam, Ice Punch, Water Pulse, Bubblebeam.
+- **Bron**: Numel, Lv 25, female. Ember, Stomp, Flame Wheel, Magnitude.
+- **Dave**: Electrike, Lv 22, female. Thunder Wave, Quick Attack, Bite, Shock Wave.
+- **Azumarill**: Azumarill, Lv 26, Huge Power, holds Silk Scarf. Body Slam, Ice Punch, Water Pulse, Bubblebeam.
 
 ## Box worth remembering
 - **Azurill**: Lv 19, Huge Power, knows Charm and Body Slam. Plan: battle it to 21 for Bounce,
