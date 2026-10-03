@@ -12,13 +12,15 @@ in SKILL.md). Last updated 2026-10-03.
 - No items from the bag in battle. Held items are fine.
 - Not a hardcore Nuzlocke: a wipe means respawning at the Pokémon Center.
 - Level cap: the next gym leader's highest level (Brawly 19, Wattson 29, Flannery 42, Norman 48).
-- Rare Candies only bring a new catch up to the team's current level (19 at present). Never
+- Rare Candies only bring a new catch up to the team's highest level (25 at present). Never
   candy the main team past that; the rest comes from battling.
 - Cheats: only the PokéMart item code below. Never the EXP codes.
 
 ## Progress
 - Badges: Stone, Knuckle. Next leader: Wattson (cap 29).
-- Now on Route 110, heading for Mauville.
+- Now on Route 110, heading for Mauville. Lost once to May's Grovyle (Lv 26), which swept the
+  team. Plan: catch Growlithe and Slugma in Oldale Town, candy Growlithe to 25 (Flame Wheel at 19,
+  Body Slam at 25), evolve it into Arcanine with the Slugma's Fire Stone, then rematch.
 
 ## Team (nickname: species)
 - **Federer**: Marshtomp, Lv 24, male.
@@ -35,6 +37,7 @@ in SKILL.md). Last updated 2026-10-03.
 - **Natu**: Lv 19. Evolves into Xatu at 25 and learns Psychic then.
 - **Nidorino**: has Peck. Evolves with a Moon Stone; wild Skitty on Route 103 hold one half the time.
 - **Luvdisc**: Lv 20, fast Charm user.
+- **Arcanine plan**: after evolving, relearn Heat Wave (its Lv 1 move) at the Fallarbor Move Relearner.
 - Also: Marill (Thick Fat), Mankey, Drowzee, Ralts, Chimecho, Unown, Snorunt, Totodile, Squirtle.
 
 ## Cheat codes (RetroArch, mGBA core, Code Breaker format)
