@@ -36,7 +36,8 @@ in SKILL.md). Last updated 2026-10-03.
 - **Azurill**: Lv 19, Huge Power, knows Charm and Body Slam. Plan: battle it to 21 for Bounce,
   raise friendship to 220 with vitamins (or a Soothe Bell), then level it to evolve into
   Azumarill with Charm, Body Slam and Bounce.
-- **Natu**: Lv 19. Evolves into Xatu at 25 and learns Psychic then.
+- **Natu**: being candied to the team max to learn Psychic and evolve into Xatu at 25. Its
+  Aerial Ace is the second answer to May's Grovyle, alongside the Arcanine plan.
 - **Nidorino**: has Peck. Evolves with a Moon Stone; wild Skitty on Route 103 hold one half the time.
 - **Luvdisc**: Lv 20, fast Charm user.
 - **Arcanine plan**: after evolving, relearn Heat Wave (its Lv 1 move) at the Fallarbor Move Relearner.
