@@ -1,0 +1,93 @@
+Move Changes by gn0mis
+
+
+Comet Punch -> Weather Ball (Water, 100 BP, 100% acc, 15 PP)
+Vice Grip -> Weather Ball (Fire, 100 BP, 100% acc, 15 PP)
+Cut, Disable, Rolling Kick, Wrap, Sonicboom, Whirlpool, Sand Tomb, and Muddy Water are all 100% accuracy
+Rock Smash is 40 BP
+Swords Dance, Whirlwind, Roar, Sand Attack, Growth, String Shot, Meditate, Harden, Smokescreen, Haze, Flash, Endure, Charm, Flail, Reversal, Sweet Scent and Knock Off all have 5 PP
+Horn Drill -> Drill Run (80 BP, 100% acc, 16 PP, high crit rate)
+Tail Whip, Leer, Growl, Withdraw, Defense Curl, Focus Energy, Selfdestruct, Explosion, Sandstorm, Rapid Spin, Sunny Day, Rain Dance, Hail, Memento, Ingrain, and Endeavor all have 1 PP
+Pin Missile now has 100% accuracy and 15 BP
+Sing now has 70% accuracy and 32 PP
+Mist, Agility, Screech, Light Screen, Reflect, Acid Armor, Belly Drum, Safeguard, Tail Glow, Bulk Up, Calm Mind, Dragon Dance, and Fake Tears all have 3 PP
+Double-Edge, Flamethrower, Surf, Sleep Powder, Thunderbolt, Icy Wind, Crunch, Signal Beam, and Dragon Claw all have 24 PP
+Hydro Pump, Blizzard, Fire Blast, and Cross Chop all have 8 PP
+Ice Beam, Leech Seed, SolarBeam, Thunder Wave, Thunder, Earthquake, Psychic, Sludge Bomb, Softboiled, Tri Attack, Spite, Sleep Talk and Weather Ball all have 16 PP
+Hyper Beam, Blast Burn, Hydro Cannon, Frenzy Plant all have 100% accuracy and 8 PP
+Counter, Mirror Coat, and Facade have 32 PP
+Petal Dance is 95 BP with a 10% Chance to drop Sp. Def
+Fire Spin has 100% accuracy and 24 PP
+Fissure -> Earth Power (90 BP, 100% Acc, 16 PP, 30% chance to drop Def)
+Toxic has 100% accuracy and 16 PP
+Hypnosis and Grasswhistle have 70% accuracy and 24 PP
+Double Team, Minimize, Curse, Tickle, and Cosmic Power all have 6 PP
+Egg Bomb is Grass type with 100% accuracy, 120 BP and ⅓ recoil damage
+Clamp has 100% accuracy and 16 PP
+Skull Bash -> Head Smash (150 BP, 100% acc, 8 PP, ⅓ recoil)
+Kinesis has 100% accuracy and 6 PP
+Leech Life has 24 PP and 40 BP
+Lovely Kiss has 85% acc and 16 PP
+Sky Attack, Superpower, and Overheat have 100% acc, 16 PP, 120 BP, and ⅓ Recoil Damage
+Dizzy Punch has 90 BP
+Psywave has 100% acc and 24 PP with the same effect as Seismic Toss
+Crabhammer has 100% acc, 16 PP and 120 BP with a high crit rate
+Bonemerang is 100% acc and 16 BP
+Rock Slide is 100% acc and 16 PP
+Hyper Fang is 100% acc and 24 PP
+Super Fang is Dark type with 100% acc and 16 PP
+Struggle has 50 BP
+Aeroblast has 100% acc, 10 PP, and 120 BP
+Scary Face has 100% acc and 3 PP
+Sludge -> Gunk Shot (100% acc, 8 PP)
+Octazooka has 100% acc, 16 PP, and 95 BP
+Bone Rush has 100% acc, 24 PP, and 100 BP (No additional effect)
+Giga Drain 16 PP 75 BP
+Spark -> Wild Charge ⅓ Recoil Damage
+Fury Cutter -> X-Scissors High crit ratio
+Steel Wing 100% acc 80 BP
+Heal Bell, Wish 2 PP
+Return and Frustration have 32 PP and 103 BP
+Sacred Fire has 100% acc, 10 PP, 120 BP, a 50% burn chance, and the user thaws
+Mega Horn 90% acc 16 PP
+Iron Tail 90% acc 24 PP
+Morning Sun, Moonlight, Synthesis, Swallow always heal 50% 10 PP
+Extreme Speed 8 PP 100 BP
+Ancientpower 8 PP 80 BP
+Future Sight -> Hidden Power (Fighting)
+Stockpile now only does +1 Def and +1 Sp. Def
+Spit Up 100% Acc 16 PP 100 BP no effect
+Heat Wave 100% acc 16 PP 100 BP 
+Flatter 100% acc 24 PP
+Trick -> Hidden Power (Flying)
+Eruption -> Draco Meteor 100% acc 8 PP 120 BP ⅓ Recoil damage
+Arm Thrust -> Force Palm 16 PP
+Mist Ball, Luster Purge 10 PP 90 BP
+Blaze Kick 100% acc 16 PP 100 BP
+Needle Arm 24 PP 95 BP
+Hyper Voice 120 BP -def 20% chance
+Poison Fang 24 PP 90 BP
+Crush Claw 100% acc 16 PP 100 BP -def 50% chance
+Air Cutter -> Air Slash 100% acc 25 PP 80 BP
+Rock Tomb 100% acc 16 PP
+Metal Sound -> Flash Cannon 16 PP 90 BP
+Shadow Punch 70 BP
+Sky Uppercut 100% acc 24 PP 90 BP
+Mud Shot 100% acc 24 PP
+Poison Tail 16 PP 120 BP High Crit + Poison
+Bullet Seed 25 BP always 2 hits
+Icicle Spear -> Ice Shard 
+Leaf Blade 24 PP 90 BP
+Water Spout 8 PP 150 BP ⅓ Recoil damage
+Psycho Boost 8 PP 140 BP ⅓ Recoil damage
+Astonish -> Shadow Sneak 24 PP
+Submission -> Hidden Power (Psychic)
+Spike Cannon -> Hidden Power (Fire)
+Constrict -> Hidden Power (Grass)
+Poison Gas -> Hidden Power (Ice)
+Barrage -> Hidden Power (Ghost)
+Splash -> Hidden Power (Water)
+Sharpen -> Hidden Power (Dark)
+Triple Kick -> Hidden Power (Rock)
+Cotton Spore -> Hidden Power (Electric)
+Outrage -> Hidden Power (Ground)

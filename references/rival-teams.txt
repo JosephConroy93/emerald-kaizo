@@ -1,0 +1,245 @@
+-------------
+Rustboro City (Optional)
+-------------
+
+Male, Treecko
+
+Farfetch'd(f) Lv.14 @Stick: Quick Attack, Aerial Ace, Mud-Slap, Cut [Brave]
+Minun(f) Lv.14 @Berry Juice: Thunder Wave, Thundershock, Quick Attack, Seismic Toss [Modest]
+Nidorina(f) Lv.16 @Silk Scarf: Toxic, Secret Power, Drill Run, Protect [0|Naughty]
+Chikorita(m) Lv.15 @Sitrus Berry: Light Screen, Reflect, Mega Drain, Secret Power [Rash]
+Squirtle(m) Lv.15 @Mystic Water: Water Gun, Attract, Secret Power, Icy Wind [Bold]
+Combusken(m) Lv.16 @Charcoal: Ember, Double Kick, Rock Tomb, Quick Attack
+
+---
+Male, Torchic
+
+Farfetch'd(f) Lv.14 @Stick: Quick Attack, Cut, Aerial Ace, Mud-Slap [Brave]
+Nidorina(f) Lv.16 @Silk Scarf: Drill Run, Protect, Secret Power, Toxic [0|Mild]
+Minun(f) Lv.14 @Magnet: Thunder Wave, Thundershock, Quick Attack, Seismic Toss [Naughty]
+Bulbasaur(m) Lv.15 @Sitrus Berry: Mega Drain, Secret Power, Toxic, Attract
+Quilava(m) Lv.15 @Charcoal: Ember, Quick Attack, Attract, Secret Power [Naughty]
+Marshtomp(m) Lv.16 @Mystic Water: Mud Shot, Water Gun, Rock Tomb, Secret Power
+
+---
+Male, Mudkip
+
+Farfetch'd(f) Lv.14 @Stick: Quick Attack, Aerial Ace, Mud-Slap, Cut [Brave]
+Nidorina(f) Lv.16 @Silk Scarf: Toxic, Protect, Drill Run, Secret Power [0|Mild]
+Minun(f) Lv.14 @Berry Juice: Thunder Wave, Thundershock, Quick Attack, Seismic Toss [Naughty]
+Totodile(m) Lv.15 @Mystic Water: Water Gun, Bite, Cut, Aerial Ace [Naive]
+Charmander(m) Lv.15 @Charcoal: Ember, Quick Attack, Bite, Rock Tomb [Mild]
+Grovyle(m) Lv.16 @Miracle Seed: Mega Drain, Pursuit, Rock Tomb, Quick Attack [Lax]
+
+---
+Female, Treecko
+
+Farfetch'd(m) Lv.14 @Stick: Quick Attack, Aerial Ace, Mud-Slap, Cut [Gentle]
+Nidorino(m) Lv.16 @Silk Scarf: Toxic, Protect, Drill Run, Secret Power [0|Sassy]
+Plusle(m) Lv.14 @Magnet: Thunder Wave, Thundershock, Seismic Toss, Quick Attack [Jolly]
+Chikorita(m) Lv.15 @Miracle Seed: Mega Drain, Secret Power, Light Screen, Synthesis
+Squirtle(m) Lv.15 @Mystic Water: Water Gun, Bite, Secret Power, Mud-Slap [Calm]
+Combusken(m) Lv.16 @Charcoal: Ember, Rock Smash, Quick Attack, Secret Power [Quiet]
+
+---
+Female, Torchic
+
+Farfetch'd(m) Lv.14 @Stick: Quick Attack, Aerial Ace, Mud-Slap, Cut [Gentle]
+Nidorino(m) Lv.16 @Silk Scarf: Toxic, Drill Run, Protect, Secret Power [0|Sassy]
+Plusle(m) Lv.15 @Berry Juice: Thundershock, Quick Attack, Thunder Wave, Seismic Toss [Jolly]
+Quilava(m) Lv.14 @Charcoal: Ember, Quick Attack, Secret Power, Mud-Slap [Impish]
+Bulbasaur(m) Lv.15 @Miracle Seed: Leech Seed, Toxic, Protect, Mega Drain [Rash]
+Marshtomp(m) Lv.16 @Mystic Water: Mud Shot, Water Gun, Rock Tomb, Secret Power [Hasty]
+
+---
+Female, Mudkip
+
+Farfetch'd(m) Lv.14 @Stick: Quick Attack, Cut, Aerial Ace, Mud-Slap [Gentle]
+Nidorino(m) Lv.16 @Silk Scarf: Drill Run, Toxic, Protect, Secret Power [0|Sassy]
+Plusle(m) Lv.14 @Magnet: Thunder Wave, Thundershock, Seismic Toss, Quick Attack [Jolly]
+Totodile(m) Lv.15 @Mystic Water: Water Gun, Bite, Cut, Aerial Ace [Lonely]
+Charmander(m) Lv.15 @Charcoal: Ember, Quick Attack, Bite, Rock Tomb
+Grovyle(m) Lv.16 @Miracle Seed: Mega Drain, Quick Attack, Pursuit, Rock Tomb [Brave]
+
+---------
+Route 110
+---------
+
+Male, Treecko
+
+Minun(f) Lv.22: Thunderbolt, Attract, Thunder Wave, Signal Beam [Impish]
+Pidgeotto(f) Lv.24: Aerial Ace, Quick Attack, Secret Power, Steel Wing 
+Nidorina(f) Lv.24: Drill Run, Sludge Bomb, Shadow Ball, Water Pulse [Naive]
+Bayleef(m) Lv.24: Giga Drain, Attract, Synthesis, Body Slam [Rash]
+Wartortle(m) Lv.25: Fake Out, Water Pulse, Ice Punch, Body Slam 
+Combusken(m) Lv.26: Bulk Up, Fire Punch, Quick Attack, Brick Break 
+
+---
+Male, Torchic
+
+Minun(f) Lv.22: Signal Beam, Attract, Thunder Wave, Thunderbolt [Impish]
+Pidgeotto(f) Lv.24: Aerial Ace, Quick Attack, Secret Power, Steel Wing
+Nidorina(f) Lv.24: Body Slam, Drill Run, Sludge Bomb, Shadow Ball [Naive]
+Quilava(m) Lv.24: Iron Tail, Attract, Flame Wheel, Body Slam
+Ivysaur(m) Lv.25: Body Slam, Attract, Sludge Bomb, Giga Drain [Modest]
+Marshtomp(m) Lv.26: Body Slam, Attract, Mud Shot, Water Pulse [Naughty]
+
+---
+Male, Mudkip
+
+Plusle(m) Lv.22: Headbutt, Wild Charge, Signal Beam, Thunder Wave [Brave]
+Pidgeott(m) Lv.24: Steel Wing, Quick Attack, Secret Power, Aerial Ace [Sassy]
+Nidorino(m) Lv.24: Body Slam, Drill Run, Sludge Bomb, Shadow Ball [Careful]
+Croconaw(m) Lv.24; Ice Punch, Aerial Ace, Waterfall, Body Slam [Jolly]
+Charmeleon(m) Lv.25: Quick Attack, Fire Punch, Dragon Claw, Brick Break [Sassy]
+Grovyle(m) Lv.26: Dragon Claw, Giga Drain, Brick Break, Rock Slide
+
+---
+Female, Treecko
+
+Plusle(m) Lv.22: Headbutt, Thunder Wave, Wild Charge, Signal Beam [Brave]
+Pidgeotto(m) Lv.24: Steel Wing, Quick Attack, Secret Power, Aerial Ace [Sassy]
+Nidorino(m) Lv.24: Body Slam, Sludge Bomb, Drill Run, Water Pulse [Careful]
+Bayleef(m) Lv.24: Grasswhistle, Giga Drain, Body Slam, Synthesis
+Wartortle(m) Lv.25: Fake Out, Water Pulse, Ice Punch, Body Slam [Brave]
+Combusken(m) Lv.26: Bulk Up, Fire Punch, Brick Break, Rock Slide
+
+---
+Female, Torchic
+
+Plusle(m) Lv.22: Headbutt, Thunder Wave, Signal Beam, Wild Charge [Brave]
+Pidgeotto(m) Lv.24: Steel Wing, Quick Attack, Secret Power, Aerial Ace [Sassy]
+Nidorino(m) Lv.24: Body Slam, Sludge Bomb, Drill Run, Shadow Ball [Careful]
+Quilava(m) Lv.24: Iron Tail, Quick Attack, Flame Wheel, Body Slam
+Ivysaur(m) Lv.25: Giga Drain, Sludge Bomb, Body Slam, Attract [Bold]
+Marshtomp(m) Lv.26: Attract, Water Pulse, Mud Shot, Body Slam [Sassy]
+
+---
+Female, Mudkip
+
+Minun(f) Lv.22: Attract, Thunder Wave, Thunderbolt, Signal Beam [Impish]
+Pidgeotto(f) Lv.24: Steel Wing, Quick Attack, Aerial Ace, Secret Power
+Nidorina(f) Lv.24: Body Slam, Sludge Bomb, Drill Run, Shadow Ball [Naive]
+Croconaw(m) Lv.24: Body Slam, Attract, Waterfall, Aerial Ace [Lonely]
+Charmeleon(m) Lv.25: Quick Attack, Fire Punch, Dragon Claw, Brick Break [Relaxed]
+Grovyle(m) Lv.26: Headbutt, Giga Drain, Quick Attack, Pursuit
+
+---------
+Route 119
+---------
+
+Male, Treecko
+
+Raichu(f) Lv.50 @Lum Berry: Thunder, Surf, Signal Beam, Rain Dance [Impish]
+Clefable(f) Lv.50 @Lum Berry: Thunder, HP Water, Body Slam, Ice Beam [Rash]
+Nidoqueen(f) Lv.50 @Lum Berry: Earthquake, Poison Tail, Thunder, Surf [Rash]
+Meganium(m) Lv.50 @Lum Berry: Giga Drain, Earthquake, Ancientpower, Synthesis [Brave]
+Blastoise(m) Lv.50 @Lum Berry: Water Spout, MIRROR COAT, Ice Beam, HP Electric [Modest]
+
+---
+Male, Torchic
+
+Raichu(f) Lv.50 @Lum Berry: Thunder, Surf, Signal Beam, Rain Dance [Impish]
+Clefable(f) Lv.50 @Lum Berry: Body Slam, Thunder, Water Pulse, Ice Beam [Rash]
+Nidoqueen(f) Lv.50 @Lum Berry: Earthquake, Thunder, Surf, Poison Tail [Rash]
+Swampert(m) Lv.50 @Lum Berry: Muddy Water, Earthquake, Ice Beam, Attract [Rash]
+Venusaur(m) Lv.50 @Lum Berry: Sleep Powder, Giga Drain, Earthquake, Ancientpower [Bold]
+
+---
+Male, Mudkip
+
+Raichu(f) Lv.50 @Lum Berry: Thunder, Surf, Signal Beam, Rain Dance [Impish]
+Clefable(f) Lv.50 @Lum Berry: Thunder, Body Slam, Ice Beam, HP Water [Rash]
+Nidoqueen(f) Lv.50 @Lum Berry: Earthquake, Poison Tail, Surf, Thunder [Rash]
+Feraligatr(m) Lv.50 @Lum Berry: Hydro Pump, Ice Beam, Earthquake, HP Electric
+Sceptile(m) Lv.50 @Lum Berry: Leaf Blade, HP Water, Thunderpunch, Dragon Claw
+
+---
+Female, Treecko
+
+Raichu(m) Lv.50 @Lum Berry: Thunder, Surf, Signal Beam, Rain Dance [Brave]
+Porygon2 Lv.50 @Lum Berry: Tri Attack, Thunder, HP Water, Recover
+Nidoking(m) Lv.50 @Lum Berry: Thunder, Surf, Earthquake, Poison Tail [Careful]
+Meganium(m) Lv.50 @Lum Berry: Ancientpower, Giga Drain, Earthquake, Synthesis [Lax]
+Blastoise(m) Lv.50 @Lum Berry: Water Spout, Earthquake, Ice Beam, HP Electric
+
+---
+Female, Torchic
+
+Raichu(m) Lv.50 @Lum Berry: Thunder, Surf, Signal Beam, Rain Dance [Brave]
+Porygon2 Lv.50 @Lum Berry: Tri Attack, Thunder, HP Water, Recover
+Nidoking(m) Lv.50 @Lum Berry: Earthquake, Poison Tail, Thunder, Surf [Careful]
+Swampert(m) Lv.50 @Lum Berry: Earthquake, Muddy Water, Ice Beam, Sludge Bomb [Lonely]
+Venusaur(m) Lv.50 @Lum Berry: Sleep Powder, HP Water, Giga Drain, Ancientpower [Modest]
+
+---
+Female, Mudkip
+
+Raichu(m) Lv.49 @Lum Berry: Thunder, Surf, Signal Beam, Rain Dance [Brave]
+Porygon2 Lv.50 @Lum Berry: Thunder, Tri Attack, HP Water, Recover
+Nidoking(m) Lv.49 @Lum Berry: Thunder, Poison Tail, Earthquake, Surf [Careful]
+Feraligatr(m) Lv.49 @Lum Berry: Hydro Pump, Ice Beam, Earthquake, Surf
+Sceptile(m) Lv.50 @Lum Berry: Leaf Blade, Dragon Claw, Thunderpunch, HP Water [Sassy]
+
+-------------
+Lilycove City
+-------------
+
+Male, Treecko
+
+Miltank(f) Lv.59 @Lum Berry: Body Slam, Earthquake, Shadow Ball, Fake Out [Rash]
+Ampharos(f) Lv.59 @Lum Berry: Thunder Wave, Thunderbolt, HP Ice, Fire Punch
+Nidoqueen(f) Lv.59 @Lum Berry: Earthquake, Poison Fang, Thunderbolt, Ice Beam
+Meganium(m) Lv.59 @Lum Berry: Grasswhistle, Earthquake, Ancientpower, Giga Drain [Impish]
+Blastoise(m) Lv.59 @Lum Berry: Water Spout, HP Electric, Ice Beam, MIRROR COAT [Gentle]
+Blaziken(m) Lv.60 @Lum Berry: Overheat, Superpower, Thunderpunch, Rock Slide [Hasty]
+
+---
+Male, Torchic
+
+Miltank(f) Lv.59 @Lum Berry: Milk Drink, Earthquake, Shadow Ball, Body Slam [Rash]
+Ampharos(f) Lv.59 @Lum Berry: Thunder Wave, Thunderbolt, Fire Punch, HP Water
+Nidoqueen(f) Lv.59 @Lum Berry: Earthquake, Shadow Ball, Superpower, Poison Fang
+Typhlosion(m) Lv.59 @Lum Berry: Overheat, Earthquake, HP Grass, Thunderpunch [Timid]
+Venusaur(m) Lv.59 @Lum Berry: Sleep Powder, Giga Drain, Earthquake, Ancientpower [Gentle]
+Swampert(m) Lv.60 @Lum Berry: Earthquake, Muddy Water, Ice Beam, Sludge Bomb [Gentle]
+
+---
+Male, Mudkip
+
+Miltank(f) Lv.59 @Lum Berry: Milk Drink, Earthquake, Shadow Ball, Body Slam [Rash]
+Ampharos(f) Lv.59 @Lum Berry: Thunderbolt, Thunder Wave, Fire Punch, HP Grass 
+Nidoqueen(f) Lv.59 @Lum Berry: Earthquake, Shadow Ball, Poison Fang, Ice Beam
+Feraligatr(m) Lv.59 @Lum Berry: Earthquake, Hydro Pump, HP Flying, Ancientpower
+Charizard(m) Lv.59 @Lum Berry: Heat Wave, Dragon Dance, Earthquake, Air Slash [Adamant]
+Sceptile(m) Lv.60 @Lum Berry: Giga Drain, Thunderpunch, Earthquake, Dragon Claw [Sassy]
+
+---
+Female, Treecko
+
+Tauros(m) Lv.59 @Lum Berry: Double-Edge, Earthquake, HP Ghost, Iron Tail
+Ampharos(m) Lv.59 @Lum Berry: Thunder Wave, Thunderbolt, Fire Punch, HP Ice [Modest]
+Nidoking(m) Lv.59 @Lum Berry: Earthquake, Shadow Ball, Poison Tail, Ice Beam [Lonely]
+Meganium(m) Lv.59 @Lum Berry: Earthquake, Ancientpower, Giga Drain, Grasswhistle
+Blastoise(m) Lv.59 @Lum Berry: Water Spout, HP Electric, Ice Beam, Earthquake [Adamant]
+Blaziken(m) Lv.60 @Lum Berry: Overheat, Superpower, Thunderpunch, Quick Attack [Gentle]
+
+---
+Female, Torchic
+
+Tauros(m) Lv.59 @Lum Berry: Iron Tail, HP Ghost, Body Slam, Earthquake
+Ampharos(m) Lv.59 @Lum Berry: Thunderbolt, Thunder Wave, Fire Punch, HP Water [Modest]
+Nidoking(m) Lv.59 @Lum Berry: Earthquake, Poison Tail, Thunderbolt, Shadow Ball [Lonely]
+Typhlosion(m) Lv.59 @Lum Berry: Overheat, Earthquake, Thunderpunch, HP Grass [Naive]
+Venusaur(m) Lv.59 @Lum Berry: Sleep Powder, Earthquake, Ancientpower, Giga Drain [Adamant]
+Swampert(m) Lv.60 @Lum Berry: Earthquake, Muddy Water, Ice Beam, Sludge Bomb
+
+---
+Female, Mudkip
+
+Ampharos(m) Lv.59 @Lum Berry: Thunderbolt, Thunder Wave, Fire Punch, HP Grass [Calm]
+Tauros(m) Lv.59 @Liechi Berry: Return, Earthquake, HP Ghost, Substitute [Modest]
+Nidoking(m) Lv.59 @Lum Berry: Earthquake, Megahorn, Ice Beam, Thunderbolt [Lonely]
+Feraligatr(m) Lv.59 @Lum Berry: Dragon Dance, Earthquake, HP Flying, Surf [Adamant]
+Charizard(m) Lv.59 @Salac Berry: Overheat, Dragon Claw, Thunderpunch, HP Grass [Timid]
+Sceptile(m) Lv.60 @Lum Berry: Giga Drain, Earthquake, Rock Slide, Dragon Claw [Relaxed]

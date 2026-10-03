@@ -1,0 +1,1733 @@
+location,area,method,pokemon,rate,level,danger_flag,hint
+Littleroot Town,,Surfing,Squirtle,60%,44,,
+Littleroot Town,,Surfing,Totodile,30%,44,Recoil move,
+Littleroot Town,,Surfing,Croconaw,5%,44,,
+Littleroot Town,,Surfing,Wartortle,5%,44,,
+Littleroot Town,,Old Rod,Luvdisc,70%,4,,
+Littleroot Town,,Old Rod,Goldeen,30%,5,,
+Littleroot Town,,Good Rod,Corphish,60%,20,,
+Littleroot Town,,Good Rod,Goldeen,20%,20,,
+Littleroot Town,,Good Rod,Poliwhirl,20%,20,,
+Littleroot Town,,Super Rod,Luvdics,41%,65,,
+Littleroot Town,,Super Rod,Seaking,40%,65,Recoil move,
+Littleroot Town,,Super Rod,Poliwhirl,15%,65,,
+Littleroot Town,,Super Rod,Crawdaunt,4%,65,,
+Route 103,,Grass,Sunkern,20%,4,,
+Route 103,,Grass,Wingull,20%,4,,
+Route 103,,Grass,Ledyba,10%,4,,
+Route 103,,Grass,Spearow,10%,4,,
+Route 103,,Grass,Skitty,10%,4,,
+Route 103,,Grass,Ekans,10%,4,,
+Route 103,,Grass,Mareep,5%,4,,
+Route 103,,Grass,Hoppip,5%,4,,
+Route 103,,Grass,Poliwag,4%,4,,
+Route 103,,Grass,Spoink,4%,4,,
+Route 103,,Grass,Aipom,1%,4,,
+Route 103,,Grass,Taillow,1%,4,,
+Route 103,,Surfing,Kingler,60%,43,Recoil move,
+Route 103,,Surfing,Seaking,30%,43,Recoil move,
+Route 103,,Surfing,Qwilfish,5%,43,,
+Route 103,,Surfing,Mantine,5%,43,,
+Route 103,,Old Rod,Remoraid,70%,5,,
+Route 103,,Old Rod,Tentacool,30%,5,,
+Route 103,,Good Rod,Octillery,80%,20,,
+Route 103,,Good Rod,Tentacool,20%,20,,
+Route 103,,Super Rod,Quilfish,40%,65,,
+Route 103,,Super Rod,Octillery,40%,65,,
+Route 103,,Super Rod,Kingler,15%,65,Recoil move,
+Route 103,,Super Rod,Seaking,5%,65,Recoil move,
+Oldale Town,,Grass,Vulpix,21%,2-5,,
+Oldale Town,,Grass,Slugma,20%,5,,
+Oldale Town,,Grass,Numel,20%,5,,
+Oldale Town,,Grass,Growlithe,20%,3-5,Roar/Whirlwind,
+Oldale Town,,Grass,Ponyta,6%,2-4,,
+Oldale Town,,Grass,Magby,5%,5,,
+Oldale Town,,Grass,Cyndaquil,4%,4,,
+Oldale Town,,Grass,Charmander,4%,4,,
+Route 102,,Grass,Meowth,20%,6,,
+Route 102,,Grass,Sandshrew,20%,6,,
+Route 102,,Grass,Nidoran (M),10%,6,,
+Route 102,,Grass,Electrike,10%,6,,
+Route 102,,Grass,Hoothoot,10%,6,,
+Route 102,,Grass,Gulpin,10%,6,,
+Route 102,,Grass,Spinarak,5%,7,,
+Route 102,,Grass,Spoink,5%,6,,
+Route 102,,Grass,Farfetch'd,4%,6,,
+Route 102,,Grass,Ralts,4%,4,,
+Route 102,,Grass,Minun,1%,5,,
+Route 102,,Grass,Pikachu,1%,5,,
+Route 102,,Surfing,Luvdisc,60%,43,,
+Route 102,,Surfing,Seaking,30%,43,Recoil move,
+Route 102,,Surfing,Carvanha,5%,43,,
+Route 102,,Surfing,Poliwrath,4%,43,,
+Route 102,,Surfing,Politoed,1%,43,,
+Route 102,,Old Rod,Carvanha,70%,5,,
+Route 102,,Old Rod,Barboach,30%,5,,
+Route 102,,Good Rod,Psyduck,60%,23,,
+Route 102,,Good Rod,Goldeen,20%,23,,
+Route 102,,Good Rod,Corphish,20%,23,,
+Route 102,,Super Rod,Golduck,40%,65,,
+Route 102,,Super Rod,Wishcash,40%,65,,
+Route 102,,Super Rod,Seaking,20%,65,Recoil move,
+Petalburg City,,Grass,Krabby,20%,7,,
+Petalburg City,,Grass,Corphish,20%,7,,
+Petalburg City,,Grass,Poliwag,15%,7,,
+Petalburg City,,Grass,Psyduck,15%,7,,
+Petalburg City,,Grass,Surskit,10%,7,,
+Petalburg City,,Grass,Marill,10%,7,,
+Petalburg City,,Grass,Totodile,4%,7,,
+Petalburg City,,Grass,Squirtle,4%,7,,
+Petalburg City,,Grass,Slowpoke,2%,7,,
+Petalburg City,,Surfing,Crawdaunt,60%,43,,
+Petalburg City,,Surfing,Golduck,30%,43,,
+Petalburg City,,Surfing,Whiscash,5%,43,,
+Petalburg City,,Surfing,Azumarill,4%,43,Recoil move,
+Petalburg City,,Surfing,Poliwhirl,1%,43,,
+Petalburg City,,Old Rod,Azurill,70%,5,,
+Petalburg City,,Old Rod,Luvdisc,30%,5,,
+Petalburg City,,Good Rod,Marill,60%,20,,
+Petalburg City,,Good Rod,Goldeen,20%,20,,
+Petalburg City,,Good Rod,Corphish,20%,20,,
+Petalburg City,,Super Rod,Golduck,40%,65,,
+Petalburg City,,Super Rod,Wishcash,40%,65,,
+Petalburg City,,Super Rod,Poliwhirl,15%,65,,
+Petalburg City,,Super Rod,Crawdaunt,4%,65,,
+Petalburg City,,Super Rod,Azumarill,1%,65,Recoil move,
+Route 104 (South),,Grass,Jigglypuff,20%,7,,
+Route 104 (South),,Grass,Cubone,20%,7,,
+Route 104 (South),,Grass,Seedot,10%,7,,
+Route 104 (South),,Grass,Snubbull,10%,7,,
+Route 104 (South),,Grass,Nidoran (F),10%,7,,
+Route 104 (South),,Grass,Natu,10%,7,,
+Route 104 (South),,Grass,Mareep,5%,7,,
+Route 104 (South),,Grass,Spoink,5%,7,,
+Route 104 (South),,Grass,Hoothoot,4%,7,,
+Route 104 (South),,Grass,Venonat,4%,7,,
+Route 104 (South),,Grass,Drowzee,1%,7,,
+Route 104 (South),,Grass,Elekid,1%,7,,
+Route 104 (South),,Surfing,Seaking,60%,43,Recoil move,
+Route 104 (South),,Surfing,Pelipper,30%,43,,
+Route 104 (South),,Surfing,Swellow,5%,43,,
+Route 104 (South),,Surfing,Pidgeot,4%,43,Recoil move,
+Route 104 (South),,Surfing,Wartortle,1%,43,,
+Route 104 (South),,Old Rod,Magikarp,100%,8,,
+Route 104 (South),,Good Rod,Magikarp,100%,20,,
+Route 104 (South),,Super Rod,Golduck,40%,65,,
+Route 104 (South),,Super Rod,Wishcash,40%,65,,
+Route 104 (South),,Super Rod,Seaking,20%,65,Recoil move,
+Petalburg Woods,,Grass,Oddish,20%,8,,
+Petalburg Woods,,Grass,Hoothoot,20%,8,,
+Petalburg Woods,,Grass,Phanpy,10%,8,,
+Petalburg Woods,,Grass,Teddiursa,10%,8,,
+Petalburg Woods,,Grass,Bellsprout,10%,8,,
+Petalburg Woods,,Grass,Pineco,10%,7-8,Selfdestruct/Explosion/Memento,
+Petalburg Woods,,Grass,Illumise,5%,7-8,,
+Petalburg Woods,,Grass,Volbeat,5%,7-8,,
+Petalburg Woods,,Grass,Cascoon,4%,8,,
+Petalburg Woods,,Grass,Silcoon,4%,8,,
+Petalburg Woods,,Grass,Mankey,1%,8,,
+Petalburg Woods,,Grass,Slakoth,1%,8,,
+Rustboro City,,Grass,Shroomish,20%,9,,
+Rustboro City,,Grass,Seedot,20%,9,,
+Rustboro City,,Grass,Cacnea,10%,9,,
+Rustboro City,,Grass,Bellsprout,10%,9,,
+Rustboro City,,Grass,Oddish,10%,9,,
+Rustboro City,,Grass,Hoppip,10%,9,,
+Rustboro City,,Grass,Sunkern,5%,9,,
+Rustboro City,,Grass,Roselia,5%,9,,
+Rustboro City,,Grass,Chikorita,4%,9,,
+Rustboro City,,Grass,Bulbasaur,4%,9,,
+Rustboro City,,Grass,Exeggcute,1%,9,,
+Rustboro City,,Grass,Lotad,1%,9,,
+Route 115,,Grass,Swablu,20%,43,,
+Route 115,,Grass,Clefairy,20%,43,,
+Route 115,,Grass,Eevee,10%,43,Recoil move,
+Route 115,,Grass,Absol,10%,43,Recoil move,
+Route 115,,Grass,Wigglytuff,10%,43,,
+Route 115,,Grass,Swellow,10%,43,,
+Route 115,,Grass,Beldum,9%,"19, 43",Recoil move,
+Route 115,,Grass,Kangaskhan,5%,43,Recoil move,
+Route 115,,Grass,Bagon,4%,43,Recoil move,
+Route 115,,Grass,Shelgon,1%,43,Recoil move,
+Route 115,,Grass,Metang,1%,40,,
+Route 115,,Surfing,Tentacool,60%,43,,
+Route 115,,Surfing,Qwilfish,30%,43,,
+Route 115,,Surfing,Relicanth,5%,43,,
+Route 115,,Surfing,Kabuto,4%,43,,
+Route 115,,Surfing,Omanyte,1%,43,,
+Route 115,,Old Rod,Kabuto,70%,9,,
+Route 115,,Old Rod,Omanyte,30%,9,,
+Route 115,,Good Rod,Kabuto,60%,20,,
+Route 115,,Good Rod,Relicanth,20%,20,,
+Route 115,,Good Rod,Omanyte,20%,20,,
+Route 115,,Super Rod,Kabutops,44%,65,,
+Route 115,,Super Rod,Relicanth,40%,65,Recoil move,
+Route 115,,Super Rod,Omastar,16%,65,,
+Route 116,,Grass,Grimer,20%,9,Selfdestruct/Explosion/Memento,
+Route 116,,Grass,Makuhita,20%,9,,
+Route 116,,Grass,Yanma,10%,9,,
+Route 116,,Grass,Natu,10%,9,,
+Route 116,,Grass,Paras,10%,9,,
+Route 116,,Grass,Voltorb,10%,9,,
+Route 116,,Grass,Spoink,5%,9,,
+Route 116,,Grass,Chimecho,5%,9,,
+Route 116,,Grass,Ralts,4%,9,Teleport,
+Route 116,,Grass,Unown,4%,9,,
+Route 116,,Grass,Kakuna,1%,9,,
+Route 116,,Grass,Metapod,1%,9,,
+Rusturf Tunnel,,Grass,Nosepass,20%,10-12,,
+Rusturf Tunnel,,Grass,Geodude,20%,10-12,,
+Rusturf Tunnel,,Grass,Onix,14%,10-12,,
+Rusturf Tunnel,,Grass,Rhyhorn,10%,10-12,,
+Rusturf Tunnel,,Grass,Phanpy,10%,10-12,,
+Rusturf Tunnel,,Grass,Sandshrew,10%,10-12,,
+Rusturf Tunnel,,Grass,Dunsparce,5%,10-12,,
+Rusturf Tunnel,,Grass,Cubone,5%,10-12,,
+Rusturf Tunnel,,Grass,Swinub,4%,10-12,,
+Rusturf Tunnel,,Grass,Whismur,1%,10-12,,
+Rusturf Tunnel,,Grass,Zubat,1%,10-12,,
+Route 106,,Surfing,Seel,60%,43,,
+Route 106,,Surfing,Spheal,30%,43,Recoil move,
+Route 106,,Surfing,Shellder,5%,43,Selfdestruct/Explosion/Memento,
+Route 106,,Surfing,Dewgong,4%,43,,
+Route 106,,Surfing,Sealeo,1%,43,Recoil move,
+Route 106,,Old Rod,Seel,100%,15,,
+Route 106,,Good Rod,Shellder,60%,20,,
+Route 106,,Good Rod,Seel,20%,20,,
+Route 106,,Good Rod,Spheal,20%,20,,
+Route 106,,Super Rod,Seel,40%,65,,
+Route 106,,Super Rod,Spheal,40%,65,Recoil move,
+Route 106,,Super Rod,Cloyster,15%,65,Selfdestruct/Explosion/Memento,
+Route 106,,Super Rod,Sealeo,5%,65,Recoil move,
+Route 107,,Surfing,Corsola,60%,43,,
+Route 107,,Surfing,Huntail,30%,43,,
+Route 107,,Surfing,Lanturn,5%,43,Recoil move,
+Route 107,,Surfing,Clamperl,4%,43,,
+Route 107,,Surfing,Gorebyss,1%,43,,
+Route 107,,Old Rod,Clamperl,100%,15,,
+Route 107,,Good Rod,Shellder,60%,20,,
+Route 107,,Good Rod,Seel,20%,20,,
+Route 107,,Good Rod,Spheal,20%,20,,
+Route 107,,Super Rod,Seel,40%,65,,
+Route 107,,Super Rod,Spheal,40%,65,Recoil move,
+Route 107,,Super Rod,Cloyster,15%,65,Selfdestruct/Explosion/Memento,
+Route 107,,Super Rod,Sealeo,5%,65,Recoil move,
+Dewford Town,,Grass,Makuhita,34%,15,,
+Dewford Town,,Grass,Mankey,29%,15,,
+Dewford Town,,Grass,Machop,20%,15,,
+Dewford Town,,Grass,Tyrogue,16%,3-13,,
+Dewford Town,,Grass,Meditite,1%,15,,
+Dewford Town,,Surfing,Corsola,60%,43,,
+Dewford Town,,Surfing,Seel,30%,43,,
+Dewford Town,,Surfing,Spheal,5%,43,Recoil move,
+Dewford Town,,Surfing,Krabby,4%,43,Recoil move,
+Dewford Town,,Surfing,Slowpoke,1%,43,,
+Dewford Town,,Old Rod,Spheal,70%,15,,
+Dewford Town,,Old Rod,Shellder,30%,15,,
+Dewford Town,,Good Rod,Clamperl,60%,20,,
+Dewford Town,,Good Rod,Sealeo,20%,20,,
+Dewford Town,,Good Rod,Seel,20%,20,,
+Dewford Town,,Super Rod,Huntail,40%,65,,
+Dewford Town,,Super Rod,Dewgong,40%,65,,
+Dewford Town,,Super Rod,Cloyster,15%,65,Selfdestruct/Explosion/Memento,
+Dewford Town,,Super Rod,Gorebyss,4%,65,,
+Dewford Town,,Super Rod,Walrein,1%,65,Recoil move,
+Granite Cave,1F,Grass,Aron,25%,15,,
+Granite Cave,1F,Grass,Mawile,25%,15,,
+Granite Cave,1F,Grass,Spoink,14%,15,,
+Granite Cave,1F,Grass,Clefairy,10%,15,,
+Granite Cave,1F,Grass,Spinda,10%,15,,
+Granite Cave,1F,Grass,Teddiursa,10%,15,,
+Granite Cave,1F,Grass,Ralts,4%,15,Teleport,
+Granite Cave,1F,Grass,Drowzee,1%,15,,
+Granite Cave,1F,Grass,Chimecho,1%,14,,
+Granite Cave,B1F,Grass,Seel,24%,15,,
+Granite Cave,B1F,Grass,Smoochum,21%,15,,
+Granite Cave,B1F,Grass,Delibird,10%,15,,
+Granite Cave,B1F,Grass,Sneasel,10%,15,,
+Granite Cave,B1F,Grass,Swinub,10%,15,,
+Granite Cave,B1F,Grass,Snorunt,10%,15,,
+Granite Cave,B1F,Grass,Spheal,9%,15,,
+Granite Cave,B1F,Grass,Shellder,6%,15,,
+Granite Cave,B1F,Note,"B1F ice puzzle solution: 2 up, right, up, left, up, right, down, right, up, right, up, right, down, right, up.",,,,
+Granite Cave,B2F,Grass,Snorunt,21%,16,,
+Granite Cave,B2F,Grass,Swinub,21%,16,,
+Granite Cave,B2F,Grass,Smoochum,15%,16,,
+Granite Cave,B2F,Grass,Shellder,15%,16,,
+Granite Cave,B2F,Grass,Seel,14%,16,,
+Granite Cave,B2F,Grass,Spheal,14%,16,,
+Granite Cave,B2F,Note,"B2F ice puzzle solution: left, up, left, up, right, up, left, down, right, up, right, up, left, down, left, up, right, down, left, up.",,,,
+Granite Cave,B2F,Rock Smash,Geodude,70%,5-20,,
+Granite Cave,B2F,Rock Smash,Nosepass,30%,10-20,,
+Granite Cave,Steven's Room,Grass,Spoink,20%,15-16,,
+Granite Cave,Steven's Room,Grass,Ralts,20%,15,Teleport,
+Granite Cave,Steven's Room,Grass,Onix,10%,16,,
+Granite Cave,Steven's Room,Grass,Voltorb,10%,15,,
+Granite Cave,Steven's Room,Grass,Spinda,10%,15,,
+Granite Cave,Steven's Room,Grass,Magnemite,10%,15,,
+Granite Cave,Steven's Room,Grass,Nosepass,5%,16,,
+Granite Cave,Steven's Room,Grass,Makuhita,5%,16,,
+Granite Cave,Steven's Room,Grass,Aron,4%,16,,
+Granite Cave,Steven's Room,Grass,Dunsparce,4%,16,,
+Granite Cave,Steven's Room,Grass,Clefairy,1%,15,,
+Granite Cave,Steven's Room,Grass,Abra,1%,15,Teleport,
+Route 109,,Surfing,Pelipper,60%,43,,
+Route 109,,Surfing,Kingler,30%,43,Recoil move,
+Route 109,,Surfing,Seaking,5%,43,Recoil move,
+Route 109,,Surfing,Wartortle,4%,43,,
+Route 109,,Surfing,Blastoise,1%,43,,
+Route 109,,Old Rod,Squirtle,100%,15,,
+Route 109,,Good Rod,Krabby,60%,20,,
+Route 109,,Good Rod,Tentacool,20%,20,,
+Route 109,,Good Rod,Goldeen,20%,20,,
+Route 109,,Super Rod,Sharpedo,56%,65,,
+Route 109,,Super Rod,Wartortle,40%,65,,
+Route 109,,Super Rod,Mantine,4%,65,,
+Mauville City,,Grass,Elekid,20%,20,,
+Mauville City,,Grass,Pikachu,20%,20,Recoil move,
+Mauville City,,Grass,Voltorb,15%,20,,
+Mauville City,,Grass,Magnemite,14%,20,,
+Mauville City,,Grass,Mareep,10%,20,,
+Mauville City,,Grass,Porygon,10%,20,Teleport,
+Mauville City,,Grass,Electrike,5%,20,,
+Mauville City,,Grass,Pichu,4%,20,,
+Mauville City,,Grass,Flaafy,2%,20,,
+Route 110,,Grass,Delcatty,20%,15,,
+Route 110,,Grass,Roselia,20%,15,,
+Route 110,,Grass,Pidgeotto,10%,15,,
+Route 110,,Grass,Murkrow,10%,15,,
+Route 110,,Grass,Nuzleaf,10%,15,,
+Route 110,,Grass,Skiploom,10%,15,,
+Route 110,,Grass,Tropius,5%,15,Roar/Whirlwind,
+Route 110,,Grass,Togetic,5%,15,Recoil move,
+Route 110,,Grass,Lickitung,4%,15,,
+Route 110,,Grass,Kecleon,4%,15,,
+Route 110,,Grass,Oddish,1%,15,,
+Route 110,,Grass,Poochyena,1%,15,,
+Route 110,,Surfing,Chinchou,60%,43,Recoil move,
+Route 110,,Surfing,Seaking,30%,43,Recoil move,
+Route 110,,Surfing,Croconaw,5%,43,,
+Route 110,,Surfing,Feraligatr,4%,43,,
+Route 110,,Surfing,Lanturn,1%,43,Recoil move,
+Route 110,,Old Rod,Qwilfish,70%,16,,
+Route 110,,Old Rod,Remoraid,30%,16,,
+Route 110,,Good Rod,Chinchou,60%,20,,
+Route 110,,Good Rod,Tentacool,20%,20,,
+Route 110,,Good Rod,Remoraid,20%,20,,
+Route 110,,Super Rod,Lanturn,40%,65,,
+Route 110,,Super Rod,Mantine,40%,65,,
+Route 110,,Super Rod,Sharpedo,16%,65,,
+Route 110,,Super Rod,Whiscash,4%,65,,
+Route 118,,Grass,Growlithe,20%,41,,
+Route 118,,Grass,Manectric,20%,41,Recoil move,
+Route 118,,Grass,Vulpix,10%,41,,
+Route 118,,Grass,Rapidash,10%,41,,
+Route 118,,Grass,Grumpig,10%,41,,
+Route 118,,Grass,Nuzleaf,10%,41,,
+Route 118,,Grass,Weepinbell,5%,41,,
+Route 118,,Grass,Gloom,5%,41,,
+Route 118,,Grass,Nidorina,4%,41,,
+Route 118,,Grass,Nidorino,4%,41,Recoil move,
+Route 118,,Grass,Pikachu,1%,41,Recoil move,
+Route 118,,Grass,Exeggcute,1%,41,Recoil move,
+Route 118,,Surfing,Tentacool,60%,41,,
+Route 118,,Surfing,Chinchou,30%,41,Recoil move,
+Route 118,,Surfing,Mantine,5%,41,Recoil move,
+Route 118,,Surfing,Qwilfish,4%,41,,
+Route 118,,Surfing,Octillery,1%,41,,
+Route 118,,Old Rod,Tentacool,70%,20,,
+Route 118,,Old Rod,Carvanha,30%,20,,
+Route 118,,Good Rod,Chinchou,60%,20,,
+Route 118,,Good Rod,Remoraid,20%,20,,
+Route 118,,Good Rod,Carvanha,20%,20,,
+Route 118,,Super Rod,Sharpedo,40%,65,,
+Route 118,,Super Rod,Mantine,40%,65,,
+Route 118,,Super Rod,Octillery,15%,65,,
+Route 118,,Super Rod,Qwilfish,5%,65,Selfdestruct/Explosion/Memento,
+Slateport City,,Grass,Mareep,20%,15,,
+Slateport City,,Grass,Elekid,20%,15,,
+Slateport City,,Grass,Voltorb,14%,15,,
+Slateport City,,Grass,Electrike,14%,15,,
+Slateport City,,Grass,Pikachu,10%,15,,
+Slateport City,,Grass,Minun,10%,15,,
+Slateport City,,Grass,Plusle,5%,15,,
+Slateport City,,Grass,Pichu,5%,15,,
+Slateport City,,Grass,Magnemite,1%,15,,
+Slateport City,,Grass,Flaafly,1%,15,,
+Slateport City,,Surfing,Octillery,60%,43,,
+Slateport City,,Surfing,Mantine,30%,43,,
+Slateport City,,Surfing,Pelipper,5%,43,,
+Slateport City,,Surfing,Sharpedo,4%,43,,
+Slateport City,,Surfing,Seadra,1%,43,Recoil move,
+Slateport City,,Old Rod,Chinchou,70%,15,,
+Slateport City,,Old Rod,Corsola,30%,15,,
+Slateport City,,Good Rod,Mantine,60%,20,Recoil move,
+Slateport City,,Good Rod,Remoraid,20%,20,,
+Slateport City,,Good Rod,Horsea,20%,20,,
+Slateport City,,Super Rod,Sharpedo,40%,65,,
+Slateport City,,Super Rod,Octillery,40%,65,,
+Slateport City,,Super Rod,Lanturn,15%,65,,
+Slateport City,,Super Rod,Mantine,4%,65,,
+Slateport City,,Super Rod,Seadra,1%,65,Recoil move,
+Route 117,,Grass,Beautifly,20%,20,,
+Route 117,,Grass,Dustox,20%,20,,
+Route 117,,Grass,Oddish,10%,20,,
+Route 117,,Grass,Volbeat,10%,20,,
+Route 117,,Grass,Illumise,10%,20,,
+Route 117,,Grass,Ledian,10%,20,,
+Route 117,,Grass,Ariados,5%,20,,
+Route 117,,Grass,Beedrill,5%,20,,
+Route 117,,Grass,Butterfree,4%,20,,
+Route 117,,Grass,Nuzleaf,4%,20,,
+Route 117,,Grass,Shroomish,1%,20,,
+Route 117,,Grass,Vulpix,1%,20,Roar/Whirlwind,
+Route 117,,Surfing,Azumarill,60%,43,Recoil move,
+Route 117,,Surfing,Seaking,30%,43,Recoil move,
+Route 117,,Surfing,Politoed,5%,43,,
+Route 117,,Surfing,Golduck,4%,43,,
+Route 117,,Surfing,Poliwrath,1%,43,,
+Route 117,,Old Rod,Corphish,70%,20,,
+Route 117,,Old Rod,Krabby,30%,20,,
+Route 117,,Good Rod,Barboach,60%,20,,
+Route 117,,Good Rod,Goldeen,20%,20,,
+Route 117,,Good Rod,Marill,20%,20,,
+Route 117,,Super Rod,Crawdaunt,40%,65,,
+Route 117,,Super Rod,Kingler,40%,65,Recoil move,
+Route 117,,Super Rod,Psyduck,15%,65,,
+Route 117,,Super Rod,Golduck,5%,65,,
+Verdanturf Town,,Grass,Sandshrew,24%,23,,
+Verdanturf Town,,Grass,Phanpy,21%,23,,
+Verdanturf Town,,Grass,Rhyhorn,15%,23,Recoil move,
+Verdanturf Town,,Grass,Cubone,14%,23,,
+Verdanturf Town,,Grass,Geodude,10%,23,Selfdestruct/Explosion/Memento,
+Verdanturf Town,,Grass,Swinub,10%,23,,
+Verdanturf Town,,Grass,Numel,5%,23,,
+Verdanturf Town,,Grass,Sunflora,1%,23,,
+Route 112 (South),,Grass,Ponyta,20%,27,,
+Route 112 (South),,Grass,Vulpix,20%,27,,
+Route 112 (South),,Grass,Numel,10%,27,,
+Route 112 (South),,Grass,Spoink,10%,27,,
+Route 112 (South),,Grass,Absol,10%,27,,
+Route 112 (South),,Grass,Sandshrew,10%,27,,
+Route 112 (South),,Grass,Skiploom,5%,27,,
+Route 112 (South),,Grass,Natu,5%,27,,
+Route 112 (South),,Grass,Snubbull,4%,27,Roar/Whirlwind,
+Route 112 (South),,Grass,Growlithe,4%,27,,
+Route 112 (South),,Grass,Flareon,1%,27,,
+Route 112 (South),,Grass,Mightyena,1%,27,Roar/Whirlwind,
+Fiery Path,,Grass,Torkoal,20%,27,,
+Fiery Path,,Grass,Magcargo,20%,27,,
+Fiery Path,,Grass,Ponyta,10%,27,,
+Fiery Path,,Grass,Growlithe,10%,27,,
+Fiery Path,,Grass,Vulpix,10%,27,,
+Fiery Path,,Grass,Magby,10%,27,,
+Fiery Path,,Grass,Koffing,5%,27,Selfdestruct/Explosion/Memento,
+Fiery Path,,Grass,Quilava,5%,27,,
+Fiery Path,,Grass,Flareon,4%,27,,
+Fiery Path,,Grass,Charmeleon,4%,27,,
+Fiery Path,,Grass,Numel,1%,27,,
+Fiery Path,,Grass,Magmar,1%,27,,
+Route 113,,Grass,Noctowl,20%,30,Roar/Whirlwind,
+Route 113,,Grass,Shroomish,20%,30,,
+Route 113,,Grass,Parasect,10%,30,,
+Route 113,,Grass,Koffing,10%,30,Selfdestruct/Explosion/Memento,
+Route 113,,Grass,Rhyhorn,10%,30,Recoil move,
+Route 113,,Grass,Magby,10%,30,,
+Route 113,,Grass,Phanpy,5%,30,,
+Route 113,,Grass,Teddiursa,5%,30,,
+Route 113,,Grass,Gloom,4%,30,,
+Route 113,,Grass,Numel,4%,30,Recoil move,
+Route 113,,Grass,Torkoal,1%,30,,
+Route 113,,Grass,Absol,1%,30,,
+Fallarbor Town,,Grass,Aron,20%,34,Recoil move,
+Fallarbor Town,,Grass,Sudowoodo,20%,34,,
+Fallarbor Town,,Grass,Stantler,10%,34,,
+Fallarbor Town,,Grass,Noctowl,10%,34,Roar/Whirlwind,
+Fallarbor Town,,Grass,Persian,10%,34,,
+Fallarbor Town,,Grass,Mawile,10%,34,,
+Fallarbor Town,,Grass,Rapidash,5%,34,,
+Fallarbor Town,,Grass,Nosepass,5%,34,,
+Fallarbor Town,,Grass,Spinda,4%,34,Recoil move,
+Fallarbor Town,,Grass,Seviper,4%,34,,
+Fallarbor Town,,Grass,Zangoose,1%,34,,
+Fallarbor Town,,Grass,Golduck,1%,34,,
+Route 114,,Grass,Pikachu,20%,34,Recoil move,
+Route 114,,Grass,Swablu,20%,34,,
+Route 114,,Grass,Spinda,10%,34,Recoil move,
+Route 114,,Grass,Zangoose,10%,34,,
+Route 114,,Grass,Nuzleaf,10%,34,,
+Route 114,,Grass,Stantler,10%,34,,
+Route 114,,Grass,Sudowoodo,5%,34,,
+Route 114,,Grass,Electrike,5%,34,Recoil move,
+Route 114,,Grass,Swalot,4%,34,Selfdestruct/Explosion/Memento,
+Route 114,,Grass,Seviper,4%,34,,
+Route 114,,Grass,Lombre,1%,34,,
+Route 114,,Grass,Lotad,1%,34,,
+Route 114,,Surfing,Masquerain,60%,43,,
+Route 114,,Surfing,Whiscash,30%,43,,
+Route 114,,Surfing,Blastoise,5%,43,,
+Route 114,,Surfing,Feraligatr,4%,43,,
+Route 114,,Surfing,Gyarados,1%,43,Recoil move,
+Route 114,,Old Rod,Tentacool,70%,35,,
+Route 114,,Old Rod,Qwilfish,30%,35,,
+Route 114,,Good Rod,Whiscash,60%,35,,
+Route 114,,Good Rod,Carvanha,20%,35,,
+Route 114,,Good Rod,Poliwhirl,20%,35,,
+Route 114,,Super Rod,Magikarp,40%,65,,
+Route 114,,Super Rod,Barboach,40%,65,,
+Route 114,,Super Rod,Seaking,15%,65,Recoil move,
+Route 114,,Super Rod,Whiscash,4%,65,,
+Route 114,,Super Rod,Gyarados,1%,65,Recoil move,
+Route 114,,Rock Smash,Geodude,100%,5-20,,
+Jagged Pass,,Grass,Numel,20%,36,Recoil move,
+Jagged Pass,,Grass,Magcargo,20%,36,,
+Jagged Pass,,Grass,Machoke,10%,36,,
+Jagged Pass,,Grass,Spoink,10%,36,,
+Jagged Pass,,Grass,Ponyta,10%,36,Recoil move,
+Jagged Pass,,Grass,Mankey,10%,36,,
+Jagged Pass,,Grass,Koffing,5%,36,Selfdestruct/Explosion/Memento,
+Jagged Pass,,Grass,Grimer,5%,36,,
+Jagged Pass,,Grass,Doduo,4%,36,,
+Jagged Pass,,Grass,Onix,4%,36,Selfdestruct/Explosion/Memento,
+Jagged Pass,,Grass,Quilava,1%,36,,
+Jagged Pass,,Grass,Rapidash,1%,36,,
+Lavaridge Town,,Grass,Torkoal,20%,36,Selfdestruct/Explosion/Memento,
+Lavaridge Town,,Grass,Vulpix,20%,36,,
+Lavaridge Town,,Grass,Magby,15%,36,,
+Lavaridge Town,,Grass,Ponyta,14%,36,Recoil move,
+Lavaridge Town,,Grass,Growlithe,10%,36,,
+Lavaridge Town,,Grass,Flareon,10%,36,,
+Lavaridge Town,,Grass,Numel,5%,36,Recoil move,
+Lavaridge Town,,Grass,Quilava,4%,36,,
+Lavaridge Town,,Grass,Charmleon,2%,36,,
+Lavaridge Town,,Gift Egg,Wynaut,100%,,,
+Route 111,Desert,Grass,Trapinch,20%,40,Recoil move,
+Route 111,Desert,Grass,Diglett,20%,40,,
+Route 111,Desert,Grass,Sandslah,10%,39,,
+Route 111,Desert,Grass,Cacturne,10%,39,,
+Route 111,Desert,Grass,Donphan,10%,39,,
+Route 111,Desert,Grass,Arbok,10%,42,,
+Route 111,Desert,Grass,Rhyhorn,5%,39,Recoil move,
+Route 111,Desert,Grass,Nidoqueen,5%,38,,
+Route 111,Desert,Grass,Nidoking,4%,38,,
+Route 111,Desert,Grass,Dugtrio,4%,37,,
+Route 111,Desert,Grass,Claydol,1%,38,Selfdestruct/Explosion/Memento,
+Route 111,Desert,Grass,Vibrava,1%,37,,
+Route 111,Desert,Surfing,Poliwhirl,60%,43,,
+Route 111,Desert,Surfing,Psyduck,30%,43,,
+Route 111,Desert,Surfing,Carvanha,5%,43,,
+Route 111,Desert,Surfing,Marill,5%,43,Recoil move,
+Route 111,Desert,Old Rod,Magikarp,70%,5-10,,
+Route 111,Desert,Old Rod,Goldeen,30%,5-10,,
+Route 111,Desert,Good Rod,Magikarp,60%,20,,
+Route 111,Desert,Good Rod,Goldeen,20%,20,,
+Route 111,Desert,Good Rod,Barboach,20%,20,,
+Route 111,Desert,Super Rod,Barboach,100%,65,,
+Route 111,Desert,Rock Smash,Geodude,100%,5-20,,
+Mirage Tower,1F,Grass,Cacnea,20%,38,,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Trapinch,20%,38,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Sandshrew,10%,38,,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Diglett,10%,38,,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Phanpy,10%,38,,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Numel,10%,38,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Baltoy,5%,38,Selfdestruct/Explosion/Memento,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Cubone,5%,38,,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Rhyhorn,4%,38,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Onix,4%,38,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,1F,Grass,Unown,2%,38,,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Trapinch,30%,39,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Rhyhorn,20%,39,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Phanpy,10%,39,,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Sandshrew,10%,39,,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Camerupt,10%,39,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Sandslash,5%,39,,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Dugtrio,5%,39,,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Nosepass,4%,39,,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Graveler,4%,39,Selfdestruct/Explosion/Memento,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Claydol,1%,39,Selfdestruct/Explosion/Memento,Bring Rock Smash and Mach Bike
+Mirage Tower,2F,Grass,Gligar,1%,39,,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Dugtrio,20%,40,,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Trapinch,20%,40,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Wobbuffet,10%,40,,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Cacturne,10%,40,,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Marowak,10%,40,,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Donphan,10%,40,,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Onix,5%,40,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Sandslash,5%,40,,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Nidorino,4%,40,Recoil move,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Nidorina,4%,40,,Bring Rock Smash and Mach Bike
+Mirage Tower,3F,Grass,Vibrava,2%,40,,Bring Rock Smash and Mach Bike
+Mirage Tower,4F,Grass,Bagon,100%,10,,Bring Rock Smash and Mach Bike
+Route 105,,Surfing,Unown,60%,43,,
+Route 105,,Surfing,Mantine,30%,43,,
+Route 105,,Surfing,Octillery,5%,43,,
+Route 105,,Surfing,Qwilfish,4%,43,,
+Route 105,,Surfing,Relicanth,1%,43,,
+Route 105,,Old Rod,Octillery,70%,43,,
+Route 105,,Old Rod,Tentacruel,30%,43,,
+Route 105,,Good Rod,Gyarados,60%,43,Recoil move,
+Route 105,,Good Rod,Qwilfish,20%,43,,
+Route 105,,Good Rod,Relicanth,20%,43,,
+Route 105,,Super Rod,Mantine,40%,65,,
+Route 105,,Super Rod,Relicanth,40%,65,Recoil move,
+Route 105,,Super Rod,Sharpedo,19%,65,,
+Route 105,,Super Rod,Wailmer,1%,65,Recoil move,
+Route 108,,Surfing,Sharpedo,60%,43,,
+Route 108,,Surfing,Tentacruel,30%,43,,
+Route 108,,Surfing,Seviper,5%,43,,
+Route 108,,Surfing,Qwilfish,4%,43,,
+Route 108,,Surfing,Gyarados,1%,43,Recoil move,
+Route 108,,Old Rod,Magikarp,70%,44,,
+Route 108,,Old Rod,Tentacool,30%,44,,
+Route 108,,Good Rod,Magikarp,60%,44,,
+Route 108,,Good Rod,Tentacool,20%,44,,
+Route 108,,Good Rod,Sharpedo,20%,44,,
+Route 108,,Super Rod,Sharpedo,99%,65-66,,
+Route 108,,Super Rod,Wailmer,1%,20,,
+Route 134,,Surfing,Horsea,60%,43,Recoil move,
+Route 134,,Surfing,Seadra,31%,43,Recoil move,
+Route 134,,Surfing,Remoraid,5%,43,,
+Route 134,,Surfing,Seaking,4%,43,Recoil move,
+Route 134,,Old Rod,Horsea,70%,43,Recoil move,
+Route 134,,Old Rod,Seadra,30%,43,Recoil move,
+Route 134,,Good Rod,Octillery,60%,43,,
+Route 134,,Good Rod,Remoraid,40%,43,,
+Route 134,,Super Rod,Corsola,40%,43,,
+Route 134,,Super Rod,Mantine,40%,43,,
+Route 134,,Super Rod,Horsea,15%,43,Recoil move,
+Route 134,,Super Rod,Chinchou,5%,43,Recoil move,
+New Mauville,Cave 1F,Grass,Electrode,20%,43,Recoil move,
+New Mauville,Cave 1F,Grass,Plusle,20%,43,Recoil move,
+New Mauville,Cave 1F,Grass,Minun,10%,43,Recoil move,
+New Mauville,Cave 1F,Grass,Magneton,10%,43,Recoil move,
+New Mauville,Cave 1F,Grass,Raichu,10%,43,,
+New Mauville,Cave 1F,Grass,Manectric,10%,43,Recoil move,
+New Mauville,Cave 1F,Grass,Porygon,5%,43,Recoil move,
+New Mauville,Cave 1F,Grass,Electabuzz,5%,43,Recoil move,
+New Mauville,Cave 1F,Grass,Ampharos,4%,43,,
+New Mauville,Cave 1F,Grass,Flaaffy,4%,43,,
+New Mauville,Cave 1F,Grass,Voltorb,1%,43,Selfdestruct/Explosion/Memento,
+New Mauville,Cave 1F,Grass,Pikachu,1%,43,Recoil move,
+New Mauville,Cave 1F Room 2,Grass,Electrode,20%,43,Recoil move,
+New Mauville,Cave 1F Room 2,Grass,Raichu,20%,43,,
+New Mauville,Cave 1F Room 2,Grass,Magneton,10%,43,Recoil move,
+New Mauville,Cave 1F Room 2,Grass,Manectric,10%,43,Recoil move,
+New Mauville,Cave 1F Room 2,Grass,Muk,10%,43,,
+New Mauville,Cave 1F Room 2,Grass,Porygon,10%,43,Recoil move,
+New Mauville,Cave 1F Room 2,Grass,Voltorb,5%,43,Selfdestruct/Explosion/Memento,
+New Mauville,Cave 1F Room 2,Grass,Ampharos,5%,43,,
+New Mauville,Cave 1F Room 2,Grass,Electabuzz,4%,43,Recoil move,
+New Mauville,Cave 1F Room 2,Grass,Porygon2,4%,43,Recoil move,
+New Mauville,Cave 1F Room 2,Grass,Pikachu,1%,43,Recoil move,
+New Mauville,Cave 1F Room 2,Grass,Jolteon,1%,43,Recoil move,
+Route 119,,Grass,Zangoose,20%,43,,
+Route 119,,Grass,Tangela,20%,43,,
+Route 119,,Grass,Breloom,10%,43,,
+Route 119,,Grass,Absol,10%,43,Recoil move,
+Route 119,,Grass,Seviper,10%,43,,
+Route 119,,Grass,Scyther,10%,43,Recoil move,
+Route 119,,Grass,Linoone,5%,43,,
+Route 119,,Grass,Tropius,5%,43,,
+Route 119,,Grass,Furret,4%,43,,
+Route 119,,Grass,Raticate,4%,43,,
+Route 119,,Grass,Pinsir,1%,43,,
+Route 119,,Grass,Scizor,1%,43,,
+Route 119,,Surfing,Golduck,60%,43,,
+Route 119,,Surfing,Pelipper,30%,43,,
+Route 119,,Surfing,Whiscash,5%,43,,
+Route 119,,Surfing,Carvanha,4%,43,,
+Route 119,,Surfing,Feraligatr,1%,43,,
+Route 119,,Old Rod,Carvanha,70%,44,,
+Route 119,,Old Rod,Magikarp,30%,44,,
+Route 119,,Good Rod,Sharpedo,60%,44,,
+Route 119,,Good Rod,Politoed,20%,44,,
+Route 119,,Good Rod,Feraligatr,20%,44,,
+Route 119,,Super Rod,Gyarados,40%,65,Recoil move,
+Route 119,,Super Rod,Poliwrath,40%,65,,
+Route 119,,Super Rod,Whiscash,15%,65,,
+Route 119,,Super Rod,Feraligatr,4%,65,Recoil move,
+Route 119,,Super Rod,Blastoise,100%,65,,
+Route 119,,Gift Pokemon,Castform,100%,25,,
+Foretree City,,Grass,Pidgeot,20%,50,Recoil move,
+Foretree City,,Grass,Fearow,20%,50,,
+Foretree City,,Grass,Swellow,14%,48-50,,
+Foretree City,,Grass,Pelipper,10%,50,Recoil move,
+Foretree City,,Grass,Noctowl,10%,50,Recoil move,
+Foretree City,,Grass,Tropius,10%,50,,
+Foretree City,,Grass,Swablu,5%,50,,
+Foretree City,,Grass,Altaria,5%,47,Roar/Whirlwind,
+Foretree City,,Grass,Dodrio,4%,47,,
+Foretree City,,Grass,Pineco,1%,49,Selfdestruct/Explosion/Memento,
+Foretree City,,Grass,Shiftry,1%,49,Selfdestruct/Explosion/Memento,
+Route 120,,Grass,Scyther,20%,47,Recoil move,
+Route 120,,Grass,Absol,20%,47,Recoil move,
+Route 120,,Grass,Zangoose,10%,47,,
+Route 120,,Grass,Pinsir,10%,47,,
+Route 120,,Grass,Kecleon,10%,47,,
+Route 120,,Grass,Primape,10%,47,,
+Route 120,,Grass,Tangela,5%,47,,
+Route 120,,Grass,Azumarill,5%,47,Recoil move,
+Route 120,,Grass,Seviper,4%,47,,
+Route 120,,Grass,Spoink,4%,47,,
+Route 120,,Grass,Linoone,1%,47,Recoil move,
+Route 120,,Grass,Scizor,1%,47,,
+Route 120,,Surfing,Azumarill,60%,47,Recoil move,
+Route 120,,Surfing,Fearow,30%,47,,
+Route 120,,Surfing,Whiscash,5%,47,,
+Route 120,,Surfing,Seaking,4%,47,Recoil move,
+Route 120,,Surfing,Crawdaunt,1%,47,,
+Route 120,,Old Rod,Barboach,70%,49,,
+Route 120,,Old Rod,Seaking,30%,49,Recoil move,
+Route 120,,Good Rod,Golduck,60%,49,,
+Route 120,,Good Rod,Kingler,20%,49,Recoil move,
+Route 120,,Good Rod,Crawdaunt,20%,49,,
+Route 120,,Super Rod,Crawdaunt,40%,65,,
+Route 120,,Super Rod,Kingler,40%,65,Recoil move,
+Route 120,,Super Rod,Slowpoke,15%,65,,
+Route 120,,Super Rod,Slowking,4%,65,,
+Route 120,,Super Rod,Slowbro,1%,65,,
+Scorched Slab,,Grass,Vulpix,20%,50,,
+Scorched Slab,,Grass,Growlithe,20%,50,Recoil move,
+Scorched Slab,,Grass,Rapidash,10%,50,,
+Scorched Slab,,Grass,Quilava,10%,50,Recoil move,
+Scorched Slab,,Grass,Charmeleon,10%,50,,
+Scorched Slab,,Grass,Ninetales,10%,50,,
+Scorched Slab,,Grass,Manectric,5%,50,Recoil move,
+Scorched Slab,,Grass,Magby,5%,50,,
+Scorched Slab,,Grass,Magmar,4%,50,,
+Scorched Slab,,Grass,Tarkoal,4%,50,,
+Scorched Slab,,Grass,Flareon,1%,50,Recoil move,
+Scorched Slab,,Grass,Arcanine,1%,50,Recoil move,
+Scorched Slab,,Surfing,Grimer,60%,50,,
+Scorched Slab,,Surfing,Koffing,30%,50,Selfdestruct/Explosion/Memento,
+Scorched Slab,,Surfing,Muk,5%,50,,
+Scorched Slab,,Surfing,Weezing,5%,50,Selfdestruct/Explosion/Memento,
+Scorched Slab,,Old Rod,Grimer,70%,45,,
+Scorched Slab,,Old Rod,Muk,30%,45,,
+Scorched Slab,,Good Rod,Remoraid,60%,50,,
+Scorched Slab,,Good Rod,Muk,20%,50,,
+Scorched Slab,,Good Rod,Kingler,20%,50,Recoil move,
+Scorched Slab,,Super Rod,Crawdaunt,40%,65,,
+Scorched Slab,,Super Rod,Octillery,40%,65,,
+Scorched Slab,,Super Rod,Muk,15%,65,,
+Scorched Slab,,Super Rod,Slowpoke,5%,65,,
+Route 121,,Grass,Absol,20%,50,Recoil move,
+Route 121,,Grass,Exeggcute,20%,50,Recoil move,
+Route 121,,Grass,Tropius,10%,50,,
+Route 121,,Grass,Exploud,10%,50,,
+Route 121,,Grass,Rapidash,10%,50,,
+Route 121,,Grass,Pidgeot,10%,50,Recoil move,
+Route 121,,Grass,Stantler,5%,50,Recoil move,
+Route 121,,Grass,Gloom,5%,50,,
+Route 121,,Grass,Weepinbell,4%,50,,
+Route 121,,Grass,Jumpluff,4%,50,,
+Route 121,,Grass,Arcanine,1%,50,Recoil move,
+Route 121,,Grass,Pinsir,1%,50,,
+Route 121,,Surfing,Crawdaunt,60%,50,,
+Route 121,,Surfing,Octillery,30%,50,,
+Route 121,,Surfing,Tentacool,5%,50,,
+Route 121,,Surfing,Pelipper,5%,50,Recoil move,
+Route 121,,Old Rod,Seaking,70%,50,Recoil move,
+Route 121,,Old Rod,Qwilfish,30%,50,Selfdestruct/Explosion/Memento,
+Route 121,,Good Rod,Mantine,60%,50,,
+Route 121,,Good Rod,Chinchou,20%,50,Recoil move,
+Route 121,,Good Rod,Corsola,20%,50,,
+Route 121,,Super Rod,Octillery,40%,65,,
+Route 121,,Super Rod,Seviper,40%,65,,
+Route 121,,Super Rod,Tentacruel,15%,65,,
+Route 121,,Super Rod,Relicanth,5%,65,Recoil move,
+Lilycove City,,Grass,Granbull,20%,55,Recoil move,
+Lilycove City,,Grass,Jumpluff,20%,55,,
+Lilycove City,,Grass,Blastoise,10%,55,,
+Lilycove City,,Grass,Vileplume,10%,55,,
+Lilycove City,,Grass,Wigglytuff,10%,55,,
+Lilycove City,,Grass,Bellossom,10%,55,Recoil move,
+Lilycove City,,Grass,Lickitung,6%,55,,
+Lilycove City,,Grass,Togetic,5%,55,,
+Lilycove City,,Grass,Feraligatr,5%,55,Recoil move,
+Lilycove City,,Grass,Exploud,4%,55,,
+Lilycove City,,Surfing,Sharpedo,60%,55,,
+Lilycove City,,Surfing,Crawdaunt,30%,55,,
+Lilycove City,,Surfing,Kingler,5%,55,Recoil move,
+Lilycove City,,Surfing,Octillery,4%,55,,
+Lilycove City,,Surfing,Blastoise,1%,55,,
+Lilycove City,,Old Rod,Sharpedo,70%,55,,
+Lilycove City,,Old Rod,Crawdaunt,30%,55,,
+Lilycove City,,Good Rod,Sharpedo,60%,55,,
+Lilycove City,,Good Rod,Qwilfish,20%,55,Selfdestruct/Explosion/Memento,
+Lilycove City,,Good Rod,Mantine,20%,55,,
+Lilycove City,,Super Rod,Sharpedo,40%,65,,
+Lilycove City,,Super Rod,Tentacruel,40%,65,,
+Lilycove City,,Super Rod,Cloyster,15%,65,Selfdestruct/Explosion/Memento,
+Lilycove City,,Super Rod,Gyarados,4%,65,Recoil move,
+Lilycove City,,Super Rod,Lanturn,1%,65,,
+Safari Zone,Area 1,Grass,Vileplume,20%,50,,
+Safari Zone,Area 1,Grass,Granbull,20%,50,,
+Safari Zone,Area 1,Grass,Girafarig,10%,50,,
+Safari Zone,Area 1,Grass,Victreebel,10%,50,,
+Safari Zone,Area 1,Grass,Rapidash,10%,50,,
+Safari Zone,Area 1,Grass,Dodrio,10%,50,,
+Safari Zone,Area 1,Grass,Vigoroth,5%,50,,
+Safari Zone,Area 1,Grass,Forretress,5%,50,,
+Safari Zone,Area 1,Grass,Primeape,4%,50,,
+Safari Zone,Area 1,Grass,Grovyle,4%,50,,
+Safari Zone,Area 1,Grass,Ivysaur,2%,"45,50",,
+Safari Zone,Area 2,Grass,Exeggutor,20%,50,,
+Safari Zone,Area 2,Grass,Rhydon,20%,50,,
+Safari Zone,Area 2,Grass,Miltank,10%,50,,
+Safari Zone,Area 2,Grass,Kangaskhan,10%,50,,
+Safari Zone,Area 2,Grass,Nidoqueen,10%,55,,
+Safari Zone,Area 2,Grass,Dodrio,10%,53,,
+Safari Zone,Area 2,Grass,Arbok,5%,56,,
+Safari Zone,Area 2,Grass,Zangoose,5%,56,,
+Safari Zone,Area 2,Grass,Sandslash,4%,55,,
+Safari Zone,Area 2,Grass,Venasaur,4%,50,,
+Safari Zone,Area 2,Grass,Ivysaur,1%,50,,
+Safari Zone,Area 2,Grass,Bulbasaur,1%,50,,
+Safari Zone,Area 2,Surfing,Psyduck,90%,50,,
+Safari Zone,Area 2,Surfing,Golduck,10%,50,,
+Safari Zone,Area 2,Old Rod,Corphish,70%,52,,
+Safari Zone,Area 2,Old Rod,Crawdaunt,30%,52,,
+Safari Zone,Area 2,Good Rod,Ludicolo,60%,10-30,,
+Safari Zone,Area 2,Good Rod,Lombre,20%,45,,
+Safari Zone,Area 2,Good Rod,Lotad,20%,10-30,,
+Safari Zone,Area 2,Super Rod,Psyduck,40%,65,,
+Safari Zone,Area 2,Super Rod,Golduck,40%,65,,
+Safari Zone,Area 2,Super Rod,Seadra,15%,30-35,,
+Safari Zone,Area 2,Super Rod,Milotic,4%,35-40,,
+Safari Zone,Area 2,Super Rod,Feebas,1%,25-30,,
+Safari Zone,Area 3,Grass,Eevee,20%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Flareon,20%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Espeon,10%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Umbreon,10%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Vaporeon,10%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Jolteon,10%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Kangaskhan,5%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Rhydon,5%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Dodrio,4%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Miltank,4%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Tauros,1%,55,,Mach Bike
+Safari Zone,Area 3,Grass,Snorlax,1%,42,,Mach Bike
+Safari Zone,Area 3,Surfing,Omastar,60%,50,,Mach Bike
+Safari Zone,Area 3,Surfing,Kabutops,30%,50,,Mach Bike
+Safari Zone,Area 3,Surfing,Kabuto,5%,50,,Mach Bike
+Safari Zone,Area 3,Surfing,Omanyte,5%,50,,Mach Bike
+Safari Zone,Area 3,Old Rod,Wartortle,70%,40,,Mach Bike
+Safari Zone,Area 3,Old Rod,Squirtle,30%,40,,Mach Bike
+Safari Zone,Area 3,Good Rod,Whiscash,60%,47,,Mach Bike
+Safari Zone,Area 3,Good Rod,Barboach,20%,50,,Mach Bike
+Safari Zone,Area 3,Good Rod,Wooper,20%,10-30,,Mach Bike
+Safari Zone,Area 3,Super Rod,Croconaw,40%,46,,Mach Bike
+Safari Zone,Area 3,Super Rod,Totodile,40%,46,,Mach Bike
+Safari Zone,Area 3,Super Rod,Quagsire,15%,30-35,,Mach Bike
+Safari Zone,Area 3,Super Rod,Marshtomp,4%,35-40,,Mach Bike
+Safari Zone,Area 3,Super Rod,Mudkip,1%,25-30,,Mach Bike
+Safari Zone,Area 4,Grass,Donphan,20%,52,,Acro Bike
+Safari Zone,Area 4,Grass,Arcanine,20%,52,,Acro Bike
+Safari Zone,Area 4,Grass,Nidoking,10%,52,,Acro Bike
+Safari Zone,Area 4,Grass,Scyther,10%,52,,Acro Bike
+Safari Zone,Area 4,Grass,Ursaring,10%,52,,Acro Bike
+Safari Zone,Area 4,Grass,Seviper,10%,56,,Acro Bike
+Safari Zone,Area 4,Grass,Tauros,5%,31,,Acro Bike
+Safari Zone,Area 4,Grass,Heracross,5%,29,,Acro Bike
+Safari Zone,Area 4,Grass,Bayleef,4%,29,,Acro Bike
+Safari Zone,Area 4,Grass,Grovyle,4%,27,,Acro Bike
+Safari Zone,Area 4,Grass,Chikorita,1%,31,,Acro Bike
+Safari Zone,Area 4,Grass,Treecko,1%,29,,Acro Bike
+Safari Zone,Area 4,Rock Smash,Geodude,100%,5-30,,Acro Bike
+Route 122,,Surfing,Golduck,60%,51,,
+Route 122,,Surfing,Golbat,30%,51,,
+Route 122,,Surfing,Sharpedo,5%,51,,
+Route 122,,Surfing,Pelipper,5%,51,Recoil move,
+Route 122,,Old Rod,Crawdaunt,70%,50,,
+Route 122,,Old Rod,Tentacruel,30%,50,,
+Route 122,,Good Rod,Gyarados,60%,50,Recoil move,
+Route 122,,Good Rod,Sharpedo,40%,50,,
+Route 122,,Super Rod,Tentacruel,55%,65,,
+Route 122,,Super Rod,Gastly,40%,65,,
+Route 122,,Super Rod,Qwilfish,5%,65,Selfdestruct/Explosion/Memento,
+Mt. Pyre,Tower 1F,Grass,Shuppet,20%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Gastly,20%,51,,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Abra,10%,51,Teleport,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Drowzee,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Vulpix,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Cubone,10%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Absol,5%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Misdreavus,5%,51,,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Mr. Mime,4%,51,,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Grumpig,4%,51,,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Kirlia,1%,51,Selfdestruct/Explosion/Memento,Bring Mach Bike
+Mt. Pyre,Tower 1F,Grass,Umbreon,1%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Unown,20%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Murkrow,20%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Golbat,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Drowzee,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Shuppet,10%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Gastly,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Raticate,5%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Persian,5%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Misdreavus,4%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Mightyena,4%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Marowak,1%,51,,Bring Mach Bike
+Mt. Pyre,Tower 2F,Grass,Haunter,1%,51,,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Seviper,20%,51,,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Persian,20%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Xatu,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Abra,10%,51,Teleport,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Exeggcute,10%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Vulpix,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Absol,5%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Misdreavus,5%,51,,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Grumpig,4%,51,,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Marowak,4%,51,,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Banette,1%,51,,Bring Mach Bike
+Mt. Pyre,Tower 3F,Grass,Kirlia,1%,51,Selfdestruct/Explosion/Memento,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Chimecho,20%,51,,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Gastly,20%,51,,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Shuppet,10%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Drowzee,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Cubone,10%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Unown,10%,51,,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Xatu,5%,51,,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Vulpix,5%,51,,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Mr. Mime,4%,51,,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Persian,4%,51,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Haunter,1%,51,,Bring Mach Bike
+Mt. Pyre,Tower 4F,Grass,Jynx,1%,51,Teleport,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Abra,20%,52,Teleport,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Mr. Mime,20%,52,,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Xatu,10%,52,,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Vulpix,10%,52,,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Cubone,10%,52,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Raticate,10%,52,,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Persian,5%,52,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Golbat,5%,52,,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Seviper,4%,52,,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Banette,4%,52,,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Haunter,1%,52,,Bring Mach Bike
+Mt. Pyre,Tower 5F,Grass,Hypno,1%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Kirlia,20%,52,Selfdestruct/Explosion/Memento,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Ninetales,20%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Venomoth,10%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Xatu,10%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Misdreavus,10%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Marowak,10%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Persian,5%,52,Recoil move,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Golbat,5%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Banette,4%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Haunter,4%,52,,Bring Mach Bike
+Mt. Pyre,Tower 6F,Grass,Kadabra,2%,52,Teleport,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Noctowl,20%,53,Recoil move,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Ninetales,20%,53,,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Marowak,10%,53,,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Cacturne,10%,53,,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Banette,10%,53,,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Absol,10%,53,Recoil move,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Murkrow,5%,53,Recoil move,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Shiftry,5%,53,Selfdestruct/Explosion/Memento,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Persian,4%,53,Recoil move,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Misdreavus,4%,53,,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Hypno,1%,53,,Bring Mach Bike
+Mt. Pyre,Grass Outside,Grass,Umbreon,1%,53,,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Banette,20%,55,Recoil move,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Absol,20%,55,Recoil move,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Cacturne,10%,55,,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Marowak,10%,55,,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Hypno,10%,55,,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Shiftry,10%,55,Selfdestruct/Explosion/Memento,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Noctowl,5%,55,Recoil move,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Jynx,5%,55,Teleport,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Espeon,4%,55,,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Gengar,4%,55,,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Umbreon,1%,55,,Bring Mach Bike
+Mt. Pyre,Grass Peak,Grass,Gardevoir,1%,55,Teleport,Bring Mach Bike
+Magma Hideout,Room 1,Grass,Camerupt,20%,56,,Bring Strength
+Magma Hideout,Room 1,Grass,Weezing,20%,56,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 1,Grass,Dugtrio,10%,56,,Bring Strength
+Magma Hideout,Room 1,Grass,Torkoal,10%,56,Recoil move,Bring Strength
+Magma Hideout,Room 1,Grass,Golem,10%,56,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 1,Grass,Magmar,10%,56,,Bring Strength
+Magma Hideout,Room 1,Grass,Mightyena,5%,56,,Bring Strength
+Magma Hideout,Room 1,Grass,Typhlosion,5%,56,Recoil move,Bring Strength
+Magma Hideout,Room 1,Grass,Golbat,4%,56,,Bring Strength
+Magma Hideout,Room 1,Grass,Rhydon,4%,56,Recoil move,Bring Strength
+Magma Hideout,Room 1,Grass,Aggron,1%,56,Recoil move,Bring Strength
+Magma Hideout,Room 1,Grass,Magcargo,1%,56,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 2,Grass,Magmar,20%,57,,Bring Strength
+Magma Hideout,Room 2,Grass,Torkoal,20%,57,Recoil move,Bring Strength
+Magma Hideout,Room 2,Grass,Wobbuffet,10%,57,,Bring Strength
+Magma Hideout,Room 2,Grass,Dugtrio,10%,57,,Bring Strength
+Magma Hideout,Room 2,Grass,Dunsparce,10%,57,,Bring Strength
+Magma Hideout,Room 2,Grass,Golem,10%,57,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 2,Grass,Weeking,5%,57,,Bring Strength
+Magma Hideout,Room 2,Grass,Muk,5%,57,,Bring Strength
+Magma Hideout,Room 2,Grass,Ninetales,4%,57,,Bring Strength
+Magma Hideout,Room 2,Grass,Aggron,4%,57,Recoil move,Bring Strength
+Magma Hideout,Room 2,Grass,Rhydon,2%,57,Recoil move,Bring Strength
+Magma Hideout,Room 3,Grass,Dugtrio,20%,58,,Bring Strength
+Magma Hideout,Room 3,Grass,Manectric,20%,58,Roar/Whirlwind,Bring Strength
+Magma Hideout,Room 3,Grass,Electrode,10%,58,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 3,Grass,Wobbuffet,10%,58,,Bring Strength
+Magma Hideout,Room 3,Grass,Sudowoodo,10%,58,Recoil move,Bring Strength
+Magma Hideout,Room 3,Grass,Weezing,10%,58,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 3,Grass,Rapidash,5%,58,,Bring Strength
+Magma Hideout,Room 3,Grass,Swalot,5%,58,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 3,Grass,Torkoal,4%,58,Recoil move,Bring Strength
+Magma Hideout,Room 3,Grass,Camerupt,4%,58,,Bring Strength
+Magma Hideout,Room 3,Grass,Charizard,2%,57,,Bring Strength
+Magma Hideout,Room 4,Grass,Electrode,20%,59,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 4,Grass,Weezing,20%,59,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 4,Grass,Wobbuffet,10%,59,,Bring Strength
+Magma Hideout,Room 4,Grass,Dunsparce,10%,59,,Bring Strength
+Magma Hideout,Room 4,Grass,Steelix,10%,59,Recoil move,Bring Strength
+Magma Hideout,Room 4,Grass,Aggron,10%,59,Recoil move,Bring Strength
+Magma Hideout,Room 4,Grass,Dugtrio,5%,59,,Bring Strength
+Magma Hideout,Room 4,Grass,Crobat,5%,59,,Bring Strength
+Magma Hideout,Room 4,Grass,Electabuzz,4%,59,Recoil move,Bring Strength
+Magma Hideout,Room 4,Grass,Arcanine,4%,59,Recoil move,Bring Strength
+Magma Hideout,Room 4,Grass,Lunatone,2%,59,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 5,Grass,Wobbuffet,20%,60,,Bring Strength
+Magma Hideout,Room 5,Grass,Crobat,20%,60,,Bring Strength
+Magma Hideout,Room 5,Grass,Electrode,10%,60,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 5,Grass,Dugtrio,10%,60,,Bring Strength
+Magma Hideout,Room 5,Grass,Camerupt,10%,60,,Bring Strength
+Magma Hideout,Room 5,Grass,Torkoal,10%,60,Recoil move,Bring Strength
+Magma Hideout,Room 5,Grass,Magmar,5%,60,,Bring Strength
+Magma Hideout,Room 5,Grass,Typhlosion,5%,60,Recoil move,Bring Strength
+Magma Hideout,Room 5,Grass,Charizard,4%,60,,Bring Strength
+Magma Hideout,Room 5,Grass,Claydol,4%,60,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 5,Grass,Houndoom,1%,30,,Bring Strength
+Magma Hideout,Room 5,Grass,Houndour,1%,5,,Bring Strength
+Magma Hideout,Room 6,Grass,Wobbuffet,20%,61,,Bring Strength
+Magma Hideout,Room 6,Grass,Electrode,20%,61,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 6,Grass,Dugtrio,10%,61,,Bring Strength
+Magma Hideout,Room 6,Grass,Crobat,10%,61,,Bring Strength
+Magma Hideout,Room 6,Grass,Magmar,10%,61,,Bring Strength
+Magma Hideout,Room 6,Grass,Weezing,10%,61,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 6,Grass,Camerupt,5%,61,,Bring Strength
+Magma Hideout,Room 6,Grass,Typhlosion,5%,61,Recoil move,Bring Strength
+Magma Hideout,Room 6,Grass,Torkoal,4%,61,Recoil move,Bring Strength
+Magma Hideout,Room 6,Grass,Claydol,4%,61,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 6,Grass,Trapinch,1%,61,,Bring Strength
+Magma Hideout,Room 6,Grass,Rhydpon,1%,61,,Bring Strength
+Magma Hideout,Room 7,Grass,Dugtrio,20%,63,,Bring Strength
+Magma Hideout,Room 7,Grass,Magmar,20%,63,,Bring Strength
+Magma Hideout,Room 7,Grass,Electrode,10%,63,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 7,Grass,Torkoal,10%,63,Recoil move,Bring Strength
+Magma Hideout,Room 7,Grass,Golem,10%,63,Recoil move,Bring Strength
+Magma Hideout,Room 7,Grass,Aggron,10%,63,Recoil move,Bring Strength
+Magma Hideout,Room 7,Grass,Rhydon,5%,63,Recoil move,Bring Strength
+Magma Hideout,Room 7,Grass,Typhlosion,5%,63,Recoil move,Bring Strength
+Magma Hideout,Room 7,Grass,Charizard,4%,63,,Bring Strength
+Magma Hideout,Room 7,Grass,Claydol,4%,63,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 7,Grass,Blaziken,1%,37,Recoil move,Bring Strength
+Magma Hideout,Room 7,Grass,Combusken,1%,25,,Bring Strength
+Magma Hideout,Room 8,Grass,Wobbuffet,20%,63,,Bring Strength
+Magma Hideout,Room 8,Grass,Crobat,20%,63,,Bring Strength
+Magma Hideout,Room 8,Grass,Electrode,10%,63,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 8,Grass,Torkoal,10%,63,Recoil move,Bring Strength
+Magma Hideout,Room 8,Grass,Magmar,10%,63,,Bring Strength
+Magma Hideout,Room 8,Grass,Hariyama,10%,63,Recoil move,Bring Strength
+Magma Hideout,Room 8,Grass,Manectric,5%,63,Roar/Whirlwind,Bring Strength
+Magma Hideout,Room 8,Grass,Dugtrio,5%,63,,Bring Strength
+Magma Hideout,Room 8,Grass,Weezing,4%,63,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 8,Grass,Claydol,4%,63,Selfdestruct/Explosion/Memento,Bring Strength
+Magma Hideout,Room 8,Grass,Flygon,2%,63,Recoil move,Bring Strength
+Route 124,,Surfing,Qwilfish,60%,63,Selfdestruct/Explosion/Memento,
+Route 124,,Surfing,Mantine,30%,63,,
+Route 124,,Surfing,Tentacruel,5%,63,,
+Route 124,,Surfing,Pelipper,5%,63,Recoil move,
+Route 124,,Old Rod,Corsola,70%,63,,
+Route 124,,Old Rod,Seaking,30%,63,Recoil move,
+Route 124,,Good Rod,Qwilfish,60%,63,Selfdestruct/Explosion/Memento,
+Route 124,,Good Rod,Remoraid,20%,63,,
+Route 124,,Good Rod,Tentacruel,20%,63,,
+Route 124,,Super Rod,Sharpedo,40%,63,,
+Route 124,,Super Rod,Octillery,40%,63,,
+Route 124,,Super Rod,Mantine,15%,63,,
+Route 124,,Super Rod,Lanturn,5%,63,,
+Route 124,,Diving,Kabutops,60%,68,,
+Route 124,,Diving,Omastar,30%,68,,
+Route 124,,Diving,Lanturn,5%,68,,
+Route 124,,Diving,Relicanth,4%,68,Recoil move,
+Route 124,,Diving,Kingdra,1%,68,,
+Mossdeep City,,Grass,Ralts,20%,65,Teleport,
+Mossdeep City,,Grass,Abra,20%,65,Teleport,
+Mossdeep City,,Grass,Spoink,10%,65,,
+Mossdeep City,,Grass,Mr. Mime,10%,65,,
+Mossdeep City,,Grass,Exeggcute,10%,65,Recoil move,
+Mossdeep City,,Grass,Slowpoke,10%,65,,
+Mossdeep City,,Grass,Girafarig,5%,65,,
+Mossdeep City,,Grass,Drowzee,5%,65,,
+Mossdeep City,,Grass,Xatu,4%,65,,
+Mossdeep City,,Grass,Chimecho,4%,65,,
+Mossdeep City,,Grass,Espeon,1%,65,,
+Mossdeep City,,Grass,Jynx,1%,65,Teleport,
+Mossdeep City,,Surfing,Mantine,60%,65,,
+Mossdeep City,,Surfing,Octillery,30%,65,,
+Mossdeep City,,Surfing,Seaking,5%,65,Recoil move,
+Mossdeep City,,Surfing,Relicanth,4%,65,Recoil move,
+Mossdeep City,,Surfing,Tentacruel,1%,65,,
+Mossdeep City,,Old Rod,Slowpoke,70%,65,,
+Mossdeep City,,Old Rod,Shellder,30%,65,Selfdestruct/Explosion/Memento,
+Mossdeep City,,Good Rod,Huntail,60%,65,,
+Mossdeep City,,Good Rod,Slowbro,20%,65,,
+Mossdeep City,,Good Rod,Slowking,20%,65,,
+Mossdeep City,,Super Rod,Gorebyss,40%,65,,
+Mossdeep City,,Super Rod,Cloyster,40%,65,Selfdestruct/Explosion/Memento,
+Mossdeep City,,Super Rod,Kingler,15%,65,Recoil move,
+Mossdeep City,,Super Rod,Crawdaunt,4%,65,,
+Mossdeep City,,Super Rod,Sharpedo,1%,65,,
+Route 125,,Surfing,Dewgong,60%,64,,
+Route 125,,Surfing,Walrein,30%,64,Recoil move,
+Route 125,,Surfing,Cloyster,5%,64,Selfdestruct/Explosion/Memento,
+Route 125,,Surfing,Slowking,4%,64,,
+Route 125,,Surfing,Slowbro,1%,64,,
+Route 125,,Old Rod,Sealeo,100%,64,Recoil move,
+Route 125,,Good Rod,Slowking,60%,64,,
+Route 125,,Good Rod,Slowbro,20%,64,,
+Route 125,,Good Rod,Shellder,20%,64,Selfdestruct/Explosion/Memento,
+Route 125,,Super Rod,Cloyster,40%,64,Selfdestruct/Explosion/Memento,
+Route 125,,Super Rod,Dewgong,40%,64,,
+Route 125,,Super Rod,Walrein,15%,64,Recoil move,
+Route 125,,Super Rod,Sharpedo,5%,64,,
+Shoal Cave,1F,Grass,Spheal,20%,63,Recoil move,Bring Strength
+Shoal Cave,1F,Grass,Seel,20%,64,,Bring Strength
+Shoal Cave,1F,Grass,Sealeo,10%,64,Recoil move,Bring Strength
+Shoal Cave,1F,Grass,Smoochum,10%,64,Teleport,Bring Strength
+Shoal Cave,1F,Grass,Swinub,10%,64,,Bring Strength
+Shoal Cave,1F,Grass,Slowpoke,10%,64,,Bring Strength
+Shoal Cave,1F,Grass,Shellder,5%,64,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F,Grass,Delibird,5%,65,,Bring Strength
+Shoal Cave,1F,Grass,Kingler,4%,65,Recoil move,Bring Strength
+Shoal Cave,1F,Grass,Golduck,4%,65,,Bring Strength
+Shoal Cave,1F,Grass,Cloyster,1%,64,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F,Grass,Walrein,1%,64,Recoil move,Bring Strength
+Shoal Cave,1F,Surfing,Sealeo,60%,64,Recoil move,Bring Strength
+Shoal Cave,1F,Surfing,Dewgong,30%,64,,Bring Strength
+Shoal Cave,1F,Surfing,Shellder,5%,64,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F,Surfing,Slowbro,4%,64,,Bring Strength
+Shoal Cave,1F,Surfing,Walrein,1%,64,Recoil move,Bring Strength
+Shoal Cave,1F,Old Rod,Shellder,70%,65,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F,Old Rod,Seel,30%,65,,Bring Strength
+Shoal Cave,1F,Good Rod,Seel,60%,65,,Bring Strength
+Shoal Cave,1F,Good Rod,Spheal,20%,65,Recoil move,Bring Strength
+Shoal Cave,1F,Good Rod,Shellder,20%,65,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F,Super Rod,Sealeo,40%,65,Recoil move,Bring Strength
+Shoal Cave,1F,Super Rod,Dewgong,40%,65,,Bring Strength
+Shoal Cave,1F,Super Rod,Walrein,15%,65,Recoil move,Bring Strength
+Shoal Cave,1F,Super Rod,Cloyster,4%,65,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F,Super Rod,Wailmer,1%,4,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F Room 2,Grass,Swinub,20%,64,,Bring Strength
+Shoal Cave,1F Room 2,Grass,Sealeo,20%,64,Recoil move,Bring Strength
+Shoal Cave,1F Room 2,Grass,Smoochum,10%,64,Teleport,Bring Strength
+Shoal Cave,1F Room 2,Grass,Seel,10%,64,,Bring Strength
+Shoal Cave,1F Room 2,Grass,Shellder,10%,64,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F Room 2,Grass,Delibird,10%,64,,Bring Strength
+Shoal Cave,1F Room 2,Grass,Sneasel,5%,64,,Bring Strength
+Shoal Cave,1F Room 2,Grass,Kingler,5%,64,Recoil move,Bring Strength
+Shoal Cave,1F Room 2,Grass,Slowking,4%,64,,Bring Strength
+Shoal Cave,1F Room 2,Grass,Slowbro,4%,64,,Bring Strength
+Shoal Cave,1F Room 2,Grass,Jynx,1%,64,Teleport,Bring Strength
+Shoal Cave,1F Room 2,Grass,Walrein,1%,64,Recoil move,Bring Strength
+Shoal Cave,1F Room 2,Surfing,Dewgong,60%,65,,Bring Strength
+Shoal Cave,1F Room 2,Surfing,Slowking,30%,64,,Bring Strength
+Shoal Cave,1F Room 2,Surfing,Slowbro,5%,64,,Bring Strength
+Shoal Cave,1F Room 2,Surfing,Cloyster,4%,64,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F Room 2,Surfing,Walrein,1%,64,Recoil move,Bring Strength
+Shoal Cave,1F Room 2,Old Rod,Shellder,70%,65,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F Room 2,Old Rod,Clamperl,30%,65,,Bring Strength
+Shoal Cave,1F Room 2,Good Rod,Seel,60%,65,,Bring Strength
+Shoal Cave,1F Room 2,Good Rod,Sealeo,40%,65,Recoil move,Bring Strength
+Shoal Cave,1F Room 2,Super Rod,Dewgong,40%,65,,Bring Strength
+Shoal Cave,1F Room 2,Super Rod,Cloyster,40%,65,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F Room 2,Super Rod,Walrein,19%,65,Recoil move,Bring Strength
+Shoal Cave,1F Room 2,Super Rod,Wailmer,1%,4,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F Room 3,Grass,Snorunt,20%,64,,Bring Strength
+Shoal Cave,1F Room 3,Grass,Smoochum,20%,64,Teleport,Bring Strength
+Shoal Cave,1F Room 3,Grass,Swinub,10%,64,,Bring Strength
+Shoal Cave,1F Room 3,Grass,Seel,10%,64,,Bring Strength
+Shoal Cave,1F Room 3,Grass,Sealeo,10%,64,Recoil move,Bring Strength
+Shoal Cave,1F Room 3,Grass,Shellder,10%,64,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F Room 3,Grass,Slowpoke,5%,64,,Bring Strength
+Shoal Cave,1F Room 3,Grass,Cloyster,5%,64,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,1F Room 3,Grass,Jynx,4%,64,Teleport,Bring Strength
+Shoal Cave,1F Room 3,Grass,Glalie,4%,64,,Bring Strength
+Shoal Cave,1F Room 3,Grass,Piloswine,1%,64,,Bring Strength
+Shoal Cave,1F Room 3,Grass,Walrein,1%,64,Recoil move,Bring Strength
+Shoal Cave,B1F,Grass,Piloswine,20%,65,,Bring Strength
+Shoal Cave,B1F,Grass,Glalie,20%,65,,Bring Strength
+Shoal Cave,B1F,Grass,Jynx,10%,65,Teleport,Bring Strength
+Shoal Cave,B1F,Grass,Seel,10%,65,,Bring Strength
+Shoal Cave,B1F,Grass,Sealeo,10%,65,Recoil move,Bring Strength
+Shoal Cave,B1F,Grass,Slowpoke,10%,65,,Bring Strength
+Shoal Cave,B1F,Grass,Slowking,5%,65,,Bring Strength
+Shoal Cave,B1F,Grass,Slowbro,5%,65,,Bring Strength
+Shoal Cave,B1F,Grass,Delibird,4%,65,,Bring Strength
+Shoal Cave,B1F,Grass,Swinub,4%,65,,Bring Strength
+Shoal Cave,B1F,Grass,Smoochum,1%,65,Teleport,Bring Strength
+Shoal Cave,B1F,Grass,Snorunt,1%,65,,Bring Strength
+Shoal Cave,B1F Ice,Grass,Dugtrio,20%,65,,Bring Strength
+Shoal Cave,B1F Ice,Grass,Jynx,20%,65,Teleport,Bring Strength
+Shoal Cave,B1F Ice,Grass,Dewgong,10%,65,,Bring Strength
+Shoal Cave,B1F Ice,Grass,Cloyster,10%,65,Selfdestruct/Explosion/Memento,Bring Strength
+Shoal Cave,B1F Ice,Grass,Piloswine,10%,65,,Bring Strength
+Shoal Cave,B1F Ice,Grass,Glalie,10%,65,,Bring Strength
+Shoal Cave,B1F Ice,Grass,Walrein,5%,65,Recoil move,Bring Strength
+Shoal Cave,B1F Ice,Grass,Slowbro,5%,65,,Bring Strength
+Shoal Cave,B1F Ice,Grass,Slowking,4%,65,,Bring Strength
+Shoal Cave,B1F Ice,Grass,Wobbuffet,4%,65,,Bring Strength
+Shoal Cave,B1F Ice,Grass,Hariyama,1%,65,Recoil move,Bring Strength
+Shoal Cave,B1F Ice,Grass,Lapras,1%,63,Recoil move,Bring Strength
+Route 126,,Surfing,Poliwrath,60%,65,,
+Route 126,,Surfing,Feraligatr,30%,65,Recoil move,
+Route 126,,Surfing,Blastoise,5%,65,,
+Route 126,,Surfing,Seaking,5%,65,Recoil move,
+Route 126,,Old Rod,Slowpoke,100%,65,,
+Route 126,,Good Rod,Slowbro,60%,65,,
+Route 126,,Good Rod,Qwilfish,20%,65,Selfdestruct/Explosion/Memento,
+Route 126,,Good Rod,Tentacruel,20%,65,,
+Route 126,,Super Rod,Sharpedo,40%,65,,
+Route 126,,Super Rod,Corsola,40%,65,,
+Route 126,,Super Rod,Gyarados,15%,65,Recoil move,
+Route 126,,Super Rod,Octillery,5%,65,,
+Route 126,,Diving,Huntail,60%,68,,
+Route 126,,Diving,Lanturn,30%,68,,
+Route 126,,Diving,Gorebyss,5%,68,,
+Route 126,,Diving,Armaldo,4%,68,Recoil move,
+Route 126,,Diving,Cradily,1%,68,,
+Sootopolis City,,Grass,Heracross,40%,5-10,,
+Sootopolis City,,Grass,Lotad,29%,10-60,,
+Sootopolis City,,Grass,Lombre,29%,10-50,,
+Sootopolis City,,Grass,Ludicolo,2%,5-45,,
+Sootopolis City,,Surfing,Mantine,60%,70,,
+Sootopolis City,,Surfing,Relicanth,30%,70,Recoil move,
+Sootopolis City,,Surfing,Octillery,5%,70,Recoil move,
+Sootopolis City,,Surfing,Magikarp,5%,70,,
+Sootopolis City,,Old Rod,Seaking,70%,70,Recoil move,
+Sootopolis City,,Old Rod,Relicanth,30%,70,Recoil move,
+Sootopolis City,,Good Rod,Huntail,60%,70,,
+Sootopolis City,,Good Rod,Kabutops,20%,70,,
+Sootopolis City,,Good Rod,Relicanth,20%,70,Recoil move,
+Sootopolis City,,Super Rod,Armaldo,40%,70,Recoil move,
+Sootopolis City,,Super Rod,Omastar,40%,70,,
+Sootopolis City,,Super Rod,Gorebyss,15%,70,,
+Sootopolis City,,Super Rod,Cradily,5%,70,,
+Route 127,,Surfing,Sharpedo,60%,65,,
+Route 127,,Surfing,Mantine,30%,65,,
+Route 127,,Surfing,Qwilfish,5%,65,Selfdestruct/Explosion/Memento,
+Route 127,,Surfing,Tentacruel,5%,65,,
+Route 127,,Old Rod,Octillery,70%,65,,
+Route 127,,Old Rod,Slowbro,30%,65,,
+Route 127,,Good Rod,Qwilfish,60%,65,Selfdestruct/Explosion/Memento,
+Route 127,,Good Rod,Mantine,20%,65,,
+Route 127,,Good Rod,Tentacruel,20%,65,,
+Route 127,,Super Rod,Sharpedo,40%,65,,
+Route 127,,Super Rod,Kabutops,40%,65,,
+Route 127,,Super Rod,Omastar,15%,65,,
+Route 127,,Super Rod,Lanturn,5%,65,,
+Route 128,,Surfing,Sharpedo,60%,65,,
+Route 128,,Surfing,Lanturn,30%,65,,
+Route 128,,Surfing,Tentacruel,5%,65,,
+Route 128,,Surfing,Jumpluff,4%,65,,
+Route 128,,Surfing,Gyarados,1%,65,Recoil move,
+Route 128,,Old Rod,Clamperl,100%,65,,
+Route 128,,Good Rod,Cloyster,60%,65,Selfdestruct/Explosion/Memento,
+Route 128,,Good Rod,Huntail,20%,65,,
+Route 128,,Good Rod,Gorebyss,20%,65,,
+Route 128,,Super Rod,Corsola,40%,65,,
+Route 128,,Super Rod,Octillery,40%,65,,
+Route 128,,Super Rod,Relicanth,15%,65,Recoil move,
+Route 128,,Super Rod,Armaldo,4%,65,Recoil move,
+Route 128,,Super Rod,Cradily,1%,65,,
+Seafloor Cavern,Room 1,Surfing,Crobat,60%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Surfing,Gyarados,30%,67,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Surfing,Feraligatr,5%,67,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Surfing,Tentacruel,5%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Old Rod,Huntail,70%,65,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Old Rod,Gorebyss,30%,65,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Good Rod,Tentacruel,60%,65,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Good Rod,Qwilfish,20%,65,Selfdestruct/Explosion/Memento,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Good Rod,Feraligatr,20%,65,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Super Rod,Blastoise,40%,65,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Super Rod,Sharpedo,40%,65,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Super Rod,Relicanth,15%,65,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 1,Super Rod,Walrein,5%,65,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Crawdaunt,20%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Wobbuffet,20%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Crobat,10%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Muk,10%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Gengar,10%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Dugtrio,10%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Feraligatr,5%,66,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Kingler,5%,66,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Blastoise,4%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Seviper,4%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 2,Grass,Kabutops,2%,66,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Wobbuffet,20%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Dugtrio,20%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Omastar,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Kabutops,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Crobat,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Muk,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Cloyster,5%,68,Selfdestruct/Explosion/Memento,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Crawdaunt,5%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Kingler,4%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Steelix,4%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 3,Grass,Claydol,2%,68,Selfdestruct/Explosion/Memento,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Wobbuffet,22%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Dugtrio,20%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Seviper,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Dunsparce,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Crobat,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Feraligatr,10%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Blastoise,5%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Electrode,5%,68,Selfdestruct/Explosion/Memento,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Glalie,4%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 4,Grass,Steelix,4%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Dugtrio,20%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Wobbuffet,20%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Parasect,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Feraligatr,10%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Ariados,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Crobat,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Seviper,5%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Muk,5%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Crawdaunt,4%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Misdreavus,4%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 5,Grass,Vaporeon,2%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Wobbuffet,20%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Glalie,20%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Jynx,10%,68,Teleport,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Piloswine,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Walrein,10%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Dugtrio,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Armaldo,5%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Dewgong,5%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Misdreavus,4%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Gyarados,4%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Dunsparce,1%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Grass,Steelix,1%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Surfing,Gorebyss,60%,69,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Surfing,Cloyster,30%,69,Selfdestruct/Explosion/Memento,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Surfing,Dewgong,5%,69,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Surfing,Walrein,4%,69,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Surfing,Lapras,1%,66,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Old Rod,Walrein,70%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Old Rod,Tentacruel,30%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Good Rod,Dewgong,60%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Good Rod,Cloyster,20%,68,Selfdestruct/Explosion/Memento,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Good Rod,Qwilfish,20%,68,Selfdestruct/Explosion/Memento,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Super Rod,Sharpedo,40%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Super Rod,Huntail,40%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Super Rod,Gorebyss,15%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Super Rod,Lapras,4%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Super Rod,Wailmer,1%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 6,Note,"Room 6 ice puzzle solution: up, 2 left, up, left, down, right, up, right, down, left, down, right, up, left, up, right, up, right, down.",,,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Grass,Wobbuffet,100%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Surfing,Qwilfish,60%,68,Selfdestruct/Explosion/Memento,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Surfing,Mantine,30%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Surfing,Gorebyss,5%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Surfing,Huntail,4%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Surfing,Dewgong,1%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Old Rod,Seviper,70%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Old Rod,Gorebyss,30%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Good Rod,Muk,60%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Good Rod,Tentacruel,20%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Good Rod,Mantine,20%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Super Rod,Muk,40%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Super Rod,Mantine,40%,67,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Super Rod,Lapras,15%,67,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Super Rod,Wailmer,4%,67,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Super Rod,Wailord,1%,67,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 7,Note,"Room 7 water puzzle solution: up, Surf, left, up, 2 left, down, 2 left, up, left, left, 6 up, left, up, left, right, right.",,,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Wobbuffet,26%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Dugtrio,20%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Gengar,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Muk,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Huntail,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Gorebyss,10%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Steelix,5%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Gyarados,5%,68,Recoil move,Bring Strength and Rock Smash
+Seafloor Cavern,Room 8,Grass,Octillery,4%,68,,Bring Strength and Rock Smash
+Seafloor Cavern,Room 9,Grass,Wobbuffet,100%,70,,Bring Strength and Rock Smash
+Cave of Origins,1F,Grass,Misdreavus,20%,70,,
+Cave of Origins,1F,Grass,Xatu,20%,70,,
+Cave of Origins,1F,Grass,Marowak,10%,70,Recoil move,
+Cave of Origins,1F,Grass,Banette,10%,70,Recoil move,
+Cave of Origins,1F,Grass,Kadabra,10%,70,Teleport,
+Cave of Origins,1F,Grass,Absol,10%,70,Recoil move,
+Cave of Origins,1F,Grass,Haunter,5%,70,,
+Cave of Origins,1F,Grass,Persian,5%,70,Recoil move,
+Cave of Origins,1F,Grass,Hypno,4%,70,,
+Cave of Origins,1F,Grass,Crobat,4%,70,,
+Cave of Origins,1F,Grass,Gardevoir,1%,70,Selfdestruct/Explosion/Memento,
+Cave of Origins,1F,Grass,Gengar,1%,70,,
+Cave of Origins,1F Room 2,Grass,Wobbuffet,20%,70,,
+Cave of Origins,1F Room 2,Grass,Crobat,20%,70,,
+Cave of Origins,1F Room 2,Grass,Parasect,10%,70,,
+Cave of Origins,1F Room 2,Grass,Banette,10%,70,Recoil move,
+Cave of Origins,1F Room 2,Grass,Armaldo,10%,70,Recoil move,
+Cave of Origins,1F Room 2,Grass,Cradily,10%,70,,
+Cave of Origins,1F Room 2,Grass,Omastar,5%,70,,
+Cave of Origins,1F Room 2,Grass,Kabutops,5%,70,,
+Cave of Origins,1F Room 2,Grass,Marowak,4%,70,Recoil move,
+Cave of Origins,1F Room 2,Grass,Ninetales,4%,70,,
+Cave of Origins,1F Room 2,Grass,Duskull,1%,60,Teleport,
+Cave of Origins,1F Room 2,Grass,Dusclops,1%,61,Teleport,
+Cave of Origins,B1F,Grass,Wobbuffet,20%,70,,
+Cave of Origins,B1F,Grass,Crobat,20%,70,,
+Cave of Origins,B1F,Grass,Gardevoir,10%,70,Selfdestruct/Explosion/Memento,
+Cave of Origins,B1F,Grass,Dunsparce,10%,70,,
+Cave of Origins,B1F,Grass,Armaldo,10%,70,Recoil move,
+Cave of Origins,B1F,Grass,Cradily,10%,70,,
+Cave of Origins,B1F,Grass,Banette,5%,70,Recoil move,
+Cave of Origins,B1F,Grass,Gengar,5%,70,,
+Cave of Origins,B1F,Grass,Misdreavus,4%,70,,
+Cave of Origins,B1F,Grass,Houndour,4%,5,,
+Cave of Origins,B1F,Grass,Duskull,1%,63,Teleport,
+Cave of Origins,B1F,Grass,Dusclops,1%,60,Teleport,
+Cave of Origins,B2F,Grass,Duskull,100%,5-66,Teleport,
+Cave of Origins,B3F,Grass,Wobbuffet,20%,71,,
+Cave of Origins,B3F,Grass,Crobat,20%,70,,
+Cave of Origins,B3F,Grass,Ninetales,10%,70,,
+Cave of Origins,B3F,Grass,Gardevoir,10%,70,Selfdestruct/Explosion/Memento,
+Cave of Origins,B3F,Grass,Alakazam,10%,70,Teleport,
+Cave of Origins,B3F,Grass,Dugtrio,10%,71,,
+Cave of Origins,B3F,Grass,Marowak,5%,70,Recoil move,
+Cave of Origins,B3F,Grass,Misdreavus,5%,70,,
+Cave of Origins,B3F,Grass,Duskull,4%,66,Teleport,
+Cave of Origins,B3F,Grass,Gengar,4%,70,,
+Cave of Origins,B3F,Grass,Houndoom,1%,30,,
+Cave of Origins,B3F,Grass,Aerodactyl,1%,66,,
+Route 129,,Surfing,Pelipper,60%,65,Recoil move,
+Route 129,,Surfing,Qwilfish,30%,65,Selfdestruct/Explosion/Memento,
+Route 129,,Surfing,Octillery,5%,65,,
+Route 129,,Surfing,Tentacruel,4%,65,,
+Route 129,,Surfing,Gyarados,1%,65,Recoil move,
+Route 129,,Old Rod,Mantine,70%,65,,
+Route 129,,Old Rod,Omastar,30%,65,,
+Route 129,,Good Rod,Kabutops,60%,65,,
+Route 129,,Good Rod,Sharpedo,20%,65,,
+Route 129,,Good Rod,Tentacruel,20%,65,,
+Route 129,,Super Rod,Relicanth,40%,65,Recoil move,
+Route 129,,Super Rod,Lanturn,40%,65,,
+Route 129,,Super Rod,Armaldo,15%,65,Recoil move,
+Route 129,,Super Rod,Cradily,5%,65,,
+Route 130,,Grass,Sableye,20%,63,,
+Route 130,,Grass,Shuckle,20%,63,,
+Route 130,,Grass,Tauros,10%,63,Recoil move,
+Route 130,,Grass,Snorlax,10%,63,Recoil move,
+Route 130,,Grass,Blissey,10%,63,Recoil move,
+Route 130,,Grass,Dusclops,10%,63,Teleport,
+Route 130,,Grass,Shedinja,5%,63,Recoil move,
+Route 130,,Grass,Ninjask,5%,63,,
+Route 130,,Grass,Tyranitar,4%,63,,
+Route 130,,Grass,Salamence,4%,63,Roar/Whirlwind,
+Route 130,,Grass,Metagross,1%,63,Recoil move,
+Route 130,,Grass,Dragonite,1%,63,Recoil move,
+Route 130,,Surfing,Qwilfish,60%,65,Selfdestruct/Explosion/Memento,
+Route 130,,Surfing,Mantine,30%,65,,
+Route 130,,Surfing,Huntail,5%,65,,
+Route 130,,Surfing,Dewgong,4%,65,,
+Route 130,,Surfing,Gorebyss,1%,65,,
+Route 130,,Old Rod,Dewgong,70%,65,,
+Route 130,,Old Rod,Tentacruel,30%,65,,
+Route 130,,Good Rod,Mantine,60%,65,,
+Route 130,,Good Rod,Gyarados,20%,65,Recoil move,
+Route 130,,Good Rod,Slowking,20%,65,,
+Route 130,,Super Rod,Sharpedo,40%,65,,
+Route 130,,Super Rod,Sowbro,40%,65,,
+Route 130,,Super Rod,Octillery,15%,65,,
+Route 130,,Super Rod,Relicanth,5%,65,Recoil move,
+Route 130,,Note,Grass encounters require Mirage Island to be visible.,,,,
+Route 131,,Surfing,Qwilfish,60%,65,Selfdestruct/Explosion/Memento,
+Route 131,,Surfing,Mantine,30%,65,,
+Route 131,,Surfing,Misdreavus,5%,65,,
+Route 131,,Surfing,Dewgong,4%,65,,
+Route 131,,Surfing,Altaria,1%,65,Roar/Whirlwind,
+Route 131,,Old Rod,Corsola,70%,65,,
+Route 131,,Old Rod,Sharpedo,30%,65,,
+Route 131,,Good Rod,Mantine,60%,65,,
+Route 131,,Good Rod,Gyarados,20%,65,Recoil move,
+Route 131,,Good Rod,Tentacruel,20%,65,,
+Route 131,,Super Rod,Relicanth,40%,65,Recoil move,
+Route 131,,Super Rod,Qwilfish,40%,65,Selfdestruct/Explosion/Memento,
+Route 131,,Super Rod,Tentacruel,15%,65,,
+Route 131,,Super Rod,Lanturn,5%,65,,
+Pacifidlog Town,,Surfing,Octillery,60%,66,,
+Pacifidlog Town,,Surfing,Mantine,30%,66,,
+Pacifidlog Town,,Surfing,Blastoise,5%,66,,
+Pacifidlog Town,,Surfing,Relicanth,4%,66,Recoil move,
+Pacifidlog Town,,Surfing,Corsola,1%,66,,
+Pacifidlog Town,,Old Rod,Huntail,70%,65,,
+Pacifidlog Town,,Old Rod,Corsola,30%,65,,
+Pacifidlog Town,,Good Rod,Sharpedo,60%,65,,
+Pacifidlog Town,,Good Rod,Relicanth,20%,65,Recoil move,
+Pacifidlog Town,,Good Rod,Gorebyss,20%,65,,
+Pacifidlog Town,,Super Rod,Kabutops,40%,65,,
+Pacifidlog Town,,Super Rod,Clamperl,40%,65,,
+Pacifidlog Town,,Super Rod,Cloyster,15%,65,Selfdestruct/Explosion/Memento,
+Pacifidlog Town,,Super Rod,Omastar,4%,65,,
+Pacifidlog Town,,Super Rod,Seadra,1%,65,Recoil move,
+Sky Pillar,1F,Grass,Gengar,20%,70,,
+Sky Pillar,1F,Grass,Xatu,20%,70,,
+Sky Pillar,1F,Grass,Dugtrio,10%,70,,
+Sky Pillar,1F,Grass,Altaria,10%,70,Roar/Whirlwind,
+Sky Pillar,1F,Grass,Shiftry,10%,70,Selfdestruct/Explosion/Memento,
+Sky Pillar,1F,Grass,Flygon,10%,70,Recoil move,
+Sky Pillar,1F,Grass,Banette,5%,70,Recoil move,
+Sky Pillar,1F,Grass,Claydol,5%,70,Selfdestruct/Explosion/Memento,
+Sky Pillar,1F,Grass,Misdreavus,4%,70,,
+Sky Pillar,1F,Grass,Unown,4%,70,,
+Sky Pillar,1F,Grass,Crobat,1%,70,,
+Sky Pillar,1F,Grass,Noctowl,1%,70,Recoil move,
+Sky Pillar,3F,Grass,Wobbuffet,20%,70,,
+Sky Pillar,3F,Grass,Crobat,20%,70,,
+Sky Pillar,3F,Grass,Dugtrio,10%,70,,
+Sky Pillar,3F,Grass,Gengar,10%,70,,
+Sky Pillar,3F,Grass,Claydol,10%,70,Selfdestruct/Explosion/Memento,
+Sky Pillar,3F,Grass,Electrode,10%,70,Selfdestruct/Explosion/Memento,
+Sky Pillar,3F,Grass,Banette,5%,70,Recoil move,
+Sky Pillar,3F,Grass,Charizard,5%,70,,
+Sky Pillar,3F,Grass,Noctowl,4%,70,Recoil move,
+Sky Pillar,3F,Grass,Swellow,4%,70,,
+Sky Pillar,3F,Grass,Flygon,2%,70,Recoil move,
+Sky Pillar,5F,Grass,Wobbuffet,20%,33,,
+Sky Pillar,5F,Grass,Electrode,20%,34,Recoil move,
+Sky Pillar,5F,Grass,Dugtrio,10%,35,,
+Sky Pillar,5F,Grass,Crobat,10%,34,,
+Sky Pillar,5F,Grass,Castform,10%,36,,
+Sky Pillar,5F,Grass,Banette,10%,37,,
+Sky Pillar,5F,Grass,Venomoth,5%,38,,
+Sky Pillar,5F,Grass,Xatu,5%,16,,
+Sky Pillar,5F,Grass,Claydol,4%,37,Selfdestruct/Explosion/Memento,
+Sky Pillar,5F,Grass,Altaria,4%,38,,
+Sky Pillar,5F,Grass,Flygon,1%,39,Recoil move,
+Sky Pillar,5F,Grass,Unown,1%,39,,
+Meteor Falls,1F,Grass,Clefairy,20%,35,,
+Meteor Falls,1F,Grass,Porygon,20%,35,Recoil move,
+Meteor Falls,1F,Grass,Lairon,10%,35,Roar/Whirlwind,
+Meteor Falls,1F,Grass,Parasect,10%,35,,
+Meteor Falls,1F,Grass,Golbat,10%,35,,
+Meteor Falls,1F,Grass,Dunsparce,10%,35,Recoil move,
+Meteor Falls,1F,Grass,Loudred,5%,35,,
+Meteor Falls,1F,Grass,Solrock,5%,35,,
+Meteor Falls,1F,Grass,Lunatone,4%,35,,
+Meteor Falls,1F,Grass,Unown,4%,35,,
+Meteor Falls,1F,Grass,Cleffa,1%,35,,
+Meteor Falls,1F,Grass,Clefable,1%,35,,
+Meteor Falls,1F,Surfing,Lunatone,60%,43,,
+Meteor Falls,1F,Surfing,Solrock,30%,43,,
+Meteor Falls,1F,Surfing,Seviper,5%,43,,
+Meteor Falls,1F,Surfing,Gyarados,4%,43,Recoil move,
+Meteor Falls,1F,Surfing,Whiscash,1%,43,,
+Meteor Falls,1F,Old Rod,Kabuto,70%,35,,
+Meteor Falls,1F,Old Rod,Omanyte,30%,35,,
+Meteor Falls,1F,Good Rod,Tentacool,60%,35,,
+Meteor Falls,1F,Good Rod,Relicanth,20%,35,,
+Meteor Falls,1F,Good Rod,Grimer,20%,35,,
+Meteor Falls,1F,Super Rod,Whiscash,40%,65,,
+Meteor Falls,1F,Super Rod,Muk,40%,65,,
+Meteor Falls,1F,Super Rod,Gyarados,15%,65,Recoil move,
+Meteor Falls,1F,Super Rod,Staryu,4%,65,,
+Meteor Falls,1F,Super Rod,Starmie,1%,65,,
+Meteor Falls,1F Room 2,Grass,Wobbuffet,20%,70,,
+Meteor Falls,1F Room 2,Grass,Electrode,20%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,1F Room 2,Grass,Crobat,10%,70,,
+Meteor Falls,1F Room 2,Grass,Solrock,10%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,1F Room 2,Grass,Lunatone,10%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,1F Room 2,Grass,Clefable,10%,70,,
+Meteor Falls,1F Room 2,Grass,Clefairy,5%,70,,
+Meteor Falls,1F Room 2,Grass,Metang,5%,70,Recoil move,
+Meteor Falls,1F Room 2,Grass,Shelgon,4%,70,Roar/Whirlwind,
+Meteor Falls,1F Room 2,Grass,Bagon,4%,70,Recoil move,
+Meteor Falls,1F Room 2,Grass,Beldum,2%,70,Recoil move,
+Meteor Falls,1F Room 2,Surfing,Armaldo,60%,70,Recoil move,
+Meteor Falls,1F Room 2,Surfing,Starmie,30%,70,,
+Meteor Falls,1F Room 2,Surfing,Solrock,5%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,1F Room 2,Surfing,Lunatone,4%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,1F Room 2,Surfing,Cradily,1%,70,,
+Meteor Falls,1F Room 2,Old Rod,Seaking,70%,70,Recoil move,
+Meteor Falls,1F Room 2,Old Rod,Sharpedo,30%,70,,
+Meteor Falls,1F Room 2,Good Rod,Politoed,60%,70,,
+Meteor Falls,1F Room 2,Good Rod,Poliwrath,20%,70,,
+Meteor Falls,1F Room 2,Good Rod,Golduck,20%,70,,
+Meteor Falls,1F Room 2,Super Rod,Whiscash,40%,70,,
+Meteor Falls,1F Room 2,Super Rod,Gyarados,40%,70,Recoil move,
+Meteor Falls,1F Room 2,Super Rod,Kingdra,15%,70,,
+Meteor Falls,1F Room 2,Super Rod,Feebas,4%,70,,
+Meteor Falls,1F Room 2,Super Rod,Lapras,1%,70,Recoil move,
+Meteor Falls,B1F,Grass,Crobat,20%,70,,
+Meteor Falls,B1F,Grass,Lunatone,20%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F,Grass,Claydol,10%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F,Grass,Solrock,10%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F,Grass,Clefairy,10%,70,,
+Meteor Falls,B1F,Grass,Cleffa,10%,70,,
+Meteor Falls,B1F,Grass,Clefable,5%,70,,
+Meteor Falls,B1F,Grass,Aggron,5%,70,Recoil move,
+Meteor Falls,B1F,Grass,Wobbuffet,4%,70,,
+Meteor Falls,B1F,Grass,Gardevoir,4%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F,Grass,Flygon,2%,70,Recoil move,
+Meteor Falls,B1F,Surfing,Solrock,100%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F,Old Rod,Kabutops,70%,70,,
+Meteor Falls,B1F,Old Rod,Omastar,30%,70,,
+Meteor Falls,B1F,Good Rod,Relicanth,60%,70,Recoil move,
+Meteor Falls,B1F,Good Rod,Whiscash,20%,70,,
+Meteor Falls,B1F,Good Rod,Seaking,20%,70,Recoil move,
+Meteor Falls,B1F,Super Rod,Crawdaunt,40%,70,,
+Meteor Falls,B1F,Super Rod,Gyarados,40%,70,Recoil move,
+Meteor Falls,B1F,Super Rod,Feebas,15%,70,,
+Meteor Falls,B1F,Super Rod,Staryu,4%,70,,
+Meteor Falls,B1F,Super Rod,Milotic,1%,70,,
+Meteor Falls,B1F Room 2,Grass,Wobbuffet,20%,70,,
+Meteor Falls,B1F Room 2,Grass,Lunatone,20%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F Room 2,Grass,Solrock,10%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F Room 2,Grass,Dugtrio,10%,70,,
+Meteor Falls,B1F Room 2,Grass,Clefable,10%,70,,
+Meteor Falls,B1F Room 2,Grass,Clefairy,10%,70,,
+Meteor Falls,B1F Room 2,Grass,Claydol,5%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F Room 2,Grass,Flygon,5%,70,Recoil move,
+Meteor Falls,B1F Room 2,Grass,Salamence,4%,70,Roar/Whirlwind,
+Meteor Falls,B1F Room 2,Grass,Metagross,4%,70,Recoil move,
+Meteor Falls,B1F Room 2,Grass,Pupitar,1%,70,Roar/Whirlwind,
+Meteor Falls,B1F Room 2,Grass,Larvitar,1%,70,Roar/Whirlwind,
+Meteor Falls,B1F Room 2,Surfing,Gyarados,60%,70,Recoil move,
+Meteor Falls,B1F Room 2,Surfing,Solrock,30%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F Room 2,Surfing,Lapras,5%,70,Recoil move,
+Meteor Falls,B1F Room 2,Surfing,Lunatone,4%,70,Selfdestruct/Explosion/Memento,
+Meteor Falls,B1F Room 2,Surfing,Dragonair,1%,70,Recoil move,
+Meteor Falls,B1F Room 2,Old Rod,Feebas,100%,70,,
+Meteor Falls,B1F Room 2,Good Rod,Gyarados,60%,70,Recoil move,
+Meteor Falls,B1F Room 2,Good Rod,Cradily,20%,70,,
+Meteor Falls,B1F Room 2,Good Rod,Armaldo,20%,70,Recoil move,
+Meteor Falls,B1F Room 2,Super Rod,Staryu,40%,70,,
+Meteor Falls,B1F Room 2,Super Rod,Dragonair,40%,70,Recoil move,
+Meteor Falls,B1F Room 2,Super Rod,Milotic,15%,70,,
+Meteor Falls,B1F Room 2,Super Rod,Dratini,5%,70,Recoil move,
+Route 132,,Surfing,Tentacruel,60%,65,,
+Route 132,,Surfing,Relicanth,30%,65,Recoil move,
+Route 132,,Surfing,Seadra,5%,65,Recoil move,
+Route 132,,Surfing,Staryu,4%,65,,
+Route 132,,Surfing,Wailmer,1%,60,Recoil move,
+Route 132,,Old Rod,Clamperl,70%,65,,
+Route 132,,Old Rod,Cloyster,30%,65,Selfdestruct/Explosion/Memento,
+Route 132,,Good Rod,Mantine,60%,65,,
+Route 132,,Good Rod,Qwilfish,20%,65,Selfdestruct/Explosion/Memento,
+Route 132,,Good Rod,Staryu,20%,65,,
+Route 132,,Super Rod,Sharpedo,40%,65,,
+Route 132,,Super Rod,Lanturn,40%,65,,
+Route 132,,Super Rod,Tentacruel,15%,66,,
+Route 132,,Super Rod,Luvdisc,4%,66,,
+Route 132,,Super Rod,Wailmer,1%,40-45,Recoil move,
+Route 133,,Surfing,Staryu,60%,66,,
+Route 133,,Surfing,Sharpedo,30%,66,,
+Route 133,,Surfing,Gyarados,5%,60,Recoil move,
+Route 133,,Surfing,Lapras,4%,65,Recoil move,
+Route 133,,Surfing,Wailord,1%,60,Recoil move,
+Route 133,,Old Rod,Mantine,70%,66,,
+Route 133,,Old Rod,Qwilfish,30%,66,Selfdestruct/Explosion/Memento,
+Route 133,,Good Rod,Blastoise,60%,66,,
+Route 133,,Good Rod,Seadra,20%,66,Recoil move,
+Route 133,,Good Rod,Wailmer,20%,10-30,Selfdestruct/Explosion/Memento,
+Route 133,,Super Rod,Sharpedo,40%,66,,
+Route 133,,Super Rod,Wailmer,40%,20,,
+Route 133,,Super Rod,Kingdra,15%,66,,
+Route 133,,Super Rod,Lapras,4%,66,Recoil move,
+Route 133,,Super Rod,Wailord,1%,28,,
+Route 123,,Grass,Wobbuffet,20%,74,,
+Route 123,,Grass,Tauros,20%,74,Recoil move,
+Route 123,,Grass,Ludicolo,10%,74,,
+Route 123,,Grass,Arcanine,10%,74,Recoil move,
+Route 123,,Grass,Medicham,10%,74,,
+Route 123,,Grass,Slaking,10%,74,Recoil move,
+Route 123,,Grass,Skarmory,5%,74,,
+Route 123,,Grass,Duskull,5%,74,Teleport,
+Route 123,,Grass,Miltank,4%,74,Recoil move,
+Route 123,,Grass,Heracross,4%,74,Recoil move,
+Route 123,,Grass,Snorlax,2%,74,Recoil move,
+Route 123,,Surfing,Crawdaunt,60%,52,,
+Route 123,,Surfing,Qwilfish,30%,52,Selfdestruct/Explosion/Memento,
+Route 123,,Surfing,Sharpedo,5%,52,,
+Route 123,,Surfing,Gyarados,4%,52,Recoil move,
+Route 123,,Surfing,Lombre,1%,52,,
+Route 123,,Old Rod,Qwilfish,70%,55,Selfdestruct/Explosion/Memento,
+Route 123,,Old Rod,Lombre,30%,55,,
+Route 123,,Good Rod,Gyarados,60%,55,Recoil move,
+Route 123,,Good Rod,Kingler,20%,55,Recoil move,
+Route 123,,Good Rod,Feraligatr,20%,55,Recoil move,
+Route 123,,Super Rod,Crawdaunt,40%,65,,
+Route 123,,Super Rod,Seaking,40%,65,Recoil move,
+Route 123,,Super Rod,Clamperl,15%,65,,
+Route 123,,Super Rod,Blastoise,5%,65,,
+Ever Grande City,,Grass,Torchic,25%,70,,
+Ever Grande City,,Grass,Treecko,25%,70,,
+Ever Grande City,,Grass,Combusken,10%,70,,
+Ever Grande City,,Grass,Grovyle,10%,70,,
+Ever Grande City,,Grass,Blaziken,10%,70,,
+Ever Grande City,,Grass,Sceptile,10%,70,,
+Ever Grande City,,Grass,Eevee,4%,70,Recoil move,
+Ever Grande City,,Grass,Marshtomp,4%,70,,
+Ever Grande City,,Grass,Mudkip,1%,70,,
+Ever Grande City,,Grass,Swampert,1%,70,,
+Ever Grande City,,Surfing,Blastoise,60%,65,,
+Ever Grande City,,Surfing,Feraligatr,30%,65,Recoil move,
+Ever Grande City,,Surfing,Gyarados,5%,65,Recoil move,
+Ever Grande City,,Surfing,Sharpedo,4%,65,,
+Ever Grande City,,Surfing,Lanturn,1%,65,,
+Ever Grande City,,Old Rod,Sharpedo,70%,65,,
+Ever Grande City,,Old Rod,Mantine,30%,65,,
+Ever Grande City,,Good Rod,Tentacruel,60%,65,,
+Ever Grande City,,Good Rod,Qwilfish,20%,65,Selfdestruct/Explosion/Memento,
+Ever Grande City,,Good Rod,Gyarados,20%,65,Recoil move,
+Ever Grande City,,Super Rod,Luvdisc,81%,65,,
+Ever Grande City,,Super Rod,Corsola,19%,65,,
+Victory Road,1F,Grass,Wobbuffet,20%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Crobat,20%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Electrode,10%,72,Selfdestruct/Explosion/Memento,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Dodrio,10%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Dugtrio,10%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Medicham,10%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Kangaskhan,5%,72,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Jynx,5%,72,Teleport,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Electabuzz,4%,72,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Mr. Mime,4%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,1F,Grass,Exploud,2%,72,Roar/Whirlwind,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Wobbuffet,20%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Dugtrio,20%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Electrode,10%,72,Selfdestruct/Explosion/Memento,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Crobat,10%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Banette,10%,72,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Machamp,10%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Blastoise,5%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Hariyama,5%,72,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Golem,4%,72,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Hypno,4%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Grass,Venomoth,2%,72,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Rock Smash,Graveler,70%,30-40,Selfdestruct/Explosion/Memento,"Bring Mach Bike, Strength and Flash"
+Victory Road,B1F,Rock Smash,Geodude,30%,30-40,Selfdestruct/Explosion/Memento,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Electrode,20%,73,Selfdestruct/Explosion/Memento,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Wobbuffet,20%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Crobat,10%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Dugtrio,10%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Muk,10%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Golduck,10%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Arcanine,5%,73,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Nidoking,5%,73,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Ursaring,4%,73,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Grumpig,4%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Grass,Granbull,2%,73,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Surfing,Crobat,60%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Surfing,Muk,30%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Surfing,Sharpedo,5%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Surfing,Weezing,5%,73,Selfdestruct/Explosion/Memento,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Old Rod,Crawdaunt,70%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Old Rod,Gyarados,30%,73,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Good Rod,Whiscash,60%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Good Rod,Relicanth,20%,73,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Good Rod,Tentacruel,20%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Super Rod,Muk,40%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Super Rod,Feraligatr,40%,73,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Super Rod,Blastoise,15%,73,,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Super Rod,Lapras,4%,73,Recoil move,"Bring Mach Bike, Strength and Flash"
+Victory Road,B2F,Super Rod,Quagsire,1%,73,,"Bring Mach Bike, Strength and Flash"
