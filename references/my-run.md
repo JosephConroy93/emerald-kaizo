@@ -25,7 +25,7 @@ in SKILL.md). Last updated 2026-10-03.
   OHKO'd Nidoking on turn 1 despite rough maths saying it would survive; don't lead into it.
 - Beat all Mauville Gym trainers. Lost to Wattson twice. Rematch 2 got him to his last two
   (Electabuzz, Manectric) with the Nidoking lead: Federer beat Lanturn, Nidoking and Bron
-  traded into Ampharos, Grumpig and Dave took Raichu. Next try: level to 28-29, Leftovers on
+  traded into Ampharos, Grumpig and Dave took Raichu. Next try: level to 28-29, Sitrus (not Leftovers: Surf does ~67%) on
   Federer, Dave's double Thunder Wave (burn the Lum, then paralyse) so the Ground types move first.
 - Arcanine plan still open: catch Growlithe and Slugma in Oldale Town, candy Growlithe to the
   team's max (it learns Flame Wheel at 19 and Body Slam at 25), evolve it with the Slugma's
