@@ -838,7 +838,9 @@ def cmd_next(a):
 
 
 def main():
-    signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # quiet exit when piped into head
+    if hasattr(signal, 'SIGPIPE'):  # not on Windows
+        signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # quiet exit when piped into head
+    sys.stdout.reconfigure(encoding='utf-8')  # Windows pipes default to cp1252, which lacks →
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = p.add_subparsers(dest='cmd', required=True)
     s = sub.add_parser('mon'); s.add_argument('name'); s.add_argument('--level', '-l', type=int)
