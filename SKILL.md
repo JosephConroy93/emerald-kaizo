@@ -166,6 +166,11 @@ Lines tagged [Emerald knowledge] fill gaps where the scan was unreadable; say so
   team in **party order, lead first**. For each opposing Pokémon give one line: which of the
   user's Pokémon it threatens (by nickname, with the move) and who should face it. Then add the
   `next` lines that matter ("KO with Bron → Nidorino comes in; switch to Federer").
+- No damage maths unless the user asks for it, or the fight is a gym leader, the rival or
+  another significant battle. Otherwise just name the moves that are super effective against
+  their Pokémon, who should face each one, and which of the user's Pokémon to keep away.
+- The user is usually mid-fight, so speed matters. Answer first, then update `my-run.md` and
+  push. Batch lookups into as few script runs as you can.
 
 ## Examples
 
