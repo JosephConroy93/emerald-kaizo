@@ -27,11 +27,11 @@ in SKILL.md). Last updated 2026-10-03.
 
 ## Team (nickname: species)
 - **Federer**: Marshtomp, Lv 25, male.
-- **Xatu**: Xatu, Lv 26, just evolved from the candied Natu; swapped in for Milton for the May
-  rematch. Should know Psychic and Aerial Ace (moves not confirmed yet).
+- **Nidoking**: Lv 25, candied from Nidorino (learned Dig at 22), then Moon Stone. Dig, Double Kick,
+  Thrash, Horn Attack. In for Xatu for the Wattson gym.
 - **Bouncyboi**: Spoink, Lv 25. Psybeam, Bounce, Psywave, Confuse Ray. Becomes Grumpig at 27.
 - **Bron**: Numel, Lv 25, female. Ember, Stomp, Flame Wheel, Magnitude.
-- **Dave**: Electrike, Lv 22, female. Thunder Wave, Quick Attack, Bite, Shock Wave.
+- **Dave**: Manectric, Lv 26, female. Wild Charge, Shock Wave, Thunder Wave, Bite.
 - **Azumarill**: Azumarill, Lv 26, Huge Power, holds Silk Scarf. Body Slam, Ice Punch, Water Pulse, Bubblebeam.
 
 ## Box worth remembering
@@ -39,7 +39,7 @@ in SKILL.md). Last updated 2026-10-03.
   raise friendship to 220 with vitamins (or a Soothe Bell), then level it to evolve into
   Azumarill with Charm, Body Slam and Bounce.
 - **Milton**: Remoraid, Lv 25. Psybeam, Mud Shot, Octazooka, Ice Beam. Boxed for Xatu.
-- **Nidorino**: has Peck. Evolves with a Moon Stone; wild Skitty on Route 103 hold one half the time.
+- **Xatu**: Lv 26, evolved from the candied Natu. Boxed for the Wattson gym (weak to Electric).
 - **Luvdisc**: Lv 20, fast Charm user.
 - **Arcanine plan**: after evolving, relearn Heat Wave (its Lv 1 move) at the Fallarbor Move Relearner.
 - Also: Marill (Thick Fat), Mankey, Drowzee, Ralts, Chimecho, Unown, Snorunt, Totodile, Squirtle.
@@ -49,6 +49,6 @@ in SKILL.md). Last updated 2026-10-03.
 - Item numbers: Rare Candy 0044, Sitrus Berry 008E, Lum Berry 008D, Oran Berry 008B,
   Chesto Berry 0086, Cheri Berry 0085, Persim Berry 008C, Liechi Berry 00A8, Salac Berry 00AA,
   Berry Juice 002C, HP Up 003F, Protein 0040, Iron 0041, Carbos 0042, Calcium 0043,
-  Leftovers 00C8, Choice Band 00BA.
+  Leftovers 00C8, Choice Band 00BA, Moon Stone 005E (probably; used for Nidoking).
 - Never enable the EXP codes (they write 0202309C and 020241F0). Every hit did 256 damage and
   levels ran away; auto save states then kept the broken state.
