@@ -166,6 +166,13 @@ Lines tagged [Emerald knowledge] fill gaps where the scan was unreadable; say so
   team in **party order, lead first**. For each opposing Pokémon give one line: which of the
   user's Pokémon it threatens (by nickname, with the move) and who should face it. Then add the
   `next` lines that matter ("KO with Bron → Nidorino comes in; switch to Federer").
+- Lay each opposing Pokémon out as its own block, with labelled lines, never ✅/❌ inline on one
+  line (the user misread that and lost a Pokémon):
+  **Shuppet 26**
+  - SEND: Dave (use Bite)
+  - KEEP OUT: Bouncyboi
+  Check every one of the opponent's moves against every team member's types before writing
+  KEEP OUT; a Water move is super effective on any Ground type, Nidoking included.
 - No damage maths unless the user asks for it, or the fight is a gym leader, the rival or
   another significant battle. Otherwise just name the moves that are super effective against
   their Pokémon, who should face each one, and which of the user's Pokémon to keep away.
