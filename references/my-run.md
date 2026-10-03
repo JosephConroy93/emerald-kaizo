@@ -19,10 +19,11 @@ in SKILL.md). Last updated 2026-10-03.
 
 ## Progress
 - Badges: Stone, Knuckle. Next leader: Wattson (cap 29).
-- Now on Route 110, heading for Mauville. Lost once to May's Grovyle (Lv 26), which swept the
-  team. Plan: catch Growlithe and Slugma in Oldale Town, candy Growlithe to the team's max (it
-  learns Flame Wheel at 19 and Body Slam at 25), evolve it into Arcanine with the Slugma's Fire
-  Stone, then rematch.
+- Beat May on Route 110 (rematch, with Xatu on the team) on 2026-10-03, after losing once to
+  her Grovyle. Heading into Mauville for Wattson.
+- Arcanine plan still open: catch Growlithe and Slugma in Oldale Town, candy Growlithe to the
+  team's max (it learns Flame Wheel at 19 and Body Slam at 25), evolve it with the Slugma's
+  Fire Stone.
 
 ## Team (nickname: species)
 - **Federer**: Marshtomp, Lv 24, male.
