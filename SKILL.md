@@ -166,6 +166,11 @@ Lines tagged [Emerald knowledge] fill gaps where the scan was unreadable; say so
   team in **party order, lead first**. For each opposing Pokémon give one line: which of the
   user's Pokémon it threatens (by nickname, with the move) and who should face it. Then add the
   `next` lines that matter ("KO with Bron → Nidorino comes in; switch to Federer").
+- Fight plans come in two named formats; the user may ask for either or both by name:
+  - **Battle summary**: the ✅/❌ lines below, one per opposing Pokémon in party order.
+  - **Step-by-step battle plan**: numbered turns: lead and party order, who attacks what, and
+    at each KO who comes in next (`next`) and who to switch to.
+  For a gym leader, the rival or another big fight, give both unless asked for one.
 - One line per opposing Pokémon: the ✅ part (who to send, and the move to use), then the ❌ part
   (who to keep out, with the move that threatens them in brackets). Nothing else on the line:
   no extra notes between ✅ and ❌, where the user once misread who to send and lost a Pokémon.
