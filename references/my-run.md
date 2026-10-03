@@ -26,7 +26,8 @@ in SKILL.md). Last updated 2026-10-03.
 
 ## Team (nickname: species)
 - **Federer**: Marshtomp, Lv 24, male.
-- **Milton**: Remoraid, Lv 25. Psybeam, Mud Shot, Octazooka, Ice Beam.
+- **Xatu**: Xatu, Lv 25, just evolved from the candied Natu; swapped in for Milton for the May
+  rematch. Should know Psychic and Aerial Ace (moves not confirmed yet).
 - **Bouncyboi**: Spoink, Lv 25. Psybeam, Bounce, Psywave, Confuse Ray. Becomes Grumpig at 27.
 - **Bron**: Numel, Lv 22, female. Ember, Stomp, Flame Wheel, Magnitude.
 - **Dave**: Electrike, Lv 20, female. Thunder Wave, Quick Attack, Bite, Shock Wave.
@@ -36,8 +37,7 @@ in SKILL.md). Last updated 2026-10-03.
 - **Azurill**: Lv 19, Huge Power, knows Charm and Body Slam. Plan: battle it to 21 for Bounce,
   raise friendship to 220 with vitamins (or a Soothe Bell), then level it to evolve into
   Azumarill with Charm, Body Slam and Bounce.
-- **Natu**: being candied to the team max to learn Psychic and evolve into Xatu at 25. Its
-  Aerial Ace is the second answer to May's Grovyle, alongside the Arcanine plan.
+- **Milton**: Remoraid, Lv 25. Psybeam, Mud Shot, Octazooka, Ice Beam. Boxed for Xatu.
 - **Nidorino**: has Peck. Evolves with a Moon Stone; wild Skitty on Route 103 hold one half the time.
 - **Luvdisc**: Lv 20, fast Charm user.
 - **Arcanine plan**: after evolving, relearn Heat Wave (its Lv 1 move) at the Fallarbor Move Relearner.
