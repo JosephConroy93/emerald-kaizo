@@ -18,7 +18,8 @@ bag items in battle or levelling past the cap.
 ## Look it up with the script
 
 Run `scripts/ek.py` with Python 3 from this skill's folder (use the absolute path of the
-directory this file is in). Names are fuzzy-matched, so pass the user's spelling as-is; when
+directory this file is in). The commands below say `python3`; on Windows use `python` or `py -3`
+if `python3` isn't found. Names are fuzzy-matched, so pass the user's spelling as-is; when
 the script prints `(read "x" as Y)`, mention the correction only if it might be wrong.
 
 | Question | Command |
