@@ -21,6 +21,8 @@ in SKILL.md). Last updated 2026-10-03.
 - Badges: Stone, Knuckle. Next leader: Wattson (cap 29).
 - Beat May on Route 110 (rematch, with Xatu on the team) on 2026-10-03, after losing once to
   her Grovyle. Heading into Mauville for Wattson.
+- Mauville Gym: beat Vivian and Kirk (Xatu swapped back in for Kirk). Kirk's Voltorb Explosion
+  OHKO'd Nidoking on turn 1 despite rough maths saying it would survive; don't lead into it.
 - Arcanine plan still open: catch Growlithe and Slugma in Oldale Town, candy Growlithe to the
   team's max (it learns Flame Wheel at 19 and Body Slam at 25), evolve it with the Slugma's
   Fire Stone.
@@ -29,7 +31,7 @@ in SKILL.md). Last updated 2026-10-03.
 - **Federer**: Marshtomp, Lv 25, male.
 - **Nidoking**: Lv 25, candied from Nidorino (learned Dig at 22), then Moon Stone. Dig, Double Kick,
   Thrash, Horn Attack. In for Xatu for the Wattson gym.
-- **Bouncyboi**: Spoink, Lv 25. Psybeam, Bounce, Psywave, Confuse Ray. Becomes Grumpig at 27.
+- **Bouncyboi**: Spoink, Lv 25 (evolving into Grumpig at 27). Psybeam, Bounce, Psywave, Confuse Ray. Becomes Grumpig at 27.
 - **Bron**: Numel, Lv 25, female. Ember, Stomp, Flame Wheel, Magnitude.
 - **Dave**: Manectric, Lv 26, female. Wild Charge, Shock Wave, Thunder Wave, Bite.
 - **Azumarill**: Azumarill, Lv 26, Huge Power, holds Silk Scarf. Body Slam, Ice Punch, Water Pulse, Bubblebeam.
