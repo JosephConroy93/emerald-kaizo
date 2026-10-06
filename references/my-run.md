@@ -18,7 +18,7 @@ in SKILL.md). Last updated 2026-10-03.
 - Cheats: only the PokéMart item code below. Never the EXP codes.
 
 ## Progress
-- Badges: Stone, Knuckle. Next leader: Wattson (cap 29).
+- Badges: Stone, Knuckle, Dynamo. Next leader: Flannery (cap 42).
 - Beat May on Route 110 (rematch, with Xatu on the team) on 2026-10-03, after losing once to
   her Grovyle. Heading into Mauville for Wattson.
 - Mauville Gym: beat Vivian and Kirk (Xatu swapped back in for Kirk). Kirk's Voltorb Explosion
@@ -32,20 +32,19 @@ in SKILL.md). Last updated 2026-10-03.
   Fire Stone.
 
 ## Team (nickname: species)
-- **Federer**: Marshtomp, Lv 25, male.
-- **Nidoking**: Lv 25, candied from Nidorino (learned Dig at 22), then Moon Stone. Dig, Double Kick,
-  Thrash, Horn Attack. In for Xatu for the Wattson gym.
-- **Bouncyboi**: Grumpig. Psybeam, Psywave, Bounce, Magic Coat. Psybeam, Bounce, Psywave, Confuse Ray. Becomes Grumpig at 27.
-- **Bron**: Numel, Lv 25, female. Ember, Stomp, Flame Wheel, Magnitude.
-- **Dave**: Manectric, Lv 26, female. Wild Charge, Shock Wave, Thunder Wave, Bite.
-- **Azumarill**: Azumarill, Lv 26, Huge Power, holds Silk Scarf. Body Slam, Ice Punch, Water Pulse, Bubblebeam.
+- **Federer**: Swampert, Lv 36, male. Rock Slide, Bubblebeam, Mud Shot, Rock Smash (HM, replaced Bide;
+  Move Deleter in Lilycove). Muddy Water at 39.
+- **Boneboy**: Marowak, Lv 34. Bone Rush (EK: 100 BP single hit), Rock Throw, Secret Power, Rock Smash.
+- **Milton**: Octillery, Lv 38.
+- **Xatu**: Xatu, Lv 36. Has Psychic; take Drill Peck over Aerial Ace.
+- **Dave**: Manectric, Lv 34, female. Wild Charge, Shock Wave, Thunder Wave, Bite.
+- **Malbra Red**: Magmar, Lv 37.
 
 ## Box worth remembering
 - **Azurill**: Lv 19, Huge Power, knows Charm and Body Slam. Plan: battle it to 21 for Bounce,
   raise friendship to 220 with vitamins (or a Soothe Bell), then level it to evolve into
   Azumarill with Charm, Body Slam and Bounce.
-- **Milton**: Remoraid, Lv 25. Psybeam, Mud Shot, Octazooka, Ice Beam. Boxed for Xatu.
-- **Xatu**: Lv 26, evolved from the candied Natu. Boxed for the Wattson gym (weak to Electric).
+- Nidoking, Grumpig (Bouncyboi), Bron (Numel), Azumarill: boxed after Wattson.
 - **Luvdisc**: Lv 20, fast Charm user.
 - **Arcanine plan**: after evolving, relearn Heat Wave (its Lv 1 move) at the Fallarbor Move Relearner.
 - Also: Marill (Thick Fat), Mankey, Drowzee, Ralts, Chimecho, Unown, Snorunt, Totodile, Squirtle.
@@ -55,6 +54,9 @@ in SKILL.md). Last updated 2026-10-03.
 - Item numbers: Rare Candy 0044, Sitrus Berry 008E, Lum Berry 008D, Oran Berry 008B,
   Chesto Berry 0086, Cheri Berry 0085, Persim Berry 008C, Liechi Berry 00A8, Salac Berry 00AA,
   Berry Juice 002C, HP Up 003F, Protein 0040, Iron 0041, Carbos 0042, Calcium 0043,
-  Leftovers 00C8, Choice Band 00BA, Moon Stone 005E (probably; used for Nidoking).
+  Leftovers 00C8, Choice Band 00BA, Thick Club 00E0 (probably), Moon Stone 005E (probably; used for Nidoking).
 - Never enable the EXP codes (they write 0202309C and 020241F0). Every hit did 256 damage and
   levels ran away; auto save states then kept the broken state.
+
+## Progress notes
+- 2026-10-06: on Route 113 before Pkmn Trainer Red (Lv 36-37, optional superboss behind a Rock Smash rock).
