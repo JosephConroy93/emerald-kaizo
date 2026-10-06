@@ -63,3 +63,5 @@ in SKILL.md). Last updated 2026-10-03.
 - Lost to Red (Route 113) down to his Espeon and Charizard. Snorlax's Curse + Snore swept the
   middle of the team (Snore OHKO'd Xatu after Curses). Rematch plan: teach Dave Roar at the
   Fallarbor Move Relearner to wipe Curse boosts, or Seismic Toss (TM08); level toward 42.
+- Retry: Boneboy (Marowak, Thick Club) KO'd Snorlax with 2 Bone Rushes. He is the Snorlax answer:
+  hit it on entry before Curses stack.
