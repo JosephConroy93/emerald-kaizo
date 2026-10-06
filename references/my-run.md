@@ -60,3 +60,6 @@ in SKILL.md). Last updated 2026-10-03.
 
 ## Progress notes
 - 2026-10-06: on Route 113 before Pkmn Trainer Red (Lv 36-37, optional superboss behind a Rock Smash rock).
+- Lost to Red (Route 113) down to his Espeon and Charizard. Snorlax's Curse + Snore swept the
+  middle of the team (Snore OHKO'd Xatu after Curses). Rematch plan: teach Dave Roar at the
+  Fallarbor Move Relearner to wipe Curse boosts, or Seismic Toss (TM08); level toward 42.
