@@ -36,7 +36,8 @@ in SKILL.md). Last updated 2026-10-03.
 - **Boneboy**: Marowak, Lv 36, female, Thick Club. Bone Rush (EK: 100 BP single hit), Rock Throw,
   Secret Power, Rock Smash. Beat Red's Snorlax.
 - **Milton**: Octillery, Lv 39, male. Flamethrower, Signal Beam, Ice Beam, Octazooka.
-- **Redcheeks**: Raichu, Lv 41, female (Pikachu evolved at 41 after Surf).
+- **Altaria**: Lv 41 (Swablu candied, evolved at 41 after Heat Wave). Air Slash, Heat Wave,
+  Hyper Voice, Refresh -> Dragon Claw at 42. 4x weak to Ice. Skipped Sky Attack (desc says 2-turn).
 
 ## Box worth remembering
 - **Azurill**: Lv 19, Huge Power, knows Charm and Body Slam. Plan: battle it to 21 for Bounce,
@@ -45,7 +46,8 @@ in SKILL.md). Last updated 2026-10-03.
 - Nidoking, Grumpig (Bouncyboi), Bron (Numel), Azumarill, Dave (Manectric, Lv 34): boxed.
 - **Squirtle**: Lv 39. Plan: stall to 40 for Ice Punch, evolve to Blastoise by 42, relearn Water Spout
   (EK: 150 BP, 1/3 recoil) and Muddy Water at the Fallarbor Move Relearner.
-- **Swablu**: catching on Route 114. Delay evolving until 41 (Heat Wave), then Altaria; relearn Earthquake.
+- **Redcheeks**: Raichu, Lv 41, female. Has Surf. Benched for Altaria (Earthquake everywhere ahead).
+- **Zangoose**: Lv 34, caught Route 114. Learns Shadow Ball at 37.
 - **Luvdisc**: Lv 20, fast Charm user.
 - **Dabdicker**: Arcanine, Lv 39. Bite, Roar, Crunch, Heat Wave. Backup; Roar wipes Curse setups.
 - Also: Marill (Thick Fat), Mankey, Drowzee, Ralts, Chimecho, Unown, Snorunt, Totodile, Squirtle.
@@ -66,3 +68,5 @@ in SKILL.md). Last updated 2026-10-03.
   Fallarbor Move Relearner to wipe Curse boosts, or Seismic Toss (TM08); level toward 42.
 - Retry: Boneboy (Marowak, Thick Club) KO'd Snorlax with 2 Bone Rushes. He is the Snorlax answer:
   hit it on entry before Curses stack.
+- Cleared Route 114 and Meteor Falls (detoured to Route 115). Stopped at Mt. Chimney, before Tabitha and
+  Maxie (both have EXPLOSION users). Then Jagged Pass, Lavaridge, Flannery (cap 42).
