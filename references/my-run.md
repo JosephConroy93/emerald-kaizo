@@ -27,18 +27,15 @@ in SKILL.md). Last updated 2026-10-03.
   (Electabuzz, Manectric) with the Nidoking lead: Federer beat Lanturn, Nidoking and Bron
   traded into Ampharos, Grumpig and Dave took Raichu. Next try: level to 28-29, Sitrus (not Leftovers: Surf does ~67%) on
   Federer, Dave's double Thunder Wave (burn the Lum, then paralyse) so the Ground types move first.
-- Arcanine plan still open: catch Growlithe and Slugma in Oldale Town, candy Growlithe to the
-  team's max (it learns Flame Wheel at 19 and Body Slam at 25), evolve it with the Slugma's
-  Fire Stone.
 
 ## Team (nickname: species)
 - **Federer**: Swampert, Lv 39, male. Rock Slide, Bubblebeam, Mud Shot, Rock Smash (HM; Move Deleter
   in Lilycove). Muddy Water at 39.
 - **Xatu**: Xatu, Lv 38, female. Psychic; Drill Peck over Aerial Ace.
-- **Malbra Red**: Magmar, Lv 38, male. Fire Punch; Cross Chop is a Lv 1 move (Fallarbor Move Relearner).
+- **Malbra Red**: Magmar, Lv 38, male. Cross Chop, Mach Punch, Flamethrower, Thunderpunch.
 - **Boneboy**: Marowak, Lv 36, female, Thick Club. Bone Rush (EK: 100 BP single hit), Rock Throw,
   Secret Power, Rock Smash. Beat Red's Snorlax.
-- **Milton**: Octillery, Lv 39, male. Octazooka.
+- **Milton**: Octillery, Lv 39, male. Flamethrower, Signal Beam, Ice Beam, Octazooka.
 - **Redcheeks**: Raichu, Lv 41, female (Pikachu evolved at 41 after Surf).
 
 ## Box worth remembering
@@ -50,7 +47,7 @@ in SKILL.md). Last updated 2026-10-03.
   (EK: 150 BP, 1/3 recoil) and Muddy Water at the Fallarbor Move Relearner.
 - **Swablu**: catching on Route 114. Delay evolving until 41 (Heat Wave), then Altaria; relearn Earthquake.
 - **Luvdisc**: Lv 20, fast Charm user.
-- **Arcanine plan**: after evolving, relearn Heat Wave (its Lv 1 move) at the Fallarbor Move Relearner.
+- **Dabdicker**: Arcanine, Lv 39. Bite, Roar, Crunch, Heat Wave. Backup; Roar wipes Curse setups.
 - Also: Marill (Thick Fat), Mankey, Drowzee, Ralts, Chimecho, Unown, Snorunt, Totodile, Squirtle.
 
 ## Cheat codes (RetroArch, mGBA core, Code Breaker format)
@@ -58,7 +55,7 @@ in SKILL.md). Last updated 2026-10-03.
 - Item numbers: Rare Candy 0044, Sitrus Berry 008E, Lum Berry 008D, Oran Berry 008B,
   Chesto Berry 0086, Cheri Berry 0085, Persim Berry 008C, Liechi Berry 00A8, Salac Berry 00AA,
   Berry Juice 002C, HP Up 003F, Protein 0040, Iron 0041, Carbos 0042, Calcium 0043,
-  Leftovers 00C8, Choice Band 00BA, Thick Club 00E0 (probably), Thunder Stone 0060 (probably), Moon Stone 005E (probably; used for Nidoking).
+  Leftovers 00C8, Choice Band 00BA, Thick Club 00E0 (probably), Thunder Stone 0060 (probably), Heart Scale 006F (worked), Moon Stone 005E (probably; used for Nidoking).
 - Never enable the EXP codes (they write 0202309C and 020241F0). Every hit did 256 damage and
   levels ran away; auto save states then kept the broken state.
 
