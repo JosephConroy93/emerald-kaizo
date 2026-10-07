@@ -70,3 +70,5 @@ in SKILL.md). Last updated 2026-10-03.
   hit it on entry before Curses stack.
 - Cleared Route 114 and Meteor Falls (detoured to Route 115). Stopped at Mt. Chimney, before Tabitha and
   Maxie (both have EXPLOSION users). Then Jagged Pass, Lavaridge, Flannery (cap 42).
+- 2026-10-07: beat Tabitha and Maxie on Mt. Chimney. At Lavaridge Gym, not started. Levels: Federer 44,
+  Malbra Red 42, Milton 42, Xatu 41, Boneboy 41, Altaria 43 (Federer and Altaria over the 42 cap).
