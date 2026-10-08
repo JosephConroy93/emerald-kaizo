@@ -16,6 +16,11 @@ in SKILL.md). Last updated 2026-10-03.
   the team right now), so it can stand in alongside the others. Never candy past that, and never
   use them to level the main team; that comes from battling.
 - Cheats: only the PokéMart item code below. Never the EXP codes.
+- Catching: whenever the user mentions catching something, remind them to bring a 'chipper': Mawile
+  (False Swipe, leaves 1 HP) plus a sleeper (Noctowl Hypnosis 70%, or Chimecho Hypnosis/Thunder Wave),
+  and Nest Balls (0008) for low-level targets.
+- Box Pokémon get candied up to the next gym leader's max before joining, so ignore their box levels when
+  suggesting them.
 
 ## Progress
 - Badges: Stone, Knuckle, Dynamo, Heat. Next leader: Norman (cap 48, double battle).
@@ -57,7 +62,7 @@ in SKILL.md). Last updated 2026-10-03.
 - Item numbers: Rare Candy 0044, Sitrus Berry 008E, Lum Berry 008D, Oran Berry 008B,
   Chesto Berry 0086, Cheri Berry 0085, Persim Berry 008C, Liechi Berry 00A8, Salac Berry 00AA,
   Berry Juice 002C, HP Up 003F, Protein 0040, Iron 0041, Carbos 0042, Calcium 0043,
-  Leftovers 00C8, Choice Band 00BA, Thick Club 00E0 (probably), Thunder Stone 0060 (probably), Heart Scale 006F (worked), Moon Stone 005E (probably; used for Nidoking).
+  Leftovers 00C8, Choice Band 00BA, Thick Club 00E0 (probably), Thunder Stone 0060 (probably), Heart Scale 006F (worked), Nest Ball 0008, TM18 Rain Dance 0132 (probably), Hyper Potion 0015, Moon Stone 005E (probably; used for Nidoking).
 - Never enable the EXP codes (they write 0202309C and 020241F0). Every hit did 256 damage and
   levels ran away; auto save states then kept the broken state.
 

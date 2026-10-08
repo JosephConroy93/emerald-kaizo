@@ -183,6 +183,8 @@ Lines tagged [Emerald knowledge] fill gaps where the scan was unreadable; say so
 - No damage maths unless the user asks for it, or the fight is a gym leader, the rival or
   another significant battle. Otherwise just name the moves that are super effective against
   their Pokémon, who should face each one, and which of the user's Pokémon to keep away.
+- When the user says they're going to catch something, check the wild moveset for danger flags and
+  remind them to bring the chipper and sleeper listed in `my-run.md`, with the ball odds that matter.
 - The user is usually mid-fight, so speed matters. Answer first, then update `my-run.md` and
   push. Batch lookups into as few script runs as you can.
 
