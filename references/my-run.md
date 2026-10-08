@@ -18,7 +18,7 @@ in SKILL.md). Last updated 2026-10-03.
 - Cheats: only the PokéMart item code below. Never the EXP codes.
 
 ## Progress
-- Badges: Stone, Knuckle, Dynamo. Next leader: Flannery (cap 42).
+- Badges: Stone, Knuckle, Dynamo, Heat. Next leader: Norman (cap 48, double battle).
 - Beat May on Route 110 (rematch, with Xatu on the team) on 2026-10-03, after losing once to
   her Grovyle. Heading into Mauville for Wattson.
 - Mauville Gym: beat Vivian and Kirk (Xatu swapped back in for Kirk). Kirk's Voltorb Explosion
@@ -90,3 +90,4 @@ in SKILL.md). Last updated 2026-10-03.
   Next: Rapidash saved for Arcanine (Drill Run); Redcheeks opens on Charizard; Malbra Cross Chop for Castform.
 - Verified: Boneboy (full HP, Thick Club) survives Flannery's Arcanine Heat Wave and Bone Rush KOs it.
   Arcanine's Intimidate cut Rapidash's Drill Run to ~40%. Keep Boneboy fresh for Arcanine.
+- 2026-10-08: BEAT FLANNERY (Heat Badge). Next: Go-Goggles, Mirage Tower Bagon, Petalburg (Slowpoke 2%), Norman.
