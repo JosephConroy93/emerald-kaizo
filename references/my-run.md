@@ -76,3 +76,11 @@ in SKILL.md). Last updated 2026-10-03.
   instant here. Redcheeks swapped in for Xatu. Beat Jeff, Eli, Colette, Geraldine, Jace, Danielle.
 - Plan: catch Slowpoke in Petalburg grass (2%, Lv 7) before Norman, candy up, Water Stone (0061) ->
   Slowking (Ice Beam 37, Psychic 43, Slack Off). Replaces Xatu (who has Thief for Dark/Ghost cover).
+- Lavaridge Gym is permanent sun (Mastersheet: 'Weather is always sunny'): SolarBeam instant, Fire 1.5x,
+  Water halved. Wiped to Flannery once. New Flannery six at Lv 44: Bron (Camerupt: Earthquake, Earth Power,
+  Rock Slide), Altaria (+Earthquake), Rapidash (Drill Run, Wild Charge, Bounce, Heat Wave), Malbra Red,
+  Redcheeks, Boneboy. Lead Bron (Lum) vs Ninetales.
+- Box read from the .srm (2026-10-08): Feraligatr 38, Sudowoodo 34, Donphan 31, Breloom 31, Noctowl 30.
+  Squirtle is only Lv 7.
+- Plan: Bagon at Mirage Tower 4F (100%, Lv 10) after Flannery (needs Go-Goggles, Rock Smash, Mach Bike).
+  Delay evolving until 49.
