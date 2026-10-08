@@ -46,7 +46,7 @@ in SKILL.md). Last updated 2026-10-03.
 
 ## Box worth remembering
 - **Azurill**: Lv 19, Huge Power, knows Charm and Body Slam. Plan: battle it to 21 for Bounce,
-  raise friendship to 220 with vitamins (or a Soothe Bell), then level it to evolve into
+  raise friendship to 220 with a Soothe Bell (vitamins appear disabled in EK), then level it to evolve into
   Azumarill with Charm, Body Slam and Bounce.
 - Nidoking, Grumpig (Bouncyboi), Bron (Numel), Azumarill, Dave (Manectric, Lv 34): boxed.
 - **Squirtle**: Lv 39. Plan: stall to 40 for Ice Punch, evolve to Blastoise by 42, relearn Water Spout
@@ -98,3 +98,4 @@ in SKILL.md). Last updated 2026-10-03.
 - 2026-10-08: BEAT FLANNERY (Heat Badge). Next: Go-Goggles, Mirage Tower Bagon, Petalburg (Slowpoke 2%), Norman.
 - Caught Trapinch (Mirage Tower). Still to get: Bagon (Mirage Tower 4F, before taking the Root Fossil),
   Root Fossil -> Lileep (revive at Devon, Rustboro), Slowpoke (Petalburg, 2%).
+- Vitamins and PP Ups give the 'time and place' message: likely disabled in EK (docs silent). Don't plan around them.
