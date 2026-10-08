@@ -72,3 +72,7 @@ in SKILL.md). Last updated 2026-10-03.
   Maxie (both have EXPLOSION users). Then Jagged Pass, Lavaridge, Flannery (cap 42).
 - 2026-10-07: beat Tabitha and Maxie on Mt. Chimney. At Lavaridge Gym, not started. Levels: Federer 44,
   Malbra Red 42, Milton 42, Xatu 41, Boneboy 41, Altaria 43 (Federer and Altaria over the 42 cap).
+- Lavaridge Gym: SolarBeam fired with no charge turn (Rapidash outsped and KO'd Federer); treat it as
+  instant here. Redcheeks swapped in for Xatu. Beat Jeff, Eli, Colette, Geraldine, Jace, Danielle.
+- Plan: catch Slowpoke in Petalburg grass (2%, Lv 7) before Norman, candy up, Water Stone (0061) ->
+  Slowking (Ice Beam 37, Psychic 43, Slack Off). Replaces Xatu (who has Thief for Dark/Ghost cover).
