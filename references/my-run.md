@@ -99,3 +99,7 @@ in SKILL.md). Last updated 2026-10-03.
 - Caught Trapinch (Mirage Tower). Still to get: Bagon (Mirage Tower 4F, before taking the Root Fossil),
   Root Fossil -> Lileep (revive at Devon, Rustboro), Slowpoke (Petalburg, 2%). DONE: Bagon, Root Fossil, Slowpoke.
 - Vitamins and PP Ups give the 'time and place' message: likely disabled in EK (docs silent). Don't plan around them.
+- Chumpeatss: Slowpoke evolved to Slowking (Water Stone) on 2026-10-08; Oblivious slot -> Natural Cure.
+  Wanted Slowbro (Shell Armor); get one later from Route 120 Super Rod (Slowpoke 15%) if needed.
+- Candy plan to 48: Lileep (Lilliallen) stall to 48 for Giga Drain; Trapinch (Spiremouth) stall to 41 for Dig,
+  then Vibrava -> Flygon 45; Bagon stall to 49 (Dragon Claw) -> Salamence 51. Everstone 00C3, Water Stone 0061.
