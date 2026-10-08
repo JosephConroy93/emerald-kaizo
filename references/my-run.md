@@ -84,3 +84,7 @@ in SKILL.md). Last updated 2026-10-03.
   Squirtle is only Lv 7.
 - Plan: Bagon at Mirage Tower 4F (100%, Lv 10) after Flannery (needs Go-Goggles, Rock Smash, Mach Bike).
   Delay evolving until 49.
+- Flannery attempt 2 (sun team): wiped with her Arcanine on 15%. Castform appears to have Levitate (Ground
+  missed; docs list no ability, but EK gives it +40 Atk/SpA, +30 Spe). Charizard outsped and EQ'd Bron;
+  Redcheeks' Thunderbolt did 95% then fell to it. Thunderpunch barely dented Arcanine (Leftovers).
+  Next: Rapidash saved for Arcanine (Drill Run); Redcheeks opens on Charizard; Malbra Cross Chop for Castform.
