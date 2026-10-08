@@ -96,3 +96,5 @@ in SKILL.md). Last updated 2026-10-03.
 - Verified: Boneboy (full HP, Thick Club) survives Flannery's Arcanine Heat Wave and Bone Rush KOs it.
   Arcanine's Intimidate cut Rapidash's Drill Run to ~40%. Keep Boneboy fresh for Arcanine.
 - 2026-10-08: BEAT FLANNERY (Heat Badge). Next: Go-Goggles, Mirage Tower Bagon, Petalburg (Slowpoke 2%), Norman.
+- Caught Trapinch (Mirage Tower). Still to get: Bagon (Mirage Tower 4F, before taking the Root Fossil),
+  Root Fossil -> Lileep (revive at Devon, Rustboro), Slowpoke (Petalburg, 2%).
