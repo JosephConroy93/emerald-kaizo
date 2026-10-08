@@ -88,3 +88,5 @@ in SKILL.md). Last updated 2026-10-03.
   missed; docs list no ability, but EK gives it +40 Atk/SpA, +30 Spe). Charizard outsped and EQ'd Bron;
   Redcheeks' Thunderbolt did 95% then fell to it. Thunderpunch barely dented Arcanine (Leftovers).
   Next: Rapidash saved for Arcanine (Drill Run); Redcheeks opens on Charizard; Malbra Cross Chop for Castform.
+- Verified: Boneboy (full HP, Thick Club) survives Flannery's Arcanine Heat Wave and Bone Rush KOs it.
+  Arcanine's Intimidate cut Rapidash's Drill Run to ~40%. Keep Boneboy fresh for Arcanine.
