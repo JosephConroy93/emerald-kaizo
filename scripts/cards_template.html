@@ -1,0 +1,179 @@
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@500;700&family=Atkinson+Hyperlegible:wght@400;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* Layout: a scouting binder. One card per opposing Pokémon, moves as type-coloured strips,
+   "hit it with" up top, your Pokémon at risk flagged in red under each move. */
+:root {
+  --bg: #eef1ef;
+  --card: #ffffff;
+  --ink: #18201c;
+  --muted: #5d6a63;
+  --line: #d5dcd8;
+  --danger: #c2261f;
+  --danger-bg: #fbe4e2;
+  --good: #1f7a45;
+  --chip: #e6ebe8;
+  --display: "Pixelify Sans", "Courier New", monospace;
+  --body: "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "DM Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121614; --card: #1b211e; --ink: #e8eee9; --muted: #98a59e; --line: #2c3530;
+    --danger: #ff6b61; --danger-bg: #3a1a18; --good: #5fd08f; --chip: #252d29; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121614; --card: #1b211e; --ink: #e8eee9; --muted: #98a59e; --line: #2c3530;
+  --danger: #ff6b61; --danger-bg: #3a1a18; --good: #5fd08f; --chip: #252d29; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.45 var(--body); }
+.wrap { max-width: 1180px; margin: 0 auto; padding-inline: 16px; padding-block: 20px 40px; }
+header.top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; margin-bottom: 6px; }
+h1 { font: 700 clamp(26px, 5vw, 38px)/1.05 var(--display); margin: 0; letter-spacing: .5px; text-wrap: balance; }
+.place { color: var(--muted); font-size: 14px; }
+.badge { font: 500 12px var(--mono); text-transform: uppercase; letter-spacing: .08em; padding: 3px 8px;
+  border-radius: 4px; background: var(--ink); color: var(--bg); }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 16px; color: var(--muted); font-size: 13px; margin: 8px 0 18px; }
+.legend b { color: var(--ink); }
+.tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 16px; }
+.tabs button { font: 500 13px var(--body); border: 1px solid var(--line); background: var(--card); color: var(--ink);
+  padding: 6px 12px; border-radius: 999px; cursor: pointer; }
+.tabs button[aria-selected="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.tabs button:focus-visible, .toggle:focus-visible { outline: 2px solid var(--good); outline-offset: 2px; }
+.grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); }
+.mon { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px; min-width: 0;
+  display: flex; flex-direction: column; gap: 12px; }
+.mon-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+.mon-name { font: 700 22px/1.1 var(--display); margin: 0; }
+.slot { font: 500 12px var(--mono); color: var(--muted); }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; font-size: 12.5px; color: var(--muted); }
+.meta span { background: var(--chip); padding: 2px 7px; border-radius: 4px; }
+.lv { font: 500 15px var(--mono); white-space: nowrap; }
+.types { display: flex; gap: 5px; flex-wrap: wrap; justify-content: flex-end; }
+.t { display: inline-block; font: 700 11px/1 var(--body); text-transform: uppercase; letter-spacing: .06em;
+  padding: 4px 7px; border-radius: 4px; }
+.sect-label { font: 500 11px var(--mono); text-transform: uppercase; letter-spacing: .1em; color: var(--muted); margin-bottom: 5px; }
+.weak { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
+.x { font: 500 12px var(--mono); color: var(--muted); margin-right: 2px; }
+.x4 { color: var(--good); font-weight: 700; }
+.resist { font-size: 12.5px; color: var(--muted); }
+.resist .t { opacity: .55; }
+.moves { display: flex; flex-direction: column; gap: 8px; }
+.move { border-radius: 8px; overflow: hidden; border: 1px solid var(--line); }
+.move-top { display: flex; align-items: center; gap: 8px; padding: 7px 10px; }
+.move-name { font-weight: 700; font-size: 15px; flex: 1; min-width: 0; }
+.cat { font: 500 10.5px var(--mono); text-transform: uppercase; letter-spacing: .08em; padding: 2px 6px;
+  border-radius: 3px; background: rgba(0,0,0,.18); }
+.move-body { padding: 7px 10px 9px; display: flex; flex-direction: column; gap: 6px; background: var(--card); }
+.se { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; font-size: 12px; color: var(--muted); }
+.se .t { font-size: 10px; padding: 3px 5px; }
+.hits { display: flex; flex-wrap: wrap; gap: 5px; }
+.hit { font-size: 12.5px; font-weight: 700; color: var(--danger); background: var(--danger-bg); padding: 2px 8px; border-radius: 4px; }
+.note { font-size: 12px; color: var(--muted); font-style: italic; }
+.danger { font: 700 11px var(--mono); color: #fff; background: var(--danger); padding: 2px 6px; border-radius: 3px; letter-spacing: .06em; }
+.status-txt { font-size: 12px; color: var(--muted); }
+footer { margin-top: 22px; color: var(--muted); font-size: 12.5px; max-width: 70ch; }
+@media (prefers-reduced-motion: no-preference) { .mon { transition: border-color .15s; } .mon:hover { border-color: var(--muted); } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1 id="tname"></h1>
+    <span class="place" id="tplace"></span>
+    <span class="badge" id="tdouble" hidden>Double battle</span>
+  </header>
+  <div class="legend" id="legend"></div>
+  <nav class="tabs" id="tabs" role="tablist" hidden></nav>
+  <main class="grid" id="grid"></main>
+  <footer>Types and matchups from the EK AI Switch Calculator; teams and moves from the EK Mastersheet.
+    Physical or special follows Gen 3 rules: the move's type decides it. Red tags show which of your
+    Pokémon a move hits super effectively.</footer>
+</div>
+
+<script>
+const DATA = __DATA__;
+const TYPE_COL = { NORMAL:'#A8A878', FIRE:'#F08030', WATER:'#6890F0', ELECTRIC:'#F8D030', GRASS:'#78C850',
+  ICE:'#98D8D8', FIGHTING:'#C03028', POISON:'#A040A0', GROUND:'#E0C068', FLYING:'#A890F0', PSYCHIC:'#F85888',
+  BUG:'#A8B820', ROCK:'#B8A038', GHOST:'#705898', DRAGON:'#7038F8', DARK:'#705848', STEEL:'#B8B8D0' };
+const DARK_TEXT = new Set(['NORMAL','ELECTRIC','GRASS','ICE','GROUND','BUG','ROCK','STEEL','FLYING','WATER','FIRE']);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const cap = t => t.charAt(0) + t.slice(1).toLowerCase();
+const chip = t => `<span class="t" style="background:${TYPE_COL[t]};color:${DARK_TEXT.has(t)?'#1a1a1a':'#fff'}">${cap(t)}</span>`;
+const xs = x => x == 0 ? '0×' : (x == 0.25 ? '¼×' : x == 0.5 ? '½×' : `${x}×`);
+
+function monCard(m, i) {
+  const mu = m.matchups;
+  const weak4 = (mu['4.0'] || mu['4'] || []), weak2 = (mu['2.0'] || mu['2'] || []);
+  const res = [...(mu['0.5'] || []), ...(mu['0.25'] || [])], imm = mu['0'] || mu['0.0'] || [];
+  const meta = [m.item && `@ ${esc(m.item)}`, m.nature && esc(m.nature), m.ivs && `IVs ${esc(m.ivs)}`,
+    m.levitate && 'Levitate'].filter(Boolean).map(s => `<span>${s}</span>`).join('');
+  const moves = m.moves.map(mv => {
+    const col = TYPE_COL[mv.type], txt = DARK_TEXT.has(mv.type) ? '#1a1a1a' : '#fff';
+    const se = mv.cat === 'status' ? `<div class="status-txt">Status move: no damage.</div>`
+      : (mv.se.length ? `<div class="se">2× vs ${mv.se.map(chip).join('')}</div>` : `<div class="se">Super effective on nothing.</div>`);
+    const hits = mv.hits.length ? `<div class="hits">${mv.hits.map(h => `<span class="hit">Hits ${esc(h.who)} ${xs(h.x)}</span>`).join('')}</div>` : '';
+    return `<div class="move">
+      <div class="move-top" style="background:${col};color:${txt}">
+        <span class="move-name">${esc(mv.name)}</span>
+        ${mv.danger ? '<span class="danger">Danger</span>' : ''}
+        <span class="cat">${mv.cat === 'physical' ? 'Phys' : mv.cat === 'special' ? 'Spec' : 'Status'}</span>
+      </div>
+      <div class="move-body">${se}${hits}${mv.note ? `<div class="note">EK: ${esc(mv.note)}</div>` : ''}</div>
+    </div>`;
+  }).join('');
+  return `<article class="mon">
+    <div class="mon-head">
+      <div style="min-width:0">
+        <div class="slot">${i === 0 ? 'Lead' : 'Slot ' + (i + 1)}</div>
+        <h2 class="mon-name">${esc(m.species)}${m.gender ? ` <span class="slot">${m.gender === 'm' ? '♂' : '♀'}</span>` : ''}</h2>
+        <div class="meta">${meta}</div>
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px">
+        <span class="lv">Lv ${m.level}</span>
+        <div class="types">${m.types.map(chip).join('')}</div>
+      </div>
+    </div>
+    <div>
+      <div class="sect-label">Hit it with</div>
+      <div class="weak">
+        ${weak4.length ? `<span class="x x4">4×</span>${weak4.map(chip).join('')}` : ''}
+        ${weak2.length ? `<span class="x">2×</span>${weak2.map(chip).join('')}` : ''}
+        ${!weak4.length && !weak2.length ? '<span class="resist">No weaknesses.</span>' : ''}
+      </div>
+    </div>
+    ${(res.length || imm.length) ? `<div class="resist">
+      ${imm.length ? `<div class="weak" style="margin-bottom:4px"><span class="x">Immune</span>${imm.map(chip).join('')}</div>` : ''}
+      ${res.length ? `<div class="weak"><span class="x">Resists</span>${res.map(chip).join('')}</div>` : ''}
+    </div>` : ''}
+    <div>
+      <div class="sect-label">Moves</div>
+      <div class="moves">${moves}</div>
+    </div>
+  </article>`;
+}
+
+function show(idx) {
+  const t = DATA.trainers[idx];
+  document.getElementById('tname').textContent = t.name;
+  document.getElementById('tplace').textContent = t.place;
+  document.getElementById('tdouble').hidden = !t.double;
+  document.getElementById('grid').innerHTML = t.party.map(monCard).join('');
+  document.querySelectorAll('#tabs button').forEach((b, i) => b.setAttribute('aria-selected', i === idx));
+}
+
+const legend = document.getElementById('legend');
+legend.innerHTML = DATA.team.length
+  ? `<span>Your team: <b>${DATA.team.map(esc).join(', ')}</b></span><span>Red tag = that move is super effective on them.</span>`
+  : '';
+if (DATA.trainers.length > 1) {
+  const tabs = document.getElementById('tabs');
+  tabs.hidden = false;
+  tabs.innerHTML = DATA.trainers.map((t, i) => `<button role="tab" type="button">${esc(t.name)}</button>`).join('');
+  tabs.querySelectorAll('button').forEach((b, i) => b.addEventListener('click', () => show(i)));
+}
+show(0);
+</script>

@@ -37,6 +37,7 @@ the script prints `(read "x" as Y)`, mention the correction only if it might be 
 | Stuck: what's next after badge N | `python3 scripts/ek.py guide "badge 3"` |
 | Where's an HM, bike or key item; what to do at a place | `python3 scripts/ek.py guide "Mach Bike"` / `guide Fortree` |
 | Anything else (items, TMs, tutors, puzzles, gifts) | `python3 scripts/ek.py search "text"` |
+| Scouting cards page for a trainer, gym or place (types, weaknesses, type-coloured moves, your team's risks) | `python3 scripts/cards.py "Petalburg Gym" --team "Nick=Species,..." -o page.html`, then publish it as an Artifact |
 
 If the script says a name is ambiguous (Nidoran, a short prefix), ask which one. If code can't
 run, read the files in `references/` directly; each has the layout described below.
