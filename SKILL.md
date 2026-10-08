@@ -167,6 +167,11 @@ Lines tagged [Emerald knowledge] fill gaps where the scan was unreadable; say so
   team in **party order, lead first**. For each opposing Pokémon give one line: which of the
   user's Pokémon it threatens (by nickname, with the move) and who should face it. Then add the
   `next` lines that matter ("KO with Bron → Nidorino comes in; switch to Federer").
+- **Scouting cards are the default for trainer and gym info** (the user's preferred format): run
+  `scripts/cards.py` for the trainer, gym or place with `--team` set to the user's current six
+  (`Nickname=Species`), publish the HTML as an Artifact (one per gym or area; republish the same file to
+  keep its link), and reply with the link plus one or two lines on the big threats. The user plans
+  from the cards, so only add a Battle summary or Step-by-step battle plan when asked.
 - Fight plans come in two named formats; the user may ask for either or both by name:
   - **Battle summary**: the ✅/❌ lines below, one per opposing Pokémon in party order.
   - **Step-by-step battle plan**: numbered turns: lead and party order, who attacks what, and
