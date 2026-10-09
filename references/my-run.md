@@ -23,7 +23,7 @@ in SKILL.md). Last updated 2026-10-03.
   suggesting them.
 
 ## Progress
-- Badges: Stone, Knuckle, Dynamo, Heat. Next leader: Norman (cap 48, double battle).
+- Badges: Stone, Knuckle, Dynamo, Heat, Balance. Next leader: Winona (cap 55, double battle: Aerodactyl, Zapdos, Crobat, Articuno, Flygon, Moltres).
 - Beat May on Route 110 (rematch, with Xatu on the team) on 2026-10-03, after losing once to
   her Grovyle. Heading into Mauville for Wattson.
 - Mauville Gym: beat Vivian and Kirk (Xatu swapped back in for Kirk). Kirk's Voltorb Explosion
@@ -106,3 +106,7 @@ in SKILL.md). Last updated 2026-10-03.
 - Zangoose has Immunity (can't be poisoned): it solo'd the Petalburg Gym Stall Room (Toxic/Protect/Softboiled
   Blissey, ran it to Struggle). Use it against Toxic and poison teams. Cards don't model abilities yet.
 - Donphan has no Superpower (never visited the Move Relearner); assume Head Smash, Rock Slide, Body Slam, Ice Shard.
+- 2026-10-09: BEAT NORMAN (Balance Badge). Final: Snorlax fell to two Altaria crits. Lessons: Slaking has Truant;
+  lead two Intimidate users (Salamence, Dabdicker); Swellow's Sky Attack nearly OHKOs Salamence; Roar fails on the
+  last Pokémon; special hits and Seismic Toss for cursed Snorlax. Next: Surf (HM03 from Wally's dad), Route 118/119,
+  Weather Institute, rival (HM02 Fly), Fortree.
