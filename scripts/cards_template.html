@@ -107,7 +107,7 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12.5px; max-width: 70
   <div class="legend" id="legend"></div>
   <nav class="tabs" id="tabs" role="tablist" hidden></nav>
   <section class="best" id="best" hidden>
-    <div class="best-head"><h2>Team of best fit</h2><span>Six from your party and box that cover this trainer best.</span></div>
+    <div class="best-head"><h2>Team of best fit</h2><span>The six of your Pokémon that cover this trainer best.</span></div>
     <div class="best-row" id="best-row"></div>
   </section>
   <main class="grid" id="grid"></main>
@@ -176,7 +176,6 @@ function monCard(m, i) {
     ${m.suggest && m.suggest.length ? `<div>
       <div class="sect-label">Suggested</div>
       <div class="sugg">${m.suggest.map(s => `<div class="pick"><b>${esc(s.who)}</b>
-        <span class="from">${s.where === 'box' ? 'from box' : 'in party'}</span>
         <span class="why${s.why.includes('careful') ? ' warn' : ''}">${esc(s.why)}</span></div>`).join('')}</div>
     </div>` : ''}
     <div>
@@ -196,7 +195,7 @@ function show(idx) {
   document.getElementById('best').hidden = !best.length;
   document.getElementById('best-row').innerHTML = best.map(b => `<div class="member">
       <b>${esc(b.who)}</b>
-      <span class="from">${b.where === 'box' ? 'from box' : 'in party'}${b.who !== b.species ? ' · ' + esc(b.species) : ''}</span>
+      ${b.who !== b.species ? `<span class="from">${esc(b.species)}</span>` : ''}
       <div class="types">${b.types.map(chip).join('')}</div>
       <span class="for">${b.covers.length ? 'For <strong>' + b.covers.map(esc).join(', ') + '</strong>'
         : 'Backup' + (b.backup && b.backup.length ? ' for ' + b.backup.map(esc).join(', ') : '')}</span>
