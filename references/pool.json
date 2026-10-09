@@ -215,9 +215,9 @@
       "species": "Mawile",
       "where": "box",
       "moves": [
-        "Brick Break",
-        "Super Fang",
         "Crunch",
+        "False Swipe",
+        "Ancientpower",
         "Flash Cannon"
       ]
     }

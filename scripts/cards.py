@@ -102,7 +102,7 @@ POWER = {
     'Wild Charge': 90, 'Bounce': 85, 'Earth Power': 90, 'Double-Edge': 120, 'Thief': 40, 'Night Shade': 60,
     'Drill Peck': 80, 'Shock Wave': 60, 'Ice Punch': 75, 'Water Gun': 40, 'Slash': 70, 'Rock Tomb': 50,
     'Thrash': 90, 'Horn Attack': 65, 'Double Kick': 60, 'Psybeam': 65, 'Psywave': 60, 'Waterfall': 80,
-    'Hyper Voice': 120, 'Overheat': 120, 'Ice Shard': 40, 'Super Fang': 70, 'Flash Cannon': 90, 'Knock Off': 65,
+    'Hyper Voice': 120, 'Overheat': 120, 'Ice Shard': 40, 'Super Fang': 70, 'Flash Cannon': 90, 'Knock Off': 65, 'Ancientpower': 80, 'False Swipe': 40,
 }
 # Secondary effects (vanilla Gen 3 unless EK's Move Changes doc says otherwise). 'status' ones are the
 # ones a Lum Berry answers; the rest are flinches or stat drops on the target.
