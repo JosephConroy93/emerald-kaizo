@@ -103,3 +103,6 @@ in SKILL.md). Last updated 2026-10-03.
   Wanted Slowbro (Shell Armor); get one later from Route 120 Super Rod (Slowpoke 15%) if needed.
 - Candy plan to 48: Lileep (Lilliallen) stall to 48 for Giga Drain; Trapinch (Spiremouth) stall to 41 for Dig,
   then Vibrava -> Flygon 45; Bagon stall to 49 (Dragon Claw) -> Salamence 51. Everstone 00C3, Water Stone 0061.
+- Zangoose has Immunity (can't be poisoned): it solo'd the Petalburg Gym Stall Room (Toxic/Protect/Softboiled
+  Blissey, ran it to Struggle). Use it against Toxic and poison teams. Cards don't model abilities yet.
+- Donphan has no Superpower (never visited the Move Relearner); assume Head Smash, Rock Slide, Body Slam, Ice Shard.
