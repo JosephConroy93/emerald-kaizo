@@ -262,15 +262,33 @@ def resolve_team(d, spec):
     return out
 
 
-def build(query, team_spec, only_team=False, pin=None):
+def build(query, team_spec, only_team=False, pin=None, rival=''):
     d = ek.switch_data()
     _, changes = ek.load_move_changes(ek.load_learnsets())
     team = resolve_team(d, team_spec) if team_spec else []
-    q = ek.key(query)
     blocks = list(ek.trainer_blocks(ek.mastersheet_sections()))
-    hits = [b for b in blocks if q in ek.key(b[1])] or [b for b in blocks if q in ek.key(b[0])]
-    if not hits:
-        sys.exit(f'No trainer or place matches "{query}".')
+    hits = []
+    for part in [x for x in query.split(';') if x.strip()]:
+        q = ek.key(part)
+        found = [b for b in blocks if q in ek.key(b[1])] or [b for b in blocks if q in ek.key(b[0])]
+        if not found:
+            sys.exit(f'No trainer or place matches "{part}".')
+        hits += [b for b in found if b not in hits]
+    if rival:
+        starter, _, gender = rival.partition(',')
+        variants = ek.rival_variants()
+        g = 'm' if gender.strip().lower().startswith(('b', 'm')) else 'f'
+        fixed = []
+        for loc, name, lines in hits:
+            if {"May", "Brendan"} & set(name.split()):
+                want = 'Route 119' if 'weather' in loc.lower() else loc
+                v = next((t for l, var, t in variants if ek.key(want) in ek.key(l)
+                          and ek.key(var.split(', ')[1]) == ek.key(starter)
+                          and var.lower().startswith('male' if g == 'm' else 'female')), None)
+                if v:
+                    lines = v
+            fixed.append((loc, name, lines))
+        hits = fixed
     trainers = []
     pool = []
     pool_file = Path(__file__).parent.parent / 'references' / 'pool.json'
@@ -312,12 +330,13 @@ def main():
     p.add_argument('query')
     p.add_argument('--team', default='')
     p.add_argument('--title', default='')
+    p.add_argument('--rival', default='', help='your starter and gender, e.g. "mudkip,boy", to show the right rival team')
     p.add_argument('--leads', default='', help='pin your leads, e.g. "Salamence,Dabdicker:Slaking"')
     p.add_argument('--only-team', action='store_true', help='suggest only from the --team Pokémon')
     p.add_argument('--start', default='', help='drop trainers before the first one whose name contains this')
     p.add_argument('-o', '--out', required=True)
     a = p.parse_args()
-    data = build(a.query, a.team, a.only_team, a.leads)
+    data = build(a.query, a.team, a.only_team, a.leads, a.rival)
     if a.start:
         idx = next((i for i, t in enumerate(data['trainers']) if ek.key(a.start) in ek.key(t['name'])), 0)
         data['trainers'] = data['trainers'][idx:]
