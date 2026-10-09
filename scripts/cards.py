@@ -101,7 +101,7 @@ POWER = {
     'Wild Charge': 90, 'Bounce': 85, 'Earth Power': 90, 'Double-Edge': 120, 'Thief': 40, 'Night Shade': 60,
     'Drill Peck': 80, 'Shock Wave': 60, 'Ice Punch': 75, 'Water Gun': 40, 'Slash': 70, 'Rock Tomb': 50,
     'Thrash': 90, 'Horn Attack': 65, 'Double Kick': 60, 'Psybeam': 65, 'Psywave': 60, 'Waterfall': 80,
-    'Hyper Voice': 120, 'Overheat': 120,
+    'Hyper Voice': 120, 'Overheat': 120, 'Ice Shard': 40,
 }
 FIXED = {'Seismic Toss', 'Night Shade', 'Psywave'}
 # Recharge and recoil cost a turn or HP, so they rank lower than their raw power.
@@ -244,9 +244,13 @@ def main():
     p.add_argument('query')
     p.add_argument('--team', default='')
     p.add_argument('--title', default='')
+    p.add_argument('--start', default='', help='drop trainers before the first one whose name contains this')
     p.add_argument('-o', '--out', required=True)
     a = p.parse_args()
     data = build(a.query, a.team)
+    if a.start:
+        idx = next((i for i, t in enumerate(data['trainers']) if ek.key(a.start) in ek.key(t['name'])), 0)
+        data['trainers'] = data['trainers'][idx:]
     tpl = (Path(__file__).parent / 'cards_template.html').read_text(encoding='utf-8')
     title = a.title or data['trainers'][0]['name']
     page = tpl.replace('__TITLE__', html.escape(title)).replace('__DATA__', json.dumps(data, ensure_ascii=False))

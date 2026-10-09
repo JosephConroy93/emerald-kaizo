@@ -39,10 +39,10 @@
       "species": "Donphan",
       "where": "party",
       "moves": [
-        "Superpower",
         "Head Smash",
         "Rock Slide",
-        "Body Slam"
+        "Body Slam",
+        "Ice Shard"
       ]
     },
     {
