@@ -234,6 +234,10 @@ def build(query, team_spec):
         for p in party:
             p['suggest'] = suggest(d, p, pool) if pool else []
         best = best_team(d, party, pool) if pool and party else []
+        leads = [x['species'] for x in party[:2 if 'double battle' in name.lower() else 1]]
+        for b in best:
+            b['lead'] = [x for x in leads if x in b['covers']]
+        best.sort(key=lambda b: min([leads.index(x) for x in b['lead']] or [9]))
         trainers.append({'name': re.sub(r'\s*\[.*?\]', '', name).strip(), 'place': loc,
                          'double': 'double battle' in name.lower(), 'party': party, 'best': best})
     return {'trainers': trainers, 'team': [w for w, _ in team]}
