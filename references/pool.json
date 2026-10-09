@@ -50,10 +50,10 @@
       "species": "Cradily",
       "where": "party",
       "moves": [
-        "Giga Drain",
-        "Rock Slide",
         "Recover",
-        "Sludge Bomb"
+        "Giga Drain",
+        "Sludge Bomb",
+        "Rock Slide"
       ]
     },
     {
@@ -72,7 +72,7 @@
       "species": "Salamence",
       "where": "box",
       "moves": [
-        "Ember",
+        "Earthquake",
         "Headbutt",
         "Crunch",
         "Dragon Claw"
