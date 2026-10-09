@@ -101,9 +101,9 @@ POWER = {
     'Wild Charge': 90, 'Bounce': 85, 'Earth Power': 90, 'Double-Edge': 120, 'Thief': 40, 'Night Shade': 60,
     'Drill Peck': 80, 'Shock Wave': 60, 'Ice Punch': 75, 'Water Gun': 40, 'Slash': 70, 'Rock Tomb': 50,
     'Thrash': 90, 'Horn Attack': 65, 'Double Kick': 60, 'Psybeam': 65, 'Psywave': 60, 'Waterfall': 80,
-    'Hyper Voice': 120, 'Overheat': 120, 'Ice Shard': 40,
+    'Hyper Voice': 120, 'Overheat': 120, 'Ice Shard': 40, 'Super Fang': 70, 'Flash Cannon': 90, 'Knock Off': 65,
 }
-FIXED = {'Seismic Toss', 'Night Shade', 'Psywave'}
+FIXED = {'Seismic Toss', 'Night Shade', 'Psywave', 'Super Fang'}
 # Recharge and recoil cost a turn or HP, so they rank lower than their raw power.
 DRAWBACK = {'Hydro Cannon': 0.6, 'Head Smash': 0.8, 'Overheat': 0.85, 'Double-Edge': 0.85,
             'Superpower': 0.9, 'Wild Charge': 0.9}
@@ -215,7 +215,7 @@ def resolve_team(d, spec):
     return out
 
 
-def build(query, team_spec):
+def build(query, team_spec, only_team=False):
     d = ek.switch_data()
     _, changes = ek.load_move_changes(ek.load_learnsets())
     team = resolve_team(d, team_spec) if team_spec else []
@@ -229,6 +229,8 @@ def build(query, team_spec):
     pool_file = Path(__file__).parent.parent / 'references' / 'pool.json'
     if pool_file.exists():
         pool = [c for c in json.loads(pool_file.read_text(encoding='utf-8'))['pool'] if c['species'] in d['mons']]
+        if only_team and team:
+            pool = [c for c in pool if c['who'] in {w for w, _ in team}]
     for loc, name, lines in hits:
         party = [p for p in (mon_info(d, l, changes, team) for l in lines) if p]
         for p in party:
@@ -248,10 +250,11 @@ def main():
     p.add_argument('query')
     p.add_argument('--team', default='')
     p.add_argument('--title', default='')
+    p.add_argument('--only-team', action='store_true', help='suggest only from the --team Pokémon')
     p.add_argument('--start', default='', help='drop trainers before the first one whose name contains this')
     p.add_argument('-o', '--out', required=True)
     a = p.parse_args()
-    data = build(a.query, a.team)
+    data = build(a.query, a.team, a.only_team)
     if a.start:
         idx = next((i for i, t in enumerate(data['trainers']) if ek.key(a.start) in ek.key(t['name'])), 0)
         data['trainers'] = data['trainers'][idx:]

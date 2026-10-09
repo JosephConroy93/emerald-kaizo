@@ -17,7 +17,7 @@
       "species": "Arcanine",
       "where": "party",
       "moves": [
-        "Bite",
+        "Wild Charge",
         "Roar",
         "Crunch",
         "Heat Wave"
@@ -208,6 +208,17 @@
         "Earth Power",
         "Rock Slide",
         "Earthquake"
+      ]
+    },
+    {
+      "who": "Mawile",
+      "species": "Mawile",
+      "where": "box",
+      "moves": [
+        "Brick Break",
+        "Super Fang",
+        "Crunch",
+        "Flash Cannon"
       ]
     }
   ]
