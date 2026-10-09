@@ -76,6 +76,17 @@ h1 { font: 700 clamp(26px, 5vw, 38px)/1.05 var(--display); margin: 0; letter-spa
 .note { font-size: 12px; color: var(--muted); font-style: italic; }
 .danger { font: 700 11px var(--mono); color: #fff; background: var(--danger); padding: 2px 6px; border-radius: 3px; letter-spacing: .06em; }
 .status-txt { font-size: 12px; color: var(--muted); }
+.best { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px; margin-bottom: 16px; }
+.best-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin-bottom: 10px; }
+.best-head h2 { font: 700 20px/1.1 var(--display); margin: 0; }
+.best-head span { font-size: 12.5px; color: var(--muted); }
+.best-row { display: grid; gap: 8px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)); }
+.member { background: var(--chip); border-radius: 8px; padding: 9px 10px; display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.member b { font-size: 15px; }
+.member .types { justify-content: flex-start; }
+.member .from { font: 500 10.5px var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.member .for { font-size: 12px; color: var(--muted); }
+.member .for strong { color: var(--ink); font-weight: 700; }
 .sugg { display: flex; flex-direction: column; gap: 6px; }
 .pick { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; padding: 7px 10px; border-radius: 6px;
   background: var(--chip); border-left: 3px solid var(--good); }
@@ -95,6 +106,10 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12.5px; max-width: 70
   </header>
   <div class="legend" id="legend"></div>
   <nav class="tabs" id="tabs" role="tablist" hidden></nav>
+  <section class="best" id="best" hidden>
+    <div class="best-head"><h2>Team of best fit</h2><span>Six from your party and box that cover this trainer best.</span></div>
+    <div class="best-row" id="best-row"></div>
+  </section>
   <main class="grid" id="grid"></main>
   <footer>Types and matchups from the EK AI Switch Calculator; teams and moves from the EK Mastersheet.
     Physical or special follows Gen 3 rules: the move's type decides it. Red tags show which of your
@@ -177,6 +192,15 @@ function show(idx) {
   document.getElementById('tplace').textContent = t.place;
   document.getElementById('tdouble').hidden = !t.double;
   document.getElementById('grid').innerHTML = t.party.map(monCard).join('');
+  const best = t.best || [];
+  document.getElementById('best').hidden = !best.length;
+  document.getElementById('best-row').innerHTML = best.map(b => `<div class="member">
+      <b>${esc(b.who)}</b>
+      <span class="from">${b.where === 'box' ? 'from box' : 'in party'}${b.who !== b.species ? ' · ' + esc(b.species) : ''}</span>
+      <div class="types">${b.types.map(chip).join('')}</div>
+      <span class="for">${b.covers.length ? 'For <strong>' + b.covers.map(esc).join(', ') + '</strong>'
+        : 'Backup' + (b.backup && b.backup.length ? ' for ' + b.backup.map(esc).join(', ') : '')}</span>
+    </div>`).join('');
   document.querySelectorAll('#tabs button').forEach((b, i) => b.setAttribute('aria-selected', i === idx));
 }
 

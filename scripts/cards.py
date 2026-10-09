@@ -109,8 +109,8 @@ DRAWBACK = {'Hydro Cannon': 0.6, 'Head Smash': 0.8, 'Overheat': 0.85, 'Double-Ed
             'Superpower': 0.9, 'Wild Charge': 0.9}
 
 
-def suggest(d, opp, pool):
-    """Up to two picks from the pool for one opposing Pokémon: hit it hard, take little back."""
+def score_all(d, opp, pool):
+    """Score every pool Pokémon against one opposing Pokémon: hit it hard, take little back."""
     o1, o2, olev = d['mons'][opp['key']]
     threats = [m for m in opp['moves'] if m['cat'] != 'status']
     scored = []
@@ -138,20 +138,60 @@ def suggest(d, opp, pool):
         score = best * (0.35 if worst >= 2 else 1.25 if worst == 0 else 1.1 if worst < 1 else 1)
         scored.append((score, best_x, worst, c, best_mv, worst_mv))
     scored.sort(key=lambda s: -s[0])
+    return scored, bool(threats)
+
+
+def why(entry, threats):
+    score, bx, worst, c, mv, wmv = entry
+    hit = f'{mv} {fmt(bx)}' if mv else 'no good attack'
+    if not threats:
+        take = 'it has no attacking moves'
+    elif worst == 0:
+        take = 'immune to all its attacks'
+    elif worst < 1:
+        take = 'resists all its attacks'
+    elif worst == 1:
+        take = 'nothing super effective on it'
+    else:
+        take = f'careful: {wmv} {fmt(worst)}'
+    return f'{hit}; {take}'
+
+
+def suggest(d, opp, pool):
+    """Up to two picks for one opposing Pokémon."""
+    scored, threats = score_all(d, opp, pool)
+    return [{'who': e[3]['who'], 'where': e[3]['where'], 'why': why(e, threats)} for e in scored[:2]]
+
+
+def best_team(d, party, pool, size=6):
+    """Six from the pool: the best answer to each opposing Pokémon (nobody assigned more than two),
+    then backups that rank high against the rest."""
+    tables = [{e[3]['who']: e[0] for e in score_all(d, opp, pool)[0]} for opp in party]
+    by_who = {c['who']: c for c in pool}
+    team, covers = [], {}
+    order = sorted(range(len(party)), key=lambda i: max(tables[i].values()))   # hardest first
+    for i in order:
+        ranked = sorted(tables[i], key=lambda w: -tables[i][w])
+        pick = next((w for w in ranked if w in team and len(covers[w]) < 2), None) if len(team) >= size else None
+        if pick is None:
+            pick = next((w for w in ranked if len(covers.get(w, [])) < 2 and (w in team or len(team) < size)), ranked[0])
+        if pick not in team:
+            team.append(pick)
+        covers.setdefault(pick, []).append(party[i]['species'])
+    backups = {}
+    if len(team) < size:
+        top3 = [sorted(t, key=lambda w: -t[w])[:3] for t in tables]
+        rest = sorted((w for w in by_who if w not in team),
+                      key=lambda w: -sum(tables[i][w] for i in range(len(party)) if w in top3[i]))
+        for w in rest[:size - len(team)]:
+            team.append(w)
+            backups[w] = [party[i]['species'] for i in range(len(party)) if w in top3[i]]
     out = []
-    for score, bx, worst, c, mv, wmv in scored[:2]:
-        hit = f'{mv} {fmt(bx)}' if mv else 'no good attack'
-        if not threats:
-            take = 'it has no attacking moves'
-        elif worst == 0:
-            take = 'immune to all its attacks'
-        elif worst < 1:
-            take = 'resists all its attacks'
-        elif worst == 1:
-            take = 'nothing super effective on it'
-        else:
-            take = f'careful: {wmv} {fmt(worst)}'
-        out.append({'who': c['who'], 'where': c['where'], 'why': f'{hit}; {take}'})
+    for w in team:
+        c = by_who[w]
+        out.append({'who': w, 'species': c['species'], 'where': c['where'],
+                    'covers': covers.get(w, []), 'backup': backups.get(w, []),
+                    'types': list(dict.fromkeys(d['mons'][c['species']][:2]))})
     return out
 
 
@@ -193,8 +233,9 @@ def build(query, team_spec):
         party = [p for p in (mon_info(d, l, changes, team) for l in lines) if p]
         for p in party:
             p['suggest'] = suggest(d, p, pool) if pool else []
+        best = best_team(d, party, pool) if pool and party else []
         trainers.append({'name': re.sub(r'\s*\[.*?\]', '', name).strip(), 'place': loc,
-                         'double': 'double battle' in name.lower(), 'party': party})
+                         'double': 'double battle' in name.lower(), 'party': party, 'best': best})
     return {'trainers': trainers, 'team': [w for w, _ in team]}
 
 
