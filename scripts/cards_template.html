@@ -74,6 +74,11 @@ h1 { font: 700 clamp(26px, 5vw, 38px)/1.05 var(--display); margin: 0; letter-spa
 .hits { display: flex; flex-wrap: wrap; gap: 5px; }
 .hit { font-size: 12.5px; font-weight: 700; color: var(--danger); background: var(--danger-bg); padding: 2px 8px; border-radius: 4px; }
 .note { font-size: 12px; color: var(--muted); font-style: italic; }
+.fx { font: 700 11px var(--mono); padding: 2px 6px; border-radius: 3px; letter-spacing: .04em; white-space: nowrap; }
+.fx.status { background: #fff3b0; color: #5a4300; box-shadow: 0 0 0 1px rgba(0,0,0,.25); }
+.fx.flinch, .fx.stat { background: rgba(0,0,0,.18); }
+.status-risk { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; font-size: 12.5px; }
+.status-risk .lbl { font: 700 11px var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--danger); }
 .danger { font: 700 11px var(--mono); color: #fff; background: var(--danger); padding: 2px 6px; border-radius: 3px; letter-spacing: .06em; }
 .status-txt { font-size: 12px; color: var(--muted); }
 .best { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px; margin-bottom: 16px; }
@@ -146,6 +151,7 @@ function monCard(m, i) {
       <div class="move-top" style="background:${col};color:${txt}">
         <span class="move-name">${esc(mv.name)}</span>
         ${mv.danger ? '<span class="danger">Danger</span>' : ''}
+        ${mv.effect ? `<span class="fx ${mv.effect_kind}">${esc(mv.effect)}</span>` : ''}
         <span class="cat">${mv.cat === 'physical' ? 'Phys' : mv.cat === 'special' ? 'Spec' : 'Status'}</span>
       </div>
       <div class="move-body">${se}${hits}${mv.note ? `<div class="note">EK: ${esc(mv.note)}</div>` : ''}</div>
@@ -171,6 +177,9 @@ function monCard(m, i) {
         ${!weak4.length && !weak2.length ? '<span class="resist">No weaknesses.</span>' : ''}
       </div>
     </div>
+    ${(() => { const st = m.moves.filter(mv => mv.effect_kind === 'status');
+      return st.length ? `<div class="status-risk"><span class="lbl">Status risk · Lum?</span>${st.map(mv =>
+        `<span class="fx status">${esc(mv.effect)} · ${esc(mv.name)}</span>`).join('')}</div>` : ''; })()}
     ${(res.length || imm.length) ? `<div class="resist">
       ${imm.length ? `<div class="weak" style="margin-bottom:4px"><span class="x">Immune</span>${imm.map(chip).join('')}</div>` : ''}
       ${res.length ? `<div class="weak"><span class="x">Resists</span>${res.map(chip).join('')}</div>` : ''}

@@ -42,8 +42,9 @@ def move_info(d, name, changes):
     se = [x for x in TYPES if ek.chart_mult(d, t, x, x) > 10] if not status else []
     cat = 'status' if status else ('special' if t in SPECIAL else 'physical')
     note = '' if hp else short_note(changes.get(ek.key(name), []))
+    eff = next((v for k, v in EFFECTS.items() if ek.key(k) == ek.key(name)), None)
     return {'name': nm, 'type': t, 'cat': cat, 'se': se, 'danger': name.strip().isupper() and len(name.strip()) > 3,
-            'note': note}
+            'note': note, 'effect': eff[0] if eff else '', 'effect_kind': eff[1] if eff else ''}
 
 
 def short_note(lines):
@@ -103,6 +104,52 @@ POWER = {
     'Thrash': 90, 'Horn Attack': 65, 'Double Kick': 60, 'Psybeam': 65, 'Psywave': 60, 'Waterfall': 80,
     'Hyper Voice': 120, 'Overheat': 120, 'Ice Shard': 40, 'Super Fang': 70, 'Flash Cannon': 90, 'Knock Off': 65,
 }
+# Secondary effects (vanilla Gen 3 unless EK's Move Changes doc says otherwise). 'status' ones are the
+# ones a Lum Berry answers; the rest are flinches or stat drops on the target.
+EFFECTS = {
+    # paralysis
+    'Body Slam': ('30% PAR', 'status'), 'Thunderbolt': ('10% PAR', 'status'), 'Thunderpunch': ('10% PAR', 'status'),
+    'Thunder': ('30% PAR', 'status'), 'Thundershock': ('10% PAR', 'status'), 'Lick': ('30% PAR', 'status'),
+    'Dragonbreath': ('30% PAR', 'status'), 'Bounce': ('30% PAR', 'status'), 'Zap Cannon': ('100% PAR', 'status'),
+    'Secret Power': ('30% PAR indoors', 'status'), 'Spark': ('30% PAR', 'status'),
+    # burn
+    'Flamethrower': ('10% BRN', 'status'), 'Fire Blast': ('10% BRN', 'status'), 'Fire Punch': ('10% BRN', 'status'),
+    'Ember': ('10% BRN', 'status'), 'Flame Wheel': ('10% BRN', 'status'), 'Heat Wave': ('10% BRN', 'status'),
+    'Blaze Kick': ('10% BRN', 'status'), 'Sacred Fire': ('50% BRN', 'status'),
+    # freeze
+    'Ice Beam': ('10% FRZ', 'status'), 'Ice Punch': ('10% FRZ', 'status'), 'Blizzard': ('10% FRZ', 'status'),
+    'Powder Snow': ('10% FRZ', 'status'),
+    # poison
+    'Sludge Bomb': ('30% PSN', 'status'), 'Sludge': ('30% PSN', 'status'), 'Poison Sting': ('30% PSN', 'status'),
+    'Poison Tail': ('10% PSN', 'status'), 'Smog': ('40% PSN', 'status'), 'Twineedle': ('20% PSN', 'status'),
+    'Poison Fang': ('30% bad PSN', 'status'), 'Gunk Shot': ('30% PSN', 'status'),
+    # confusion
+    'Psybeam': ('10% confuse', 'status'), 'Confusion': ('10% confuse', 'status'), 'Signal Beam': ('10% confuse', 'status'),
+    'Water Pulse': ('20% confuse', 'status'), 'Dynamicpunch': ('100% confuse', 'status'),
+    'Dizzy Punch': ('20% confuse', 'status'), 'Tri Attack': ('20% PAR/BRN/FRZ', 'status'),
+    # flinch
+    'Bite': ('30% flinch', 'flinch'), 'Headbutt': ('30% flinch', 'flinch'), 'Rock Slide': ('30% flinch', 'flinch'),
+    'Stomp': ('30% flinch', 'flinch'), 'Fake Out': ('flinch, first turn only', 'flinch'),
+    'Extrasensory': ('10% flinch', 'flinch'), 'Snore': ('30% flinch', 'flinch'), 'Twister': ('20% flinch', 'flinch'),
+    'Needle Arm': ('30% flinch', 'flinch'), 'Bone Club': ('10% flinch', 'flinch'), 'Hyper Fang': ('10% flinch', 'flinch'),
+    'Sky Attack': ('30% flinch (vanilla)', 'flinch'),
+    # stat drops on the target
+    'Iron Tail': ('30% Def -1', 'stat'), 'Crush Claw': ('50% Def -1', 'stat'), 'Earth Power': ('30% Def -1', 'stat'),
+    'Hyper Voice': ('20% Def -1', 'stat'), 'Shadow Ball': ('20% SpD -1', 'stat'), 'Psychic': ('10% SpD -1', 'stat'),
+    'Crunch': ('20% SpD -1', 'stat'), 'Acid': ('10% Def -1', 'stat'), 'Aurora Beam': ('10% Atk -1', 'stat'),
+    'Bubblebeam': ('10% Spe -1', 'stat'), 'Mud Shot': ('Spe -1', 'stat'), 'Rock Tomb': ('Spe -1', 'stat'),
+    'Icy Wind': ('Spe -1', 'stat'), 'Mud-Slap': ('Acc -1', 'stat'), 'Octazooka': ('50% Acc -1', 'stat'),
+    'Muddy Water': ('30% Acc -1', 'stat'),
+    # direct status moves (accuracy, EK where changed)
+    'Sing': ('SLP · 70% acc', 'status'), 'Hypnosis': ('SLP · 70% acc', 'status'), 'Spore': ('SLP · 100% acc', 'status'),
+    'Sleep Powder': ('SLP · 75% acc', 'status'), 'Grasswhistle': ('SLP · 70% acc', 'status'), 'Yawn': ('SLP next turn', 'status'),
+    'Lovely Kiss': ('SLP · 75% acc', 'status'), 'Thunder Wave': ('PAR · 100% acc', 'status'), 'Stun Spore': ('PAR · 75% acc', 'status'),
+    'Glare': ('PAR · 75% acc', 'status'), 'Will-o-Wisp': ('BRN · 75% acc', 'status'), 'Toxic': ('bad PSN · 85% acc', 'status'),
+    'Poisonpowder': ('PSN · 75% acc', 'status'), 'Confuse Ray': ('confuse · 100% acc', 'status'),
+    'Supersonic': ('confuse · 55% acc', 'status'), 'Swagger': ('confuse + Atk +2', 'status'),
+    'Teeter Dance': ('confuse all', 'status'), 'Flatter': ('confuse + SpA +1', 'status'), 'Attract': ('infatuate', 'status'),
+}
+
 FIXED = {'Seismic Toss', 'Night Shade', 'Psywave', 'Super Fang'}
 # Recharge and recoil cost a turn or HP, so they rank lower than their raw power.
 DRAWBACK = {'Hydro Cannon': 0.6, 'Head Smash': 0.8, 'Overheat': 0.85, 'Double-Edge': 0.85,
