@@ -182,9 +182,9 @@
       "species": "Manectric",
       "where": "box",
       "moves": [
+        "Thunderbolt",
         "Shock Wave",
         "Thunder Wave",
-        "Wild Charge",
         "Bite"
       ]
     },
