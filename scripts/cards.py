@@ -83,9 +83,80 @@ def mon_info(d, line, changes, team):
             if x > 1:
                 info['hits'].append({'who': who, 'x': x})
         moves.append(info)
-    return {'species': species.title() if species.isupper() else species, 'gender': m.group('g') or '',
+    return {'key': key_ or 'Castform', 'species': species.title() if species.isupper() else species, 'gender': m.group('g') or '',
             'level': int(m.group('lv')), 'item': titled((m.group('item') or '').strip()), 'nature': nature, 'ivs': ivs,
             'types': [t1] if t1 == t2 else [t1, t2], 'levitate': bool(lev), 'matchups': weak, 'moves': moves}
+
+
+# Power used to rank suggestions: EK values where the Move Changes doc gives one, vanilla
+# Gen 3 otherwise. Fixed-damage moves get a rough equivalent; status moves are left out.
+POWER = {
+    'Thunderpunch': 75, 'Mach Punch': 40, 'Cross Chop': 100, 'Flamethrower': 95, 'Heat Wave': 100, 'Bite': 60,
+    'Crunch': 80, 'Dig': 60, 'Rock Slide': 75, 'Dragonbreath': 60, 'Superpower': 120, 'Head Smash': 150,
+    'Body Slam': 85, 'Giga Drain': 75, 'Sludge Bomb': 90, 'Water Pulse': 60, 'Ice Beam': 95, 'Psychic': 90,
+    'X-Scissors': 80, 'Shadow Ball': 80, 'Brick Break': 75, 'Crush Claw': 100, 'Ember': 40, 'Headbutt': 70,
+    'Dragon Claw': 80, 'Air Slash': 80, 'Earthquake': 100, 'Hydro Cannon': 150, 'Mud Shot': 55,
+    'Muddy Water': 95, 'Octazooka': 65, 'Signal Beam': 75, 'Rock Smash': 20, 'Rock Throw': 50,
+    'Secret Power': 70, 'Bone Rush': 100, 'Surf': 95, 'Thunderbolt': 95, 'Seismic Toss': 70, 'Drill Run': 80,
+    'Wild Charge': 90, 'Bounce': 85, 'Earth Power': 90, 'Double-Edge': 120, 'Thief': 40, 'Night Shade': 60,
+    'Drill Peck': 80, 'Shock Wave': 60, 'Ice Punch': 75, 'Water Gun': 40, 'Slash': 70, 'Rock Tomb': 50,
+    'Thrash': 90, 'Horn Attack': 65, 'Double Kick': 60, 'Psybeam': 65, 'Psywave': 60, 'Waterfall': 80,
+    'Hyper Voice': 120, 'Overheat': 120,
+}
+FIXED = {'Seismic Toss', 'Night Shade', 'Psywave'}
+# Recharge and recoil cost a turn or HP, so they rank lower than their raw power.
+DRAWBACK = {'Hydro Cannon': 0.6, 'Head Smash': 0.8, 'Overheat': 0.85, 'Double-Edge': 0.85,
+            'Superpower': 0.9, 'Wild Charge': 0.9}
+
+
+def suggest(d, opp, pool):
+    """Up to two picks from the pool for one opposing Pokémon: hit it hard, take little back."""
+    o1, o2, olev = d['mons'][opp['key']]
+    threats = [m for m in opp['moves'] if m['cat'] != 'status']
+    scored = []
+    for c in pool:
+        c1, c2, clev = d['mons'][c['species']]
+        best, best_mv, best_x = 0, '', 0
+        for mv in c['moves']:
+            if mv not in POWER:
+                continue
+            t = norm_type(next((v[0] for k, v in d['moves'].items() if ek.key(k) == ek.key(mv)), 'NORMAL'))
+            x = mult(d, t, o1, o2, olev)
+            if mv in FIXED:
+                x = 0 if x == 0 else 1
+            stab = 1.5 if t in (c1, c2) and mv not in FIXED else 1
+            v = POWER[mv] * DRAWBACK.get(mv, 1) * x * stab * (1.6 if x >= 2 else 1)
+            if v > best:
+                best, best_mv, best_x = v, mv, x
+        worst, worst_mv = 0, ''
+        for m in threats:
+            x = mult(d, m['type'], c1, c2, clev)
+            if x > worst:
+                worst, worst_mv = x, m['name']
+        if not threats:
+            worst = 1
+        score = best * (0.35 if worst >= 2 else 1.25 if worst == 0 else 1.1 if worst < 1 else 1)
+        scored.append((score, best_x, worst, c, best_mv, worst_mv))
+    scored.sort(key=lambda s: -s[0])
+    out = []
+    for score, bx, worst, c, mv, wmv in scored[:2]:
+        hit = f'{mv} {fmt(bx)}' if mv else 'no good attack'
+        if not threats:
+            take = 'it has no attacking moves'
+        elif worst == 0:
+            take = 'immune to all its attacks'
+        elif worst < 1:
+            take = 'resists all its attacks'
+        elif worst == 1:
+            take = 'nothing super effective on it'
+        else:
+            take = f'careful: {wmv} {fmt(worst)}'
+        out.append({'who': c['who'], 'where': c['where'], 'why': f'{hit}; {take}'})
+    return out
+
+
+def fmt(x):
+    return {0: '0×', 0.25: '¼×', 0.5: '½×'}.get(x, f'{x:g}×')
 
 
 def titled(s):
@@ -114,8 +185,14 @@ def build(query, team_spec):
     if not hits:
         sys.exit(f'No trainer or place matches "{query}".')
     trainers = []
+    pool = []
+    pool_file = Path(__file__).parent.parent / 'references' / 'pool.json'
+    if pool_file.exists():
+        pool = [c for c in json.loads(pool_file.read_text(encoding='utf-8'))['pool'] if c['species'] in d['mons']]
     for loc, name, lines in hits:
         party = [p for p in (mon_info(d, l, changes, team) for l in lines) if p]
+        for p in party:
+            p['suggest'] = suggest(d, p, pool) if pool else []
         trainers.append({'name': re.sub(r'\s*\[.*?\]', '', name).strip(), 'place': loc,
                          'double': 'double battle' in name.lower(), 'party': party})
     return {'trainers': trainers, 'team': [w for w, _ in team]}

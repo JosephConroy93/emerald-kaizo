@@ -76,6 +76,13 @@ h1 { font: 700 clamp(26px, 5vw, 38px)/1.05 var(--display); margin: 0; letter-spa
 .note { font-size: 12px; color: var(--muted); font-style: italic; }
 .danger { font: 700 11px var(--mono); color: #fff; background: var(--danger); padding: 2px 6px; border-radius: 3px; letter-spacing: .06em; }
 .status-txt { font-size: 12px; color: var(--muted); }
+.sugg { display: flex; flex-direction: column; gap: 6px; }
+.pick { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; padding: 7px 10px; border-radius: 6px;
+  background: var(--chip); border-left: 3px solid var(--good); }
+.pick b { font-size: 14.5px; }
+.pick .from { font: 500 10.5px var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+.pick .why { font-size: 12.5px; color: var(--muted); flex-basis: 100%; }
+.pick .why.warn { color: var(--danger); }
 footer { margin-top: 22px; color: var(--muted); font-size: 12.5px; max-width: 70ch; }
 @media (prefers-reduced-motion: no-preference) { .mon { transition: border-color .15s; } .mon:hover { border-color: var(--muted); } }
 </style>
@@ -91,7 +98,9 @@ footer { margin-top: 22px; color: var(--muted); font-size: 12.5px; max-width: 70
   <main class="grid" id="grid"></main>
   <footer>Types and matchups from the EK AI Switch Calculator; teams and moves from the EK Mastersheet.
     Physical or special follows Gen 3 rules: the move's type decides it. Red tags show which of your
-    Pokémon a move hits super effectively.</footer>
+    Pokémon a move hits super effectively. Suggestions rank your party and box by their strongest hit on
+    that Pokémon against the worst it can do back; they don't account for speed, stats or abilities
+    such as Intimidate.</footer>
 </div>
 
 <script>
@@ -148,6 +157,12 @@ function monCard(m, i) {
     ${(res.length || imm.length) ? `<div class="resist">
       ${imm.length ? `<div class="weak" style="margin-bottom:4px"><span class="x">Immune</span>${imm.map(chip).join('')}</div>` : ''}
       ${res.length ? `<div class="weak"><span class="x">Resists</span>${res.map(chip).join('')}</div>` : ''}
+    </div>` : ''}
+    ${m.suggest && m.suggest.length ? `<div>
+      <div class="sect-label">Suggested</div>
+      <div class="sugg">${m.suggest.map(s => `<div class="pick"><b>${esc(s.who)}</b>
+        <span class="from">${s.where === 'box' ? 'from box' : 'in party'}</span>
+        <span class="why${s.why.includes('careful') ? ' warn' : ''}">${esc(s.why)}</span></div>`).join('')}</div>
     </div>` : ''}
     <div>
       <div class="sect-label">Moves</div>

@@ -172,6 +172,8 @@ Lines tagged [Emerald knowledge] fill gaps where the scan was unreadable; say so
   (`Nickname=Species`), publish the HTML as an Artifact (one per gym or area; republish the same file to
   keep its link), and reply with the link plus one or two lines on the big threats. The user plans
   from the cards, so only add a Battle summary or Step-by-step battle plan when asked.
+  Each card's Suggested section ranks `references/pool.json` (party plus useful box Pokémon with their
+  moves): keep that file in step with the team whenever moves, evolutions or catches change.
 - Fight plans come in two named formats; the user may ask for either or both by name:
   - **Battle summary**: the ✅/❌ lines below, one per opposing Pokémon in party order.
   - **Step-by-step battle plan**: numbered turns: lead and party order, who attacks what, and
