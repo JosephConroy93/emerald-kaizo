@@ -110,3 +110,5 @@ in SKILL.md). Last updated 2026-10-03.
   lead two Intimidate users (Salamence, Dabdicker); Swellow's Sky Attack nearly OHKOs Salamence; Roar fails on the
   last Pokémon; special hits and Seismic Toss for cursed Snorlax. Next: Surf (HM03 from Wally's dad), Route 118/119,
   Weather Institute, rival (HM02 Fly), Fortree.
+- Route 119: the way north past Fisherman Chris needed an Acro Bike hop over the white bridge (vanilla guides
+  call it optional). The Mach Bike slope near the Weather Institute is the other bike spot.
