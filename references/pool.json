@@ -1,24 +1,214 @@
 {
   "_about": "The user's party and the box Pokémon worth suggesting, with current moves. Keep in step with my-run.md. Box Pokémon get candied to the gym cap before use, so levels are left out.",
   "pool": [
-    {"who": "Malbra Red", "species": "Magmar", "where": "party", "moves": ["Thunderpunch", "Mach Punch", "Cross Chop", "Flamethrower"]},
-    {"who": "Dabdicker", "species": "Arcanine", "where": "party", "moves": ["Bite", "Roar", "Crunch", "Heat Wave"]},
-    {"who": "Flygon", "species": "Flygon", "where": "party", "moves": ["Dig", "Rock Slide", "Crunch", "Dragonbreath"]},
-    {"who": "Donphan", "species": "Donphan", "where": "party", "moves": ["Superpower", "Head Smash", "Rock Slide", "Body Slam"]},
-    {"who": "Cradily", "species": "Cradily", "where": "party", "moves": ["Giga Drain", "Rock Slide", "Recover", "Sludge Bomb"]},
-    {"who": "Chumpeatss", "species": "Slowking", "where": "party", "moves": ["Slack Off", "Water Pulse", "Ice Beam", "Psychic"]},
-    {"who": "Salamence", "species": "Salamence", "where": "box", "moves": ["Ember", "Headbutt", "Crunch", "Dragon Claw"]},
-    {"who": "Zangoose", "species": "Zangoose", "where": "box", "moves": ["X-Scissors", "Shadow Ball", "Brick Break", "Crush Claw"]},
-    {"who": "Altaria", "species": "Altaria", "where": "box", "moves": ["Air Slash", "Dragon Claw", "Earthquake", "Heat Wave"]},
-    {"who": "Federer", "species": "Swampert", "where": "box", "moves": ["Rock Slide", "Hydro Cannon", "Mud Shot", "Muddy Water"]},
-    {"who": "Milton", "species": "Octillery", "where": "box", "moves": ["Flamethrower", "Signal Beam", "Ice Beam", "Octazooka"]},
-    {"who": "Boneboy", "species": "Marowak", "where": "box", "moves": ["Rock Smash", "Rock Throw", "Secret Power", "Bone Rush"]},
-    {"who": "Redcheeks", "species": "Raichu", "where": "box", "moves": ["Seismic Toss", "Surf", "Thunderbolt", "Signal Beam"]},
-    {"who": "Rapidash", "species": "Rapidash", "where": "box", "moves": ["Drill Run", "Wild Charge", "Bounce", "Heat Wave"]},
-    {"who": "Bron", "species": "Camerupt", "where": "box", "moves": ["Earthquake", "Earth Power", "Rock Slide", "Double-Edge"]},
-    {"who": "Xatu", "species": "Xatu", "where": "box", "moves": ["Thief", "Psychic", "Night Shade", "Drill Peck"]},
-    {"who": "Dave", "species": "Manectric", "where": "box", "moves": ["Shock Wave", "Thunder Wave", "Wild Charge", "Bite"]},
-    {"who": "Feraligatr", "species": "Feraligatr", "where": "box", "moves": ["Ice Punch", "Water Gun", "Crunch", "Slash"]},
-    {"who": "Sudowoodo", "species": "Sudowoodo", "where": "box", "moves": ["Rock Tomb", "Earth Power", "Rock Slide", "Earthquake"]}
+    {
+      "who": "Malbra Red",
+      "species": "Magmar",
+      "where": "party",
+      "moves": [
+        "Thunderpunch",
+        "Mach Punch",
+        "Cross Chop",
+        "Flamethrower"
+      ]
+    },
+    {
+      "who": "Dabdicker",
+      "species": "Arcanine",
+      "where": "party",
+      "moves": [
+        "Bite",
+        "Roar",
+        "Crunch",
+        "Heat Wave"
+      ]
+    },
+    {
+      "who": "Flygon",
+      "species": "Flygon",
+      "where": "party",
+      "moves": [
+        "Dig",
+        "Rock Slide",
+        "Crunch",
+        "Dragonbreath"
+      ]
+    },
+    {
+      "who": "Donphan",
+      "species": "Donphan",
+      "where": "party",
+      "moves": [
+        "Superpower",
+        "Head Smash",
+        "Rock Slide",
+        "Body Slam"
+      ]
+    },
+    {
+      "who": "Cradily",
+      "species": "Cradily",
+      "where": "party",
+      "moves": [
+        "Giga Drain",
+        "Rock Slide",
+        "Recover",
+        "Sludge Bomb"
+      ]
+    },
+    {
+      "who": "Chumpeatss",
+      "species": "Slowking",
+      "where": "party",
+      "moves": [
+        "Slack Off",
+        "Water Pulse",
+        "Ice Beam",
+        "Psychic"
+      ]
+    },
+    {
+      "who": "Salamence",
+      "species": "Salamence",
+      "where": "box",
+      "moves": [
+        "Ember",
+        "Headbutt",
+        "Crunch",
+        "Dragon Claw"
+      ]
+    },
+    {
+      "who": "Zangoose",
+      "species": "Zangoose",
+      "where": "box",
+      "moves": [
+        "X-Scissors",
+        "Shadow Ball",
+        "Brick Break",
+        "Crush Claw"
+      ]
+    },
+    {
+      "who": "Altaria",
+      "species": "Altaria",
+      "where": "box",
+      "moves": [
+        "Air Slash",
+        "Dragon Claw",
+        "Earthquake",
+        "Heat Wave"
+      ]
+    },
+    {
+      "who": "Federer",
+      "species": "Swampert",
+      "where": "box",
+      "moves": [
+        "Rock Slide",
+        "Muddy Water",
+        "Mud Shot",
+        "Ice Punch"
+      ]
+    },
+    {
+      "who": "Milton",
+      "species": "Octillery",
+      "where": "box",
+      "moves": [
+        "Flamethrower",
+        "Signal Beam",
+        "Ice Beam",
+        "Octazooka"
+      ]
+    },
+    {
+      "who": "Boneboy",
+      "species": "Marowak",
+      "where": "box",
+      "moves": [
+        "Rock Smash",
+        "Rock Throw",
+        "Secret Power",
+        "Bone Rush"
+      ]
+    },
+    {
+      "who": "Redcheeks",
+      "species": "Raichu",
+      "where": "box",
+      "moves": [
+        "Seismic Toss",
+        "Surf",
+        "Thunderbolt",
+        "Signal Beam"
+      ]
+    },
+    {
+      "who": "Rapidash",
+      "species": "Rapidash",
+      "where": "box",
+      "moves": [
+        "Drill Run",
+        "Wild Charge",
+        "Bounce",
+        "Heat Wave"
+      ]
+    },
+    {
+      "who": "Bron",
+      "species": "Camerupt",
+      "where": "box",
+      "moves": [
+        "Earthquake",
+        "Earth Power",
+        "Rock Slide",
+        "Double-Edge"
+      ]
+    },
+    {
+      "who": "Xatu",
+      "species": "Xatu",
+      "where": "box",
+      "moves": [
+        "Thief",
+        "Psychic",
+        "Night Shade",
+        "Drill Peck"
+      ]
+    },
+    {
+      "who": "Dave",
+      "species": "Manectric",
+      "where": "box",
+      "moves": [
+        "Shock Wave",
+        "Thunder Wave",
+        "Wild Charge",
+        "Bite"
+      ]
+    },
+    {
+      "who": "Feraligatr",
+      "species": "Feraligatr",
+      "where": "box",
+      "moves": [
+        "Ice Punch",
+        "Water Gun",
+        "Crunch",
+        "Slash"
+      ]
+    },
+    {
+      "who": "Sudowoodo",
+      "species": "Sudowoodo",
+      "where": "box",
+      "moves": [
+        "Rock Tomb",
+        "Earth Power",
+        "Rock Slide",
+        "Earthquake"
+      ]
+    }
   ]
 }
