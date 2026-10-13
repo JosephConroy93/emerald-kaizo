@@ -23,7 +23,7 @@ in SKILL.md). Last updated 2026-10-03.
   suggesting them.
 
 ## Progress
-- Badges: Stone, Knuckle, Dynamo, Heat, Balance. Next leader: Winona (cap 55, double battle: Aerodactyl, Zapdos, Crobat, Articuno, Flygon, Moltres).
+- Badges: Stone, Knuckle, Dynamo, Heat, Balance, Feather. Next leaders: Tate & Liza (Mossdeep, double battle). Route: 121 -> Lilycove (rival) -> Mt. Pyre -> Magma Hideout -> Aqua Hideout -> Mossdeep.
 - Beat May on Route 110 (rematch, with Xatu on the team) on 2026-10-03, after losing once to
   her Grovyle. Heading into Mauville for Wattson.
 - Mauville Gym: beat Vivian and Kirk (Xatu swapped back in for Kirk). Kirk's Voltorb Explosion
@@ -119,3 +119,4 @@ in SKILL.md). Last updated 2026-10-03.
 - 2026-10-13: caught **Kingler** Lv 50, Naughty (+Atk -SpD). Mud Shot, Crabhammer, Crush Claw, X-Scissors. Crabhammer is
   Water = special in Gen 3 (base 50 SpA), so Crush Claw (100 BP, 50% Def drop) hits harder. Option: swap Crabhammer
   for Ancientpower (Relearner, Lv 1 move, 80 BP Rock) for flyers. Superpower at 57.
+- 2026-10-13: BEAT WINONA (Feather Badge). Leads Federer + Lilliallen; Xatu finished her Flygon 1v1 with Psychic.
