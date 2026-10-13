@@ -120,3 +120,5 @@ in SKILL.md). Last updated 2026-10-03.
   Water = special in Gen 3 (base 50 SpA), so Crush Claw (100 BP, 50% Def drop) hits harder. Option: swap Crabhammer
   for Ancientpower (Relearner, Lv 1 move, 80 BP Rock) for flyers. Superpower at 57.
 - 2026-10-13: BEAT WINONA (Feather Badge). Leads Federer + Lilliallen; Xatu finished her Flygon 1v1 with Psychic.
+- 2026-10-13: party after Winona: Lilliallen, Salamence, Chumpeatss, Federer + Redcheeks, Dabdicker (Spiremouth benched, overlaps Salamence).
+  Gaps: nothing hits Normal 2x (no Fighting move); Chumpeatss's Water Pulse is weak, Surf (HM03) is the upgrade.
