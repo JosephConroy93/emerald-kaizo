@@ -28,9 +28,10 @@
       "species": "Flygon",
       "where": "party",
       "moves": [
+        "Dragon Claw",
         "Dig",
-        "Crunch",
-        "Dragonbreath"
+        "Air Slash",
+        "Crunch"
       ]
     },
     {
