@@ -122,3 +122,8 @@ in SKILL.md). Last updated 2026-10-03.
 - 2026-10-13: BEAT WINONA (Feather Badge). Leads Federer + Lilliallen; Xatu finished her Flygon 1v1 with Psychic.
 - 2026-10-13: party after Winona: Lilliallen, Salamence, Chumpeatss, Federer + Redcheeks, Dabdicker (Spiremouth benched, overlaps Salamence).
   Gaps: nothing hits Normal 2x (no Fighting move); Chumpeatss's Water Pulse is weak, Surf (HM03) is the upgrade.
+- Federer has Earthquake (not Mud Shot): Rock Slide, Muddy Water, Earthquake, Ice Punch.
+- PARKED for the Elite Four: TM cheese via the PokéMart code (TMn = 0x120 + n). Plan to re-pivot movesets per E4
+  member between battles. Codes: TM04 Calm Mind 0124, TM13 Ice Beam 012D, TM24 Thunderbolt 0138, TM26 Earthquake 013A,
+  TM29 Psychic 013D, TM30 Shadow Ball 013E, TM31 Brick Break 013F, TM35 Flamethrower 0143, TM38 Fire Blast 0146,
+  TM40 Aerial Ace 0148, TM50 Overheat 0152. Don't push TMs before then unless asked.
