@@ -112,3 +112,7 @@ in SKILL.md). Last updated 2026-10-03.
   Weather Institute, rival (HM02 Fly), Fortree.
 - Route 119: the way north past Fisherman Chris needed an Acro Bike hop over the white bridge (vanilla guides
   call it optional). The Mach Bike slope near the Weather Institute is the other bike spot.
+- 2026-10-13: Route 120 / Scorched Slab. Found the Mystic Ticket (vanilla: Navel Rock, Lugia/Ho-Oh, reached by ferry
+  after the S.S. Ticket postgame; nothing in the EK docs). Met a Lv 50 Growlithe (Scorched Slab 20%; Wild Charge recoil can
+  KO itself). Arcanine learns Extremespeed at 49: teach it to Dabdicker at the Fallarbor Relearner once candied past 49.
+  Fire Stone code 005F.
