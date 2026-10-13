@@ -23,7 +23,7 @@ in SKILL.md). Last updated 2026-10-03.
   suggesting them.
 
 ## Progress
-- Badges: Stone, Knuckle, Dynamo, Heat, Balance, Feather. Next leaders: Tate & Liza (Mossdeep, double battle). Route: 121 -> Lilycove (rival) -> Mt. Pyre -> Magma Hideout -> Aqua Hideout -> Mossdeep.
+- Badges: Stone, Knuckle, Dynamo, Heat, Balance, Feather. Next leaders: Tate & Liza (Mossdeep, double battle, cap 70: Latias, Latios, Gardevoir, Medicham, Starmie, Jirachi). Route: 121 -> Lilycove (rival) -> Mt. Pyre -> Magma Hideout -> Aqua Hideout -> Mossdeep.
 - Beat May on Route 110 (rematch, with Xatu on the team) on 2026-10-03, after losing once to
   her Grovyle. Heading into Mauville for Wattson.
 - Mauville Gym: beat Vivian and Kirk (Xatu swapped back in for Kirk). Kirk's Voltorb Explosion
