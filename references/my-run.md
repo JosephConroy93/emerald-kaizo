@@ -116,3 +116,6 @@ in SKILL.md). Last updated 2026-10-03.
   after the S.S. Ticket postgame; nothing in the EK docs). Met a Lv 50 Growlithe (Scorched Slab 20%; Wild Charge recoil can
   KO itself). Arcanine learns Extremespeed at 49: teach it to Dabdicker at the Fallarbor Relearner once candied past 49.
   Fire Stone code 005F.
+- 2026-10-13: caught **Kingler** Lv 50, Naughty (+Atk -SpD). Mud Shot, Crabhammer, Crush Claw, X-Scissors. Crabhammer is
+  Water = special in Gen 3 (base 50 SpA), so Crush Claw (100 BP, 50% Def drop) hits harder. Option: swap Crabhammer
+  for Ancientpower (Relearner, Lv 1 move, 80 BP Rock) for flyers. Superpower at 57.

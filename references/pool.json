@@ -220,6 +220,17 @@
         "Ancientpower",
         "Flash Cannon"
       ]
+    },
+    {
+      "who": "Kingler",
+      "species": "Kingler",
+      "where": "box",
+      "moves": [
+        "Mud Shot",
+        "Crabhammer",
+        "Crush Claw",
+        "X-Scissors"
+      ]
     }
   ]
 }
