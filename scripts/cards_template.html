@@ -102,6 +102,16 @@ h1 { font: 700 clamp(26px, 5vw, 38px)/1.05 var(--display); margin: 0; letter-spa
 .pick .why { font-size: 12.5px; color: var(--muted); flex-basis: 100%; }
 .pick .why.warn { color: var(--danger); }
 footer { margin-top: 22px; color: var(--muted); font-size: 12.5px; max-width: 70ch; }
+/* Widescreen: three cards a row (a party of six reads 3 | 3), team of best fit in one row of six,
+   and each card's moves two by two so the cards stay short. */
+@media (min-width: 1000px) {
+  .wrap { max-width: 1900px; }
+  .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .best-row { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+}
+@media (min-width: 1400px) {
+  .moves { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
 @media (prefers-reduced-motion: no-preference) { .mon { transition: border-color .15s; } .mon:hover { border-color: var(--muted); } }
 </style>
 
