@@ -94,7 +94,7 @@ h1 { font: 700 clamp(26px, 5vw, 38px)/1.05 var(--display); margin: 0; letter-spa
 .member .from { font: 500 10.5px var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
 .member .for { font-size: 12px; color: var(--muted); }
 .member .for strong { color: var(--ink); font-weight: 700; }
-.sugg { display: flex; flex-direction: column; gap: 6px; }
+.sugg { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)); gap: 6px; }
 .pick { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; padding: 7px 10px; border-radius: 6px;
   background: var(--chip); border-left: 3px solid var(--good); }
 .pick b { font-size: 14.5px; }
