@@ -127,3 +127,5 @@ in SKILL.md). Last updated 2026-10-03.
   member between battles. Codes: TM04 Calm Mind 0124, TM13 Ice Beam 012D, TM24 Thunderbolt 0138, TM26 Earthquake 013A,
   TM29 Psychic 013D, TM30 Shadow Ball 013E, TM31 Brick Break 013F, TM35 Flamethrower 0143, TM38 Fire Blast 0146,
   TM40 Aerial Ace 0148, TM50 Overheat 0152. Don't push TMs before then unless asked.
+- Altaria: Dragon Claw, Earthquake, Air Slash, Hyper Voice. Plan: HM02 Fly over Air Slash (Fly carrier), then Heat Wave
+  over Hyper Voice at the Fallarbor Relearner (Altaria Lv 8 move in EK; 100 BP, 100% acc).

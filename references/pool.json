@@ -94,10 +94,10 @@
       "species": "Altaria",
       "where": "box",
       "moves": [
-        "Air Slash",
         "Dragon Claw",
         "Earthquake",
-        "Heat Wave"
+        "Air Slash",
+        "Hyper Voice"
       ]
     },
     {
