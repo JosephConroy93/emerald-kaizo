@@ -129,3 +129,5 @@ in SKILL.md). Last updated 2026-10-03.
   TM40 Aerial Ace 0148, TM50 Overheat 0152. Don't push TMs before then unless asked.
 - Altaria: Dragon Claw, Earthquake, Air Slash, Hyper Voice. Plan: HM02 Fly over Air Slash (Fly carrier), then Heat Wave
   over Hyper Voice at the Fallarbor Relearner (Altaria Lv 8 move in EK; 100 BP, 100% acc).
+- 2026-10-14: cleared all of Route 120 (more trainers than expected). Starting Route 121 (scouting page:
+  https://claude.ai/artifact/3XNQ1rVyb2gjCTaiCpKpW4).
