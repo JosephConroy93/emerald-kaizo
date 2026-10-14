@@ -62,7 +62,7 @@ in SKILL.md). Last updated 2026-10-03.
 - Item numbers: Rare Candy 0044, Sitrus Berry 008E, Lum Berry 008D, Oran Berry 008B,
   Chesto Berry 0086, Cheri Berry 0085, Persim Berry 008C, Liechi Berry 00A8, Salac Berry 00AA,
   Berry Juice 002C, HP Up 003F, Protein 0040, Iron 0041, Carbos 0042, Calcium 0043,
-  Leftovers 00C8, Choice Band 00BA, Thick Club 00E0 (probably), Thunder Stone 0060 (probably), Heart Scale 006F (worked), Nest Ball 0008, TM18 Rain Dance 0132 (probably), Hyper Potion 0015, Full Restore 0013, Max Potion 0014, Revive 0018, Max Revive 0019, Moon Stone 005E (probably; used for Nidoking).
+  Leftovers 00C8, Choice Band 00BA, Thick Club 00E0 (probably), Thunder Stone 0060 (probably), Heart Scale 006F (worked), Nest Ball 0008, TM18 Rain Dance 0132 (probably), Hyper Potion 0015, Full Restore 0013, Max Potion 0014, Revive 0018, Max Revive 0019, Energy Root 001F (800, 200 HP, bitter), Revival Herb 0021 (2800, full revive, bitter), Lemonade 001C, Moon Stone 005E (probably; used for Nidoking).
 - Never enable the EXP codes (they write 0202309C and 020241F0). Every hit did 256 damage and
   levels ran away; auto save states then kept the broken state.
 
@@ -131,3 +131,5 @@ in SKILL.md). Last updated 2026-10-03.
   over Hyper Voice at the Fallarbor Relearner (Altaria Lv 8 move in EK; 100 BP, 100% acc).
 - 2026-10-14: cleared all of Route 120 (more trainers than expected). Starting Route 121 (scouting page:
   https://claude.ai/artifact/3XNQ1rVyb2gjCTaiCpKpW4).
+- Budget healing: berries cost 20 each in Gen 3, and Sitrus (30 HP flat in Gen 3, not 25%) can be used from the bag
+  outside battle, so stacks of Sitrus are the cheapest top-up. Bitter herbs lower friendship (matters for Azurill).
