@@ -133,3 +133,6 @@ in SKILL.md). Last updated 2026-10-03.
   https://claude.ai/artifact/3XNQ1rVyb2gjCTaiCpKpW4).
 - Budget healing: berries cost 20 each in Gen 3, and Sitrus (30 HP flat in Gen 3, not 25%) can be used from the bag
   outside battle, so stacks of Sitrus are the cheapest top-up. Bitter herbs lower friendship (matters for Azurill).
+- 2026-10-15: Team Aqua blocked Lilycove's west entrance from Route 121, but Fly got in. In Lilycove; May (Lv 59-60) not
+  fought yet (Department Store area). Next: Mt. Pyre (10 Aqua grunts + Admin Matt Lv 56-58; no leaving between grunts 5-7).
+  Scouting: https://claude.ai/artifact/ (Mt. Pyre page).
